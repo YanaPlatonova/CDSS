@@ -5,12 +5,15 @@ from bs4 import BeautifulSoup as bs
 import os
 import socks
 import socket
+
 socks.set_default_proxy(socks.SOCKS5, "localhost", 9150)
 socket.socket = socks.socksocket
+
 
 def delay() -> None:
     time.sleep(random.random() * 2)
     return None
+
 
 def checkIP():
     socks.set_default_proxy(socks.SOCKS5, "localhost", 9150)
