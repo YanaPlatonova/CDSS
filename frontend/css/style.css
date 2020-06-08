@@ -1,21 +1,34 @@
-.container {
-    max-width: 960px;
+.controller {
+    background-color: #fff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+.controller_group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex: 1;
 }
 
-.border-top {
-    border-top: 1px solid #e5e5e5;
-}
-.border-bottom {
-    border-bottom: 1px solid #e5e5e5;
-}
-.border-top-gray {
-    border-top-color: #adb5bd;
+.controller_button-wrapper {
+    padding: 0.5rem;
+    text-align: center;
 }
 
-.box-shadow {
-    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+.disease {
+    height: 100%;
+    border-radius: 5px;
+    width: 45%;
+    background-color: #f9f8fd;
+    padding: 1rem;
 }
 
-.lh-condensed {
-    line-height: 1.25;
+.properties {
+    height: 100%;
+    border-radius: 5px;
+    width: 45%;
+    background-color: #f9f8fd;
+    padding: 1rem;
 }
