@@ -1,0 +1,8 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4340\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4722.htm\">\n Калия хлорид + Кальция хлорид + Магния хлорид + Натрия гидрокарбонат + Натрия хлорид + Повидон-12.6 тыс. (Potassium chloride + Calcium chloride + Magnesium chloride + Sodium hydrocarbonate + Sodium chloride + Povidone 12600)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_395.htm\">\n B05AA Кровезаменители и препараты плазмы крови\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_599.htm\">\n   Регуляторы водно-электролитного баланса и КЩС в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-gemodez\">\n</div>\n",
+    "Условия хранения препарата Гемодез": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-gemodez\">\n</div>\n",
+    "Срок годности препарата Гемодез": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+}

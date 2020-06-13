@@ -1,0 +1,6 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"16875\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"gruppa\">\n</div>\n",
+    "Группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/baa_fg_id_595.htm\">\n   Другие БАДы\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-santehvit-diabeticheskij\">\n</div>\n",
+    "Условия хранения препарата Сантэвит диабетический": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-santehvit-diabeticheskij\">\n</div>\n",
+    "Срок годности препарата Сантэвит диабетический": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+}

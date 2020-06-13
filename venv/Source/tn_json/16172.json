@@ -1,0 +1,6 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"16172\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_296.htm\">\n   Гомеопатические средства\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-tonzilar\">\n</div>\n",
+    "Условия хранения препарата Тонзилар®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-tonzilar\">\n</div>\n",
+    "Срок годности препарата Тонзилар®": "<p>\n таблетки подъязычные гомеопатические — 5 лет.\n</p>\n<p>\n таблетки подъязычные гомеопатические  — 5 лет.\n</p>\n<p>\n таблетки гомеопатические — 3 года.\n</p>\n<div>\n</div>\n"
+}

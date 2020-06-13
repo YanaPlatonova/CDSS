@@ -1,0 +1,8 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4574\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5838.htm\">\n Камфора + Хлоралгидрат (Camphor + Chloral hydrate)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_21.htm\">\n A01AD11 Прочие препараты\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_514.htm\">\n   Местные анестетики в комбинациях\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_627.htm\">\n   Стоматологические средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-denta\">\n</div>\n",
+    "Условия хранения препарата Дента": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-denta\">\n</div>\n",
+    "Срок годности препарата Дента": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+}

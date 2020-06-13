@@ -1,0 +1,6 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"150\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_340.htm\">\n Альбумин человека (Albumin human)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_396.htm\">\n B05AA01 Альбумин\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_280.htm\">\n   Средства для энтерального и парентерального питания\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_321.htm\">\n   Заменители плазмы и других компонентов крови\n  </a>\n </li>\n</ul>\n<div>\n</div>\n"
+}

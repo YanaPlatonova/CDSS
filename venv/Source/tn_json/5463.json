@@ -1,0 +1,8 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"5463\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4119.htm\">\n Декстроза + Калия хлорид + Натрия хлорид + Натрия цитрат (Dextrose + Potassium chloride + Sodium chloride + Sodium citrate)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_167.htm\">\n A07CA Регидрататирующие солевые препараты для перорального приема\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_599.htm\">\n   Регуляторы водно-электролитного баланса и КЩС в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-citraglyukosolan\">\n</div>\n",
+    "Условия хранения препарата Цитраглюкосолан": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-citraglyukosolan\">\n</div>\n",
+    "Срок годности препарата Цитраглюкосолан": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+}

@@ -1,0 +1,7 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"572\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_454.htm\">\n Цефтриаксон* (Ceftriaxone*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3429.htm\">\n J01DD04 Цефтриаксон\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_263.htm\">\n   Цефалоспорины\n  </a>\n </li>\n</ul>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Бетаспорина - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/46166\">\n  ЛСР-007701/09 от 2009-10-01\n </a>\n <br/>\n</div>\n<div>\n</div>\n"
+}

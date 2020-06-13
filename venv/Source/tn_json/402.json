@@ -1,0 +1,7 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"402\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3101.htm\">\n V07AY Прочие нелечебные вспомогательные средства\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_314.htm\">\n   Другие диагностические средства\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-pitatel`naya-sreda-№-dlya-kontrolya-mikrobnoj-zagryaznennosti-suxaya\">\n</div>\n",
+    "Условия хранения Питательная среда №10 для контроля микробной загрязненности сухая": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-pitatel`naya-sreda-№-dlya-kontrolya-mikrobnoj-zagryaznennosti-suxaya\">\n</div>\n",
+    "Срок годности Питательная среда №10 для контроля микробной загрязненности сухая": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+}

@@ -1,0 +1,7 @@
+{
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"24547\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3091.htm\">\n V04CX Диагностические препараты другие\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_316.htm\">\n   Иммунобиологические диагностические средства\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-diagen-gardnerella-nabor-reagentov-dlya-vyyavleniya-dnk-gardnerella-vaginalis-metodom-polimeraznoj-cepnoj-reakcii\">\n</div>\n",
+    "Условия хранения ДиаГен-Gardnerella Набор реагентов для выявления ДНК Gardnerella vaginalis методом полимеразной цепной реакции": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-diagen-gardnerella-nabor-reagentov-dlya-vyyavleniya-dnk-gardnerella-vaginalis-metodom-polimeraznoj-cepnoj-reakcii\">\n</div>\n",
+    "Срок годности ДиаГен-Gardnerella Набор реагентов для выявления ДНК Gardnerella vaginalis методом полимеразной цепной реакции": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+}

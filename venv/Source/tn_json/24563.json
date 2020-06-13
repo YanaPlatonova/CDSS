@@ -1,0 +1,6 @@
+{
+    "_before": "<div class=\"drug__replacement\">\n <div class=\"drug__replacement--caption\">\n  Рекомендуется более полная информация:\n </div>\n <ul class=\"drug__replacement--list\">\n  <li class=\"drug__replacement--listitem\">\n   <a class=\"drug__replacement--link\" href=\"//www.rlsnet.ru/mnn_index_id_1724.htm\">\n    Ноноксинол (ДВ)\n   </a>\n  </li>\n </ul>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"24563\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1724.htm\">\n Ноноксинол* (Nonoxinol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1830.htm\">\n G02BB Контрацептивы интравагинальные\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_237.htm\">\n   Контрацептивы негормональные\n  </a>\n </li>\n</ul>\n<div>\n</div>\n"
+}
