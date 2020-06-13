@@ -1,0 +1,147 @@
+<div class="main__content"><!--noindex--><div class="j-banner__group noprint"></div><!--/noindex--><h1>Международная классификация болезней (МКБ-10)</h1><rlsstyle><div id="linktooperatecart"></div></rlsstyle><script type="text/javascript">
+    function clearTag(tag)
+    {
+        c = tag;
+        if (c.hasChildNodes()) {
+            while (c.hasChildNodes())
+            {
+                c.removeChild(c.lastChild);
+            };
+        }
+        
+    }
+
+    function ocl_(id) {
+        cont = document.getElementById('_cont'+id);
+        
+        if (cont.style.display == 'none')
+        {
+           clearTag(cont);
+           cont.style.display = '';
+           tx = document.createTextNode("Загружаю...");
+           cont.appendChild(tx);
+           document.getElementById('img_'+id).className = "tree_exp1";
+           var url = "/mkb_gettreelevel.htm";
+           var pars =  'id='+id;
+           cont.innerHTML = $.ajax({type: "POST", url: url, data: pars, async: false}).responseText;
+            
+        }
+        else
+        {
+            cont.style.display = 'none';
+            document.getElementById('img_'+id).className = "tree_exp0";
+        };
+        return true;
+    }
+    </script><table class="tree_fade"><tbody><tr>
+<td id="img_1" class="tree_exp0" onclick="javascript: return ocl_(1);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_1.htm">A00-В99 КЛАСС I Некоторые инфекционные и паразитарные болезни</a></td>
+</tr></tbody></table><div id="layer_1" style="display:none;"></div><div id="id_1"></div><div id="_cont1" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_938" class="tree_exp0" onclick="javascript: return ocl_(938);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_938.htm">C00-D48 КЛАСС II Новообразования</a></td>
+</tr></tbody></table><div id="layer_938" style="display:none;"></div><div id="id_938"></div><div id="_cont938" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_1810" class="tree_exp0" onclick="javascript: return ocl_(1810);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_1810.htm">D50-D89 КЛАСС III Болезни крови, кроветворных органов и отдельные нарушения, вовлекающие иммунный механизм</a></td>
+</tr></tbody></table><div id="layer_1810" style="display:none;"></div><div id="id_1810"></div><div id="_cont1810" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_2015" class="tree_exp0" onclick="javascript: return ocl_(2015);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_2015.htm">E00-E90 КЛАСС IV Болезни эндокринной системы, расстройства питания и нарушения обмена веществ</a></td>
+</tr></tbody></table><div id="layer_2015" style="display:none;"></div><div id="id_2015"></div><div id="_cont2015" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_2390" class="tree_exp0" onclick="javascript: return ocl_(2390);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_2390.htm">F00-F99 КЛАСС V Психические расстройства и расстройства поведения</a></td>
+</tr></tbody></table><div id="layer_2390" style="display:none;"></div><div id="id_2390"></div><div id="_cont2390" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_2752" class="tree_exp0" onclick="javascript: return ocl_(2752);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_2752.htm">G00-G99 КЛАСС VI Болезни нервной системы</a></td>
+</tr></tbody></table><div id="layer_2752" style="display:none;"></div><div id="id_2752"></div><div id="_cont2752" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_3163" class="tree_exp0" onclick="javascript: return ocl_(3163);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_3163.htm">H00-H59 КЛАСС VII Болезни глаза и его придаточного аппарата</a></td>
+</tr></tbody></table><div id="layer_3163" style="display:none;"></div><div id="id_3163"></div><div id="_cont3163" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_3484" class="tree_exp0" onclick="javascript: return ocl_(3484);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_3484.htm">H60-H95 КЛАСС VIII Болезни уха и сосцевидного отростка</a></td>
+</tr></tbody></table><div id="layer_3484" style="display:none;"></div><div id="id_3484"></div><div id="_cont3484" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_3624" class="tree_exp0" onclick="javascript: return ocl_(3624);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_3624.htm">I00-I99 КЛАСС IX Болезни системы кровообращения</a></td>
+</tr></tbody></table><div id="layer_3624" style="display:none;"></div><div id="id_3624"></div><div id="_cont3624" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_4098" class="tree_exp0" onclick="javascript: return ocl_(4098);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_4098.htm">J00-J99 КЛАСС X Болезни органов дыхания</a></td>
+</tr></tbody></table><div id="layer_4098" style="display:none;"></div><div id="id_4098"></div><div id="_cont4098" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_4392" class="tree_exp0" onclick="javascript: return ocl_(4392);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_4392.htm">K00-K93 КЛАСС XI Болезни органов пищеварения</a></td>
+</tr></tbody></table><div id="layer_4392" style="display:none;"></div><div id="id_4392"></div><div id="_cont4392" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_4863" class="tree_exp0" onclick="javascript: return ocl_(4863);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_4863.htm">L00-L99 КЛАСС XII Болезни кожи и подкожной клетчатки</a></td>
+</tr></tbody></table><div id="layer_4863" style="display:none;"></div><div id="id_4863"></div><div id="_cont4863" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_5269" class="tree_exp0" onclick="javascript: return ocl_(5269);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_5269.htm">M00-M99 КЛАСС XIII Болезни костно-мышечной системы и соединительной ткани</a></td>
+</tr></tbody></table><div id="layer_5269" style="display:none;"></div><div id="id_5269"></div><div id="_cont5269" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_5911" class="tree_exp0" onclick="javascript: return ocl_(5911);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_5911.htm">N00-N99 КЛАСС XIV Болезни мочеполовой системы</a></td>
+</tr></tbody></table><div id="layer_5911" style="display:none;"></div><div id="id_5911"></div><div id="_cont5911" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_6352" class="tree_exp0" onclick="javascript: return ocl_(6352);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_6352.htm">O00-O99 КЛАСС XV Беременность, роды и послеродовой период</a></td>
+</tr></tbody></table><div id="layer_6352" style="display:none;"></div><div id="id_6352"></div><div id="_cont6352" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_6808" class="tree_exp0" onclick="javascript: return ocl_(6808);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_6808.htm">P00-P96 КЛАСС XVI Отдельные состояния, возникающие в перинатальном периоде</a></td>
+</tr></tbody></table><div id="layer_6808" style="display:none;"></div><div id="id_6808"></div><div id="_cont6808" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_7205" class="tree_exp0" onclick="javascript: return ocl_(7205);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_7205.htm">Q00-Q99 КЛАСС XVII Врожденные аномалии [пороки развития], деформации и хромосомные нарушения</a></td>
+</tr></tbody></table><div id="layer_7205" style="display:none;"></div><div id="id_7205"></div><div id="_cont7205" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_7927" class="tree_exp0" onclick="javascript: return ocl_(7927);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_7927.htm">R00-R99 КЛАСС XVIII Симптомы, признаки и отклонения от нормы, выявленные при клинических и лабораторных исследованиях, не классифицированные в других рубриках</a></td>
+</tr></tbody></table><div id="layer_7927" style="display:none;"></div><div id="id_7927"></div><div id="_cont7927" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_8284" class="tree_exp0" onclick="javascript: return ocl_(8284);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_8284.htm">S00-T98 КЛАСС XIX Травмы, отравления и некоторые другие последствия воздействия внешних причин</a></td>
+</tr></tbody></table><div id="layer_8284" style="display:none;"></div><div id="id_8284"></div><div id="_cont8284" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_9767" class="tree_exp0" onclick="javascript: return ocl_(9767);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_9767.htm">V01-Y98 КЛАСС XX Внешние причины заболеваемости и смертности</a></td>
+</tr></tbody></table><div id="layer_9767" style="display:none;"></div><div id="id_9767"></div><div id="_cont9767" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_10653" class="tree_exp0" onclick="javascript: return ocl_(10653);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_10653.htm">Z00-Z99 КЛАСС XXI Факторы, влияющие на состояние здоровья и обращения в учреждения здравоохранения</a></td>
+</tr></tbody></table><div id="layer_10653" style="display:none;"></div><div id="id_10653"></div><div id="_cont10653" class="my_loading_tree" style="display:none;"></div><table class="tree_fade"><tbody><tr>
+<td id="img_11368" class="tree_exp0" onclick="javascript: return ocl_(11368);">
+                    &nbsp;
+                </td>
+<td class="tree_pad1"><a class="classification__link classification__link--upper" href="//www.rlsnet.ru/mkb_index_id_11368.htm">Z100* КЛАСС XXII Хирургическая практика</a></td>
+</tr></tbody></table><div id="layer_11368" style="display:none;"></div><div id="id_11368"></div><div id="_cont11368" class="my_loading_tree" style="display:none;"></div>
+<!--noindex--><div class="j-banner__group noprint"></div><!--/noindex--></div>

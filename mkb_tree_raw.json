@@ -1,4 +1,4 @@
-var tree = [
+[
     {
         "id": "1",
         "text": "A00-В99 КЛАСС I Некоторые инфекционные и паразитарные болезни",
@@ -13349,33 +13349,4 @@ var tree = [
             }
         ]
     }
-];
-
-
-function getTree() {
-    return tree;
-}
-
-$(document).ready(function () {
-    var searchableTree = $('#tree').treeview({
-        data: getTree(), 
-        expandIcon: "fa fa-plus",
-        collapseIcon: "fa fa-minus",
-    });
-    var inputSearch = $('#input-search');
-
-    var search = function (e) {
-        var pattern = inputSearch.val();
-        var options = {
-            ignoreCase: true,
-            exactMatch: false,
-            revealResults: true,
-
-        };
-
-        var results = searchableTree.treeview('search', [pattern, options]);
-        console.log(results);
-    }
-
-    inputSearch.on('input', search);
-});
+]
