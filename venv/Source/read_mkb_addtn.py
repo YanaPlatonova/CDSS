@@ -18,6 +18,7 @@ def find_in_info(id):
 
 def add_info(node):
     id = int(node["id"])
+    node["id"] = id
     info_mkb = find_in_info(id)
     fg = []
     mnn = []
@@ -27,7 +28,7 @@ def add_info(node):
         mnn = info_mkb["mnn"]
         tn = info_mkb["tn"]
     node["fg"] = fg
-    node["mnn"] = mnn
+    node["fg"] = fg
     node["tn"] = tn
 
     return info_mkb
