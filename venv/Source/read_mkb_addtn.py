@@ -28,7 +28,7 @@ def add_info(node):
         mnn = info_mkb["mnn"]
         tn = info_mkb["tn"]
     node["fg"] = fg
-    node["fg"] = mnn
+    node["mnn"] = mnn
     node["tn"] = tn
 
     return info_mkb
