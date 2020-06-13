@@ -21,46 +21,82 @@
           <div class="input-group-prepend">
             <span class="input-group-text" id="inputGroup-sizing-default">Поиск:</span>
           </div>
-          <input type="text" class="form-control"  id="input-search" aria-describedby="inputGroup-sizing-default">
+          <input type="text" class="form-control" id="input-search" aria-describedby="inputGroup-sizing-default">
         </div>
         <div id="tree"></div>
       </div>
       <div class="properties">
         <form>
-          <div class="form-group">
-            <label for="exampleFormControlInput1">Email address</label>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+          <div class="form-group row">
+            <label for="age" class="col-sm-2 col-form-label">Возраст: </label>
+            <div class="col-sm-10">
+              <input type="number" class="form-control" id="age">
+            </div>
           </div>
+          <div class="row">
+            <legend class="col-form-label col-sm-2 pt-0">Пол:</legend>
+            <div class="col-sm-10">
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="gridRadios" id="male" value="male" checked>
+                <label class="form-check-label" for="male">
+                  Мужской
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="radio" name="gridRadios" id="female" value="female">
+                <label class="form-check-label" for="female">
+                  Женский
+                </label>
+              </div>
+
+            </div>
+          </div>
+          <hr />
           <div class="form-group">
-            <label for="exampleFormControlSelect1">Example select</label>
-            <select class="form-control" id="exampleFormControlSelect1">
-              <option>1</option>
-              <option>2</option>
-              <option>3</option>
-              <option>4</option>
-              <option>5</option>
+            <label for="pregnancy">Беременность:</label>
+            <select class="form-control" id="pregnancy">
+              <option>Нет</option>
+              <option>I</option>
+              <option>II</option>
+              <option>III</option>
             </select>
           </div>
           <div class="form-group">
-            <label for="exampleFormControlSelect2">Example multiple select</label>
-            <select multiple class="form-control" id="exampleFormControlSelect2">
-              <option>1</option>
-              <option>2</option>
-              <option>3</option>
-              <option>4</option>
-              <option>5</option>
-            </select>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="lactation">
+              <label class="form-check-label" for="lactation">
+                Грудное вскармливание
+              </label>
+            </div>
           </div>
           <div class="form-group">
-            <label for="exampleFormControlTextarea1">Example textarea</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="drive">
+              <label class="form-check-label" for="drive">
+                Управление транспортными стредсвами и механизмами
+              </label>
+            </div>
+          </div>
+          <hr>
+          <div class="form-group">
+            <label for="group_allerg">Аллергия:</label>
+            <textarea class="form-control" id="group_allerg" rows="4"></textarea>
+          </div>
+          <div class="form-group">
+            <label for="andWith">Сопутсвующие заболевания, генетические предрасположенности:</label>
+            <textarea class="form-control" id="andWith" rows="4"></textarea>
+          </div>
+          <div class="form-group">
+            <label for="andTn">Принимаемые лекарства:</label>
+            <textarea class="form-control" id="andTn" rows="4"></textarea>
+          </div>
+          <div class="controller_button-wrapper">
+            <button type="button" class="btn btn-success btn-lg">Поиск</button>
           </div>
         </form>
       </div>
     </div>
-    <div class="controller_button-wrapper">
-      <button type="button" class="btn btn-success btn-lg">Поиск</button>
-    </div>
+
   </div>
 
 
