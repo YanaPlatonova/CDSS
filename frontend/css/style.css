@@ -32,3 +32,9 @@
     background-color: #f9f8fd;
     padding: 1rem;
 }
+
+
+#tree {
+    overflow-y: auto;
+    height: 924px;
+}
