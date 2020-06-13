@@ -7,7 +7,19 @@ import time
 from bs4 import BeautifulSoup
 
 files = glob.glob("/Users/grishy/projects/CDSS/tree/*.json")
-files.sort()
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    '''
+    return [ atoi(c) for c in re.split(r'(\d+)', text) ]
+
+
+files.sort(key=natural_keys)
 
 result = []
 for f in files:
