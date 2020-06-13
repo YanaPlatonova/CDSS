@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/bootstrap-treeview.min.css">
   <link rel="stylesheet" href="/css/style.css">
@@ -16,6 +17,12 @@
   <div class="controller">
     <div class="controller_group">
       <div class="disease">
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default">Поиск:</span>
+          </div>
+          <input type="text" class="form-control"  id="input-search" aria-describedby="inputGroup-sizing-default">
+        </div>
         <div id="tree"></div>
       </div>
       <div class="properties">
