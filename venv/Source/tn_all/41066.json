@@ -1,0 +1,21 @@
+{
+    "Название": "ВизОптик ",
+    "_before": "<div class=\"drug__replacement\">\n <div class=\"drug__replacement--caption\">\n  Рекомендуются более актуальные описания:\n </div>\n <ul class=\"drug__replacement--list\">\n  <li class=\"drug__replacement--listitem\">\n   <a class=\"drug__replacement--link\" href=\"//www.rlsnet.ru/tn_index_id_35561.htm\">\n    Монтевизин\n   </a>\n  </li>\n </ul>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"41066\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1659.htm\">\n Тетризолин* (Tetryzoline*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2216.htm\">\n S01GA02 Тетризолин\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_160.htm\">\n   Альфа-адреномиметики\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_633.htm\">\n   Офтальмологические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3197.htm\">\n   H04.9 Болезнь слезного аппарата неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3215.htm\">\n   H10.1 Острый атопический конъюнктивит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3227.htm\">\n   H11.4 Другие конъюнктивальные васкулярные болезни и кисты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3229.htm\">\n   H11.9 Болезнь конъюнктивы неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3451.htm\">\n   H53.1 Субъективные зрительные расстройства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3473.htm\">\n   H57.8 Другие неуточненные болезни глаза и придаточного аппарата\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3474.htm\">\n   H57.9 Нарушение глаза и придаточного аппарата неуточненное\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_10651.htm\">\n   Y97 Факторы, связанные с загрязнением окружающей среды\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11042.htm\">\n   Z58 Проблемы, связанные с физическими факторами окружающей среды\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        3451,
+        3197,
+        10651,
+        3227,
+        3215,
+        3229,
+        3473,
+        3474,
+        11042
+    ],
+    "id": 41066
+}

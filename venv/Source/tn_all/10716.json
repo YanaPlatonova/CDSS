@@ -1,0 +1,14 @@
+{
+    "Название": "Аллопуринола таблетки 0,1 г ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"10716\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_298.htm\">\n Аллопуринол* (Allopurinol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1079.htm\">\n M04AA01 Аллопуринол\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_150.htm\">\n   Средства, влияющие на обмен мочевой кислоты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2325.htm\">\n   E79.0 Гиперурикемия без признаков воспалительного артрита и подагрических узлов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5336.htm\">\n   M10 Подагра\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5979.htm\">\n   N20-N23 Мочекаменная болезнь\n  </a>\n </li>\n</ul>\n<div>\n</div>\n",
+    "id_disease": [
+        5336,
+        2325,
+        5979
+    ],
+    "id": 10716
+}

@@ -1,0 +1,20 @@
+{
+    "Название": "Цигнодерм ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3573\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1757.htm\">\n Дитранол* (Dithranol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_242.htm\">\n   Дерматотропные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4999.htm\">\n   L40 Псориаз\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n Мазь содержит дитранола 0,1%, в тубах по 40 г.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антисептическое, противопсориатическое\n</span>\n<div id=\"pokazaniya-preparata-cignoderm\">\n</div>\n",
+    "Показания препарата Цигнодерм": "<p class=\"OPIS_POLE\">\n Псориаз обыкновенный.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Острый высыпной псориаз с эритродермией, экссудативный и пустулезный псориаз; мочекаменная болезнь, беременность, возраст (до 12 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Гиперемия, жжение, окрашивание здоровой кожи и волос в коричневый цвет.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Накожно, наносят тонкий слой на пораженные участки кожи, через 5–30 мин (при отсутствии побочных явлений — через 60 мин) мазь стирают ватой, кожу промывают теплой водой с большим количеством мыла; курс не более 4\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Избегать попадания препарата на лицо и слизистые оболочки. Во избежание окраски кожи рук аппликацию мази проводят в одноразовых перчатках.\n</p>\n<div id=\"usloviya-xraneniya-preparata-cignoderm\">\n</div>\n",
+    "Условия хранения препарата Цигнодерм": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-cignoderm\">\n</div>\n",
+    "Срок годности препарата Цигнодерм": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4999
+    ],
+    "id": 3573
+}

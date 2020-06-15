@@ -1,0 +1,17 @@
+{
+    "Название": "ЭФФЕКС® Трибулус",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"94917\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5060.htm\">\n Якорцев стелющихся травы экстракт (Tribuli terrestris herbae extract)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_528.htm\">\n G04BE Средства, применяемые при эректильной дисфункции\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_306.htm\">\n   Другие гиполипидемические средства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_310.htm\">\n   Другие средства, регулирующие функцию органов мочеполовой системы и репродукцию\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2314.htm\">\n   E78 Нарушения обмена липопротеинов и другие липидемии\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2598.htm\">\n   F52.2 Недостаточность генитальной реакции\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4055.htm\">\n   I86.1 Варикозное расширение вен мошонки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6093.htm\">\n   N46 Мужское бесплодие\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11368.htm\">\n   Z100* КЛАСС XXII Хирургическая практика\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-ehffeks-tribulus\">\n</div>\n",
+    "Условия хранения препарата ЭФФЕКС® Трибулус": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ehffeks-tribulus\">\n</div>\n",
+    "Срок годности препарата ЭФФЕКС® Трибулус": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2314,
+        11368,
+        4055,
+        6093
+    ],
+    "id": 94917
+}

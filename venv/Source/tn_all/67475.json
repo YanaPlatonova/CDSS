@@ -1,0 +1,26 @@
+{
+    "Название": "Привиджен ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"67475\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_2427.htm\">\n Иммуноглобулин человека нормальный (Immunoglobulin human normal)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_819.htm\">\n J06BA02 Иммуноглобулин нормальный человеческий для в/в введения\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_35.htm\">\n   Иммуноглобулины\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_265.htm\">\n   A49.9 Бактериальная инфекция неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_547.htm\">\n   B20 Болезнь, вызванная вирусом иммунодефицита человека [ВИЧ], проявляющаяся в виде инфекционных и паразитарных болезней\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1425.htm\">\n   C90.0 Множественная миелома\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1428.htm\">\n   C91 Лимфоидный лейкоз [лимфолейкоз]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1920.htm\">\n   D69.3 Идиопатическая тромбоцитопеническая пурпура\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1960.htm\">\n   D80 Иммунодефициты с преимущественной недостаточностью антител\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1961.htm\">\n   D80.0 Наследственная гипогаммаглобулинемия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1971.htm\">\n   D81 Комбинированные иммунодефициты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1983.htm\">\n   D82.0 Синдром Вискотта-Олдрича\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2000.htm\">\n   D84.9 Иммунодефицит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2881.htm\">\n   G37.9 Демиелинизирующая болезнь центральной нервной системы неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3020.htm\">\n   G61.0 Синдром Гийена-Барре\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5477.htm\">\n   M30.3 Слизисто-кожный лимфонодулярный синдром [Кавасаки]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11368.htm\">\n   Z100* КЛАСС XXII Хирургическая практика\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11326.htm\">\n   Z94.8 Наличие другого трансплантированного органа или ткани\n  </a>\n </li>\n</ul>\n<div>\n</div>\n",
+    "id_disease": [
+        2000,
+        2881,
+        3020,
+        1971,
+        547,
+        1961,
+        1425,
+        1960,
+        1428,
+        11368,
+        1983,
+        5477,
+        265,
+        11326,
+        1920
+    ],
+    "id": 67475
+}

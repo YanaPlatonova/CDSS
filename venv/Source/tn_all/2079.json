@@ -1,0 +1,24 @@
+{
+    "Название": "Метотрексат ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  06.06.2006\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2079\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_955.htm\">\n Метотрексат* (Methotrexate*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_873.htm\">\n L01BA01 Метотрексат\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_270.htm\">\n   Антиметаболиты\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<div class=\"tw\">\n <table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Раствор для инъекций\n    </td>\n    <td class=\"PrepInSost_Val\">\n     1 мл\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     метотрексат BP\n    </td>\n    <td class=\"CompSost_Val\">\n     25 мг\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     метилпарабен BP\n    </td>\n    <td class=\"CompSost_Val\">\n     0,08% в/о\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     пропилпарабен BP\n    </td>\n    <td class=\"CompSost_Val\">\n     0,02% в/о\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     вода для инъекций BP\n    </td>\n    <td class=\"CompSost_Val\">\n     достаточное количество\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<p class=\"PrepUpack\">\n во флаконах по 2 мл; в пачке картонной 10 флаконов.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n <i>\n  В/м или\n  <span class=\"sokr\" title=\"внутривенно\">\n   в/в\n  </span>\n  .\n </i>\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n При лечении острой лимфобластической лейкемии — 20–30 мг/м\n <sup>\n  2\n </sup>\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n 2 раза в неделю. Как альтернатива — 2,5 мг/кг\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n каждые 14 дней.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Обычная доза при лечении хориокарциномы — 15–30 мг/м\n <sup>\n  2\n </sup>\n ежедневно в течение 5 дней. Такие курсы могут повторяться от 3 до 5 раз по необходимости, с перерывами в лечении от 1\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n и более. При паллиативном лечении в случае неоперабельной сóлидной опухоли — 25–50 мг/м\n <sup>\n  2\n </sup>\n еженедельно инъекционно.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n При острой лимфобластической лейкемии ремиссия достигалась при назначении 20–40 мг/м\n <sup>\n  2\n </sup>\n поверхности тела 2 раза в неделю при\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n или\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n введении. Доза поддерживающей терапии — 15–30 мг/м\n <sup>\n  2\n </sup>\n поверхности тела 1 или 2 раза в неделю\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n или\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n .\n</p>\n<div id=\"usloviya-xraneniya-preparata-metotreksat\">\n</div>\n",
+    "Условия хранения препарата Метотрексат": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-metotreksat\">\n</div>\n",
+    "Срок годности препарата Метотрексат": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        1240,
+        1227,
+        1168,
+        1394,
+        1208,
+        4999,
+        1460,
+        1259,
+        1274
+    ],
+    "id": 2079
+}

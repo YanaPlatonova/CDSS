@@ -1,0 +1,15 @@
+{
+    "Название": "Нутрифлекс 40/80 ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"31671\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4601.htm\">\n Аминокислоты для парентерального питания + Прочие препараты [Декстроза + Минералы] (Aminoacids for parenteral nutrition+Other medicines [Dextrose+Multimineral])\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2596.htm\">\n B05BA10 Комбинированные препараты для парентерального питания\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_621.htm\">\n   Белки и аминокислоты в комбинациях\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_622.htm\">\n   Средства для энтерального и парентерального питания в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2180.htm\">\n   E46 Белково-энергетическая недостаточность неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2224.htm\">\n   E61.7 Недостаточность многих элементов питания\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-nutrifleks-\">\n</div>\n",
+    "Условия хранения препарата Нутрифлекс 40/80": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-nutrifleks-\">\n</div>\n",
+    "Срок годности препарата Нутрифлекс 40/80": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2180,
+        2224
+    ],
+    "id": 31671
+}

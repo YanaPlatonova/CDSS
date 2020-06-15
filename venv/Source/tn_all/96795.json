@@ -1,0 +1,13 @@
+{
+    "Название": "Зидовудин+Ламивудин ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"96795\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3379.htm\">\n Зидовудин + Ламивудин (Zidovudine + Lamivudine)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3792.htm\">\n J05AR01 Зидовудин + ламивудин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_642.htm\">\n   Средства для лечения ВИЧ-инфекции в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_546.htm\">\n   B20-B24 Болезнь, вызванная вирусом иммунодефицита человека [ВИЧ]\n  </a>\n </li>\n</ul>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Зидовудин+Ламивудин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40617\">\n  ЛП-004164 от 2017-02-28\n </a>\n <br/>\n Зидовудин+Ламивудин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40515\">\n  ЛП-004062 от 2019-02-08\n </a>\n <br/>\n Зидовудин+Ламивудин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/39828\">\n  ЛП-003375 от 2017-05-10\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        546
+    ],
+    "id": 96795
+}

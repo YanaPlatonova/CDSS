@@ -1,0 +1,27 @@
+{
+    "Название": "Рифакомб ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"10986\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4196.htm\">\n Изониазид + Рифампицин + [Пиридоксин] (Isoniazid + Rifampicin+ [Pyridoxine])\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_776.htm\">\n J04AM02 Рифампицин + изониазид\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_533.htm\">\n   Другие синтетические антибактериальные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_72.htm\">\n   A15 Туберкулез органов дыхания, подтвержденный бактериологически и гистологически\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_71.htm\">\n   A15-A19 Туберкулез\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_83.htm\">\n   A16 Туберкулез органов дыхания, не подтвержденный бактериологически или гистологически\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_93.htm\">\n   A17 Туберкулез нервной системы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_98.htm\">\n   A18 Туберкулез других органов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_108.htm\">\n   A19 Милиарный туберкулез\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_171.htm\">\n   A30 Лепра [болезнь Гансена]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_259.htm\">\n   A49 Бактериальная инфекция неуточненной локализации\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_297.htm\">\n   A54 Гонококковая инфекция\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4152.htm\">\n   J15.2 Пневмония, вызванная стафилококком\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4252.htm\">\n   J40 Бронхит, не уточненный как острый или хронический\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4815.htm\">\n   K83.0 Холангит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5807.htm\">\n   M86 Остеомиелит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6061.htm\">\n   N39.0 Инфекция мочевыводящих путей без установленной локализации\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-rifakomb\">\n</div>\n",
+    "Условия хранения препарата Рифакомб": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-rifakomb\">\n</div>\n",
+    "Срок годности препарата Рифакомб": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        83,
+        108,
+        5807,
+        6061,
+        297,
+        93,
+        171,
+        4815,
+        4152,
+        259,
+        98,
+        72,
+        4252,
+        71
+    ],
+    "id": 10986
+}

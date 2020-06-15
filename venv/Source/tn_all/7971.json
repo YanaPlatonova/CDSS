@@ -1,0 +1,24 @@
+{
+    "Название": "АЦЦ® 200 ",
+    "_before": "<div class=\"drug__replacement\">\n <div class=\"drug__replacement--caption\">\n  Рекомендуются более актуальные описания:\n </div>\n <ul class=\"drug__replacement--list\">\n  <li class=\"drug__replacement--listitem\">\n   <a class=\"drug__replacement--link\" href=\"//www.rlsnet.ru/tn_index_id_93738.htm\">\n    Эспа-Нац\n   </a>\n  </li>\n </ul>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"7971\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_404.htm\">\n Ацетилцистеин* (Acetylcysteine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2080.htm\">\n R05CB01 Ацетилцистеин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_38.htm\">\n   Отхаркивающее муколитическое средство\n   <span class=\"fgrls\">\n    [Секретолитики и стимуляторы моторной функции дыхательных путей]\n   </span>\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2350.htm\">\n   E84.0 Кистозный фиброз с легочными проявлениями\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3523.htm\">\n   H66.9 Средний отит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4101.htm\">\n   J01 Острый синусит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4169.htm\">\n   J18 Пневмония без уточнения возбудителя\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4176.htm\">\n   J20 Острый бронхит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4187.htm\">\n   J21 Острый бронхиолит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4205.htm\">\n   J32 Хронический синусит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4257.htm\">\n   J42 Хронический бронхит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4264.htm\">\n   J44 Другая хроническая обструктивная легочная болезнь\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4269.htm\">\n   J45 Астма\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4275.htm\">\n   J47 Бронхоэктатическая болезнь [бронхоэктаз]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7973.htm\">\n   R09.3 Мокрота\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        4101,
+        7973,
+        4275,
+        4264,
+        3523,
+        4176,
+        4205,
+        4169,
+        4187,
+        4257,
+        4269,
+        2350
+    ],
+    "id": 7971
+}

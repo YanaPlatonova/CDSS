@@ -1,0 +1,13 @@
+{
+    "Название": "Феминальгин",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"6219\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_296.htm\">\n   Гомеопатические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6305.htm\">\n   N94.0 Боли в середине менструального цикла\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6308.htm\">\n   N94.3 Синдром предменструального напряжения\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-feminal`gin\">\n</div>\n",
+    "Условия хранения препарата Феминальгин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-feminal`gin\">\n</div>\n",
+    "Срок годности препарата Феминальгин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        6305,
+        6308
+    ],
+    "id": 6219
+}

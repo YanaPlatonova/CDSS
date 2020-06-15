@@ -1,0 +1,18 @@
+{
+    "Название": "Депурафлукс® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"1201\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_231.htm\">\n   Слабительные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4679.htm\">\n   K59.0 Запор\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 25 г растворимого чая содержат 11,014 г обезвоженного экстракта следующего состава: кора крушины 18 г, плод аниса 5 г, плод тмина 3,7 г, плод кориандра 6 г, плод фенхеля 3,5 г, листья мяты перечной 1,5 г, листья сенны 15 г, трава золототысячника 0,4 г, трава хвоща 24 г; порошок по 37,5 г, во флаконе вместимостью 150 мл и порошок по 75 г, во флаконе вместимостью 300 мл, в картонной коробке 1 флакон.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — слабительное\n</span>\n<p class=\"OPIS_POLE\">\n Влияет преимущественно на толстый кишечник. Слабительный эффект обеспечивают кора крушины и лист сенны: антрагликозиды крушины (гликофрангулин и др.) и гликозиды сенны (сеннозиды А и Б) в кишечнике распадаются и редуцируются кишечными бактериальными энзимами в антроны и антранолы, усиливающие перистальтику и секреторные функции толстого кишечника. Депурафлукс стимулирует выработку желудочно-кишечного сока, обладает ветрогонным и спазмолитическим эффектами (анис, тмин, кориандр, фенхель, мята, золототысячник). Компоненты хвоща полевого (соединения кремния) нормализуют состояние поврежденного эпителия слизистых оболочек.\n</p>\n<div id=\"klinicheskaya-farmakologiya\">\n</div>\n",
+    "Клиническая фармакология": "<p class=\"OPIS_POLE\">\n Действие чая наступает через 8–10 ч.\n</p>\n<div id=\"pokazaniya-preparata-depurafluks\">\n</div>\n",
+    "Показания препарата Депурафлукс®": "<p class=\"OPIS_POLE\">\n Острые и хронические запоры.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Кишечная непроходимость.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 1 чашке в день (одна чайная ложка на чашку) вечером или утром (натощак). Чай можно подсластить. Флакон следует немедленно закупоривать.\n</p>\n<div id=\"usloviya-xraneniya-preparata-depurafluks\">\n</div>\n",
+    "Условия хранения препарата Депурафлукс®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-depurafluks\">\n</div>\n",
+    "Срок годности препарата Депурафлукс®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4679
+    ],
+    "id": 1201
+}

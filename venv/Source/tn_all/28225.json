@@ -1,0 +1,17 @@
+{
+    "Название": "Аллокин-альфа ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"28225\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4589.htm\">\n Гистидил-глицил-валил-серил-глицил-гистидил-глицил-глутаминил-гистидил-глицил-валил-гистидил-глицин (Hystidyl-glycyl-valyl-seryl-glycyl-hystidyl-glycyl-glutaminyl-hystidyl-glycyl-valyl-hystidyl-glycine)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_811.htm\">\n J05AX Прочие противовирусные препараты\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_630.htm\">\n   Противовирусные (за исключением ВИЧ) средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_484.htm\">\n   B00.9 Герпетическая инфекция неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_527.htm\">\n   B16 Острый гепатит B\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_609.htm\">\n   B34 Вирусная инфекция неуточненной локализации\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_934.htm\">\n   B97.7 Папилломавирусы\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-allokin-al`fa\">\n</div>\n",
+    "Условия хранения препарата Аллокин-альфа": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-allokin-al`fa\">\n</div>\n",
+    "Срок годности препарата Аллокин-альфа": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        527,
+        484,
+        609,
+        934
+    ],
+    "id": 28225
+}

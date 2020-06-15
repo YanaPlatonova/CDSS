@@ -1,0 +1,18 @@
+{
+    "Название": "Топирамат-ТЛ ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"87739\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_2778.htm\">\n Топирамат* (Topiramate*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1217.htm\">\n N03AX11 Топирамат\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_289.htm\">\n   Противоэпилептические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2884.htm\">\n   G40.0 Локализованная (фокальная) (парциальная) идиопатическая эпилепсия и эпилептические синдромы с судорожными припадками с фокальным началом\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2885.htm\">\n   G40.1 Локализованная (фокальная) (парциальная) симптоматическая эпилепсия и эпилептические синдромы с простыми парциальными припадками\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2886.htm\">\n   G40.2 Локализованная (фокальная) (парциальная) симптоматическая эпилепсия и эпилептические синдромы с комплексными парциальными судорожными припадками\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2887.htm\">\n   G40.3 Генерализованная идиопатическая эпилепсия и эпилептические синдромы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2888.htm\">\n   G40.4 Другие виды генерализованной эпилепсии и эпилептических синдромов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2900.htm\">\n   G43 Мигрень\n  </a>\n </li>\n</ul>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Топирамат-ТЛ - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/39826\">\n  ЛП-003373 от 2018-02-27\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        2887,
+        2886,
+        2884,
+        2885,
+        2888,
+        2900
+    ],
+    "id": 87739
+}

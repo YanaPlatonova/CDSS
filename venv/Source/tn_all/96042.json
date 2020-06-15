@@ -1,0 +1,17 @@
+{
+    "Название": "АКТ-ХИБ® ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"96042\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5111.htm\">\n Вакцина для профилактики инфекций, вызываемых Haemophilus influenzae тип b (Haemophilus influenzae vaccine type b)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_826.htm\">\n J07AG01 Haemophilus influenzae B антиген очищенный конъюгированный\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_180.htm\">\n   Вакцины, сыворотки, фаги и анатоксины\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_208.htm\">\n   A39 Менингококковая инфекция\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_233.htm\">\n   A41.9 Септицемия неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2754.htm\">\n   G00 Бактериальный менингит, не классифицированный в других рубриках\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4169.htm\">\n   J18 Пневмония без уточнения возбудителя\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-akt-xib-vakcina-dlya-profilaktiki-infekcii-vyzyvaemoj-haemophilus-influenzae-tip-b-kon``yugirovannaya\">\n</div>\n",
+    "Условия хранения препарата АКТ-ХИБ® (вакцина для профилактики инфекции, вызываемой Haemophilus influenzae тип b, конъюгированная)": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-akt-xib-vakcina-dlya-profilaktiki-infekcii-vyzyvaemoj-haemophilus-influenzae-tip-b-kon``yugirovannaya\">\n</div>\n",
+    "Срок годности препарата АКТ-ХИБ® (вакцина для профилактики инфекции, вызываемой Haemophilus influenzae тип b, конъюгированная)": "<p>\n лиофилизат для приготовления раствора для внутримышечного и подкожного введения — 3 года.\n</p>\n<p>\n лиофилизат для приготовления раствора для внутримышечного и подкожного введения 10 мкг/0.5 мл 10 мкг/0.5 — 3 года. 5 лет растворитель\n</p>\n<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        233,
+        208,
+        4169,
+        2754
+    ],
+    "id": 96042
+}

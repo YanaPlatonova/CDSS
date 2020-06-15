@@ -1,0 +1,25 @@
+{
+    "Название": "Пейн ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"6693\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_296.htm\">\n   Гомеопатические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5467.htm\">\n   M25.5 Боль в суставе\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5746.htm\">\n   M79.1 Миалгия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5747.htm\">\n   M79.2 Невралгия и неврит неуточненные\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8128.htm\">\n   R51 Головная боль\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8132.htm\">\n   R52.2 Другая постоянная боль\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит Cajuputum D\n <sub>\n  4\n </sub>\n , Camphora D\n <sub>\n  4\n </sub>\n , Capsicum annum D\n <sub>\n  4\n </sub>\n , Gaultheria procumbens D\n <sub>\n  4\n </sub>\n , Ipecacuanha D\n <sub>\n  4\n </sub>\n , Lobelia inflata D\n <sub>\n  4\n </sub>\n , Pothos foetida D\n <sub>\n  4\n </sub>\n , Sanguinaria canadensis D\n <sub>\n  4\n </sub>\n ; в упаковке 50 шт. Вспомогательные вещества — лактоза 297 мг, магния стеарат 3 мг.\n</p>\n<div id=\"xarakteristika\">\n</div>\n",
+    "Характеристика": "<p class=\"OPIS_POLE\">\n Гомеопатический препарат.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — адаптогенное, иммуностимулирующее, анальгезирующее\n</span>\n<div id=\"pokazaniya-preparata-pejn\">\n</div>\n",
+    "Показания препарата Пейн": "<p class=\"OPIS_POLE\">\n Умеренный болевой синдром: невралгия, мышечная, ревматическая, головная боли.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Нет.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Не противопоказано. Рекомендуется консультация врача до начала приема.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Не выявлены.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Сублингвально (держать во рту до полного растворения). Взрослым — по 1 табл. каждые 10–20 мин до облегчения состояния, затем — по 1 табл. каждые 1–2 ч до полного исчезновения болей; в дальнейшем — по 1 табл. 4 раза в день. Детям в возрасте 2–12 лет назначают половину дозы для взрослых.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Для обеспечения полной эффективности не рекомендуется есть, полоскать горло, чистить зубы в течение 15–30 мин после приема. Если улучшение не наступает после 5 дней лечения, следует проконсультироваться с врачом.\n</p>\n<div id=\"usloviya-xraneniya-preparata-pejn\">\n</div>\n",
+    "Условия хранения препарата Пейн": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-pejn\">\n</div>\n",
+    "Срок годности препарата Пейн": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        5747,
+        8128,
+        5746,
+        5467,
+        8132
+    ],
+    "id": 6693
+}

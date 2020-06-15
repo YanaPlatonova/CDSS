@@ -1,0 +1,24 @@
+{
+    "Название": "Метионин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  19.07.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4789\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_809.htm\">\n Метионин* (Methionine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_119.htm\">\n A05BA Препараты для лечения заболеваний печени\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_197.htm\">\n   Белки и аминокислоты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_222.htm\">\n   Гепатопротекторы\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2180.htm\">\n   E46 Белково-энергетическая недостаточность неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4742.htm\">\n   K71 Токсическое поражение печени\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4763.htm\">\n   K74 Фиброз и цирроз печени\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4779.htm\">\n   K76.0 Жировая дегенерация печени, не классифицированная в других рубриках\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8175.htm\">\n   R64 Кахексия\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая оболочкой, содержит метионина 0,25 г; в контурной ячейковой упаковке 10 шт., в картонной коробке 5 упаковок.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — гепатопротективное\n</span>\n<p class=\"OPIS_POLE\">\n Как донор метильной группы участвует в процессах метилирования, обладает липотропным влиянием, нормализует синтез фосфолипидов и холина.\n</p>\n<div id=\"pokazaniya-preparata-metionin\">\n</div>\n",
+    "Показания препарата Метионин": "<p class=\"OPIS_POLE\">\n Заболевания печени (цирроз, алкогольная гепатопатия, токсический гепатит); дистрофия, белковая недостаточность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тошнота, рвота.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, за 0,5–1 ч до еды — по 0,5–1,5 г 3–4 раза в сутки; детям до 1 года — 0,1 г, до 2 лет — 0,2 г, 3–4 лет — 0,25 г, 5–6 лет — 0,3 г, от 7 лет и старше — 0,5 г. Курс — 10–30 дней или по 10 дней с 10-дневными перерывами.\n</p>\n<div id=\"usloviya-xraneniya-preparata-metionin\">\n</div>\n",
+    "Условия хранения препарата Метионин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-metionin\">\n</div>\n",
+    "Срок годности препарата Метионин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        8175,
+        4763,
+        4779,
+        4742,
+        2180
+    ],
+    "id": 4789
+}

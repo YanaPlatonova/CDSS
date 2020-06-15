@@ -1,0 +1,23 @@
+{
+    "Название": "Деперзолон ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  02.07.2007\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3788\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_697.htm\">\n Мазипредон* (Mazipredone*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_572.htm\">\n H02AB Глюкокортикоиды\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_287.htm\">\n   Глюкокортикостероидное средство\n   <span class=\"fgrls\">\n    [Глюкокортикостероиды]\n   </span>\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<div class=\"tw\">\n <table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Раствор для внутривенного и внутримышечного введения\n    </td>\n    <td class=\"PrepInSost_Val\">\n     1 мл\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     мазипредона гидрохлорид\n    </td>\n    <td class=\"CompSost_Val\">\n     30 мг\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost_Clear\">\n     <i>\n      вспомогательные вещества:\n     </i>\n     бензиловый спирт; этанол (96%); пропиленгликоль; вода для инъекций\n    </td>\n    <td>\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<p class=\"PrepUpack\">\n в ампулах из коричневого стекла первого гидролитического класса по 1 мл; в коробке 3 ампулы.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противовоспалительное, противоаллергическое, противошоковое\n</span>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n <i>\n  В/в\n </i>\n или\n <i>\n  в/м.\n </i>\n Взрослым, при шоке, резистентном к стандартной терапии, одноразовая доза — 30–90 мг\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n струйно медленно (примерно 3 мин) или капельно. Максимальная суточная доза — 150–300 мг.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n При невозможности\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n введения можно вводить глубоко в ягодичную мышцу, при этом действие наступает позже.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n В случае необходимости дополнительно вводят 30–60 мг препарата\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n или\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n .\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n При прочих показаниях одноразовая доза — 30–45 мг\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n медленно или\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n (в ягодичную мышцу). При улучшении состояния лечение следует продолжать убывающими дозами таблеток преднизолона.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Детям: в возрасте 2–12 мес одноразовая доза — 2–3 мг/кг\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n или глубоко в ягодичную мышцу; от 1 года до 14 лет — 1–2 мг/кг\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n медленно (примерно 3 мин) или глубоко в ягодичную мышцу. В случае необходимости через 20–30 мин дозу можно повторить.\n</p>\n<div id=\"usloviya-xraneniya-preparata-deperzolon\">\n</div>\n",
+    "Условия хранения препарата Деперзолон": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-deperzolon\">\n</div>\n",
+    "Срок годности препарата Деперзолон": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3486,
+        4926,
+        5018,
+        4997,
+        4992,
+        5489,
+        5107,
+        4999
+    ],
+    "id": 3788
+}

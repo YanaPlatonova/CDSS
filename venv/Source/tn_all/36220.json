@@ -1,0 +1,17 @@
+{
+    "Название": "Вилате ",
+    "_before": "<div class=\"drug__replacement\">\n <div class=\"drug__replacement--caption\">\n  Рекомендуется более полная информация:\n </div>\n <ul class=\"drug__replacement--list\">\n  <li class=\"drug__replacement--listitem\">\n   <a class=\"drug__replacement--link\" href=\"//www.rlsnet.ru/mnn_index_id_4693.htm\">\n    Комбинация ДВ Фактор свертывания крови VIII + Фактор Виллебранда\n   </a>\n  </li>\n </ul>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"36220\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4693.htm\">\n Фактор свертывания крови VIII + Фактор Виллебранда (Coagulation Factor VIII + Willebrand factor)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3589.htm\">\n B02BD06 Фактор Виллебранда и фактор свертывания крови VIII в комбинации\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_653.htm\">\n   Коагулянты (в т.ч. факторы свертывания крови), гемостатики в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1902.htm\">\n   D66 Наследственный дефицит фактора VIII\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1905.htm\">\n   D68.0 Болезнь Виллебранда\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1913.htm\">\n   D68.4 Приобретенный дефицит фактора свертывания\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8146.htm\">\n   R58 Кровотечение, не классифицированное в других рубриках\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-vilate\">\n</div>\n",
+    "Условия хранения препарата Вилате": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-vilate\">\n</div>\n",
+    "Срок годности препарата Вилате": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        1905,
+        1913,
+        1902,
+        8146
+    ],
+    "id": 36220
+}

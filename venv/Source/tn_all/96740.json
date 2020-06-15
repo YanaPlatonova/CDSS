@@ -1,0 +1,13 @@
+{
+    "Название": "Имурон-вак ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"96740\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5566.htm\">\n Вакцина для иммунотерапии рака мочевого пузыря (Vaccinum for immunotherape cancer of vesica urinaria)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_917.htm\">\n L01XX Прочие противоопухолевые препараты\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_180.htm\">\n   Вакцины, сыворотки, фаги и анатоксины\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1274.htm\">\n   C67 Злокачественное новообразование мочевого пузыря\n  </a>\n </li>\n</ul>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Имурон-вак (Вакцина БЦЖ для иммунотерапии рака мочевого пузыря) - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61815\">\n  Р N001970/01 от 2016-06-29\n </a>\n <br/>\n Имурон-вак (Вакцина БЦЖ для иммунотерапии рака мочевого пузыря) - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61815\">\n  Р N001970/01 от 2016-06-28\n </a>\n <br/>\n Имурон-вак (Вакцина БЦЖ для иммунотерапии рака мочевого пузыря) - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61815\">\n  Р N001970/01 от 2018-07-17\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        1274
+    ],
+    "id": 96740
+}

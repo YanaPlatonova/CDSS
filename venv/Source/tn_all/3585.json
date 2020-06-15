@@ -1,0 +1,19 @@
+{
+    "Название": "Циметидин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  01.07.2003\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3585\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_166.htm\">\n Циметидин* (Cimetidine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_44.htm\">\n A02BA01 Циметидин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_183.htm\">\n   H\n   <sub>\n    2\n   </sub>\n   -антигистаминные средства\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая оболочкой, содержит циметидина 200 мг; в контурной ячейковой упаковке 10 шт., в картонной пачке 10 упаковок.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Язвенная болезнь желудка и двенадцатиперстной кишки:\n </i>\n для лечения обострений \n— обычно по 200–400 мг 3 раза в течение дня (во время еды) и 400–800 мг на ночь. Возможно \nназначение в дозе 800 мг в 1 прием (перед сном), а также по 400 мг 2 раза в сутки. Максимальная суточная \nдоза — 2 г, продолжительность курса — 4–6\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .  Для профилактики обострений \n— 400 мг на ночь.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Язва, связанная с приемом\n  <span class=\"sokr\" title=\"нестероидные противовоспалительные средства\">\n   НПВС\n  </span>\n  :\n </i>\n дозы те же, средняя продолжительность курса \n— 4–6\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Рефлюкс-эзофагит:\n </i>\n по 400 мг 4 раза в сутки во время еды и на ночь. Курс \nлечения — 4–8\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Синдром Золлингера-Эллисона:\n </i>\n по 400 мг 4 раза в сутки, при необходимости дозу \nможно увеличить.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Профилактика кровотечений и лечение эрозивно-язвенных повреждений верхних отделов \nЖКТ, вызванных стрессом:\n </i>\n до стабилизации состояния — парентерально, затем перорально в суточной дозе \n2,4 г (по 200–400 мг каждые 6–8 ч).\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Профилактика развития синдрома Мендельсона:\n </i>\n 400 мг за 90–120 мин до \nначала общей анестезии.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  При нарушении функции почек\n </i>\n дозу уменьшают в зависимости от\n <span class=\"sokr\" title=\"клиренс\">\n  Cl\n </span>\n креатинина: 30\n–50 мл/мин — до 800 мг/сут, 15–30 мл/мин — до 600 мг/сут, менее \n15 мл/мин — до 400 мг/сут.\n</p>\n<div id=\"usloviya-xraneniya-preparata-cimetidin\">\n</div>\n",
+    "Условия хранения препарата Циметидин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-cimetidin\">\n</div>\n",
+    "Срок годности препарата Циметидин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4561,
+        4541,
+        4542,
+        4522,
+        4523
+    ],
+    "id": 3585
+}

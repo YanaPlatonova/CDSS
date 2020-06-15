@@ -1,0 +1,28 @@
+{
+    "Название": "Аэровит® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4221\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5450.htm\">\n Поливитамины (Multivitamins)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_243.htm\">\n A11BA Поливитамины\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_571.htm\">\n   Витамины и витаминоподобные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2182.htm\">\n   E50 Недостаточность витамина A\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2193.htm\">\n   E51 Недостаточность тиамина\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2198.htm\">\n   E52 Недостаточность никотиновой кислоты [пеллагра]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2199.htm\">\n   E53 Недостаточность других витаминов группы B\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2200.htm\">\n   E53.0 Недостаточность рибофлавина\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2201.htm\">\n   E53.1 Недостаточность пиридоксина\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2204.htm\">\n   E54 Недостаточность аскорбиновой кислоты [витамина C]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2208.htm\">\n   E56 Недостаточность других витаминов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2229.htm\">\n   E63.1 Несбалансированное поступление пищевых элементов\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит ретинола ацетата 0,0027 г, тиамина бромида 0,00258 г, рибофлавина нуклеотида 0,002 г, пиридоксина гидрохлорида 0,01 г, цианокобаламина 0,000025 г, аскорбиновой кислоты 0,1 г, токоферола ацетата 0,02 г, никотинамида 0,015 г, рутина 0,05 г, фолиевой кислоты 0,0002 г и пантотената кальция 0,01 г; в стеклянной банке 30 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — поливитаминное\n</span>\n<p class=\"OPIS_POLE\">\n Нормализует обмен веществ.\n</p>\n<div id=\"pokazaniya-preparata-aehrovit\">\n</div>\n",
+    "Показания препарата Аэровит®": "<p class=\"OPIS_POLE\">\n Гиповитаминоз, витаминизация рациона питания лиц, подвергающихся воздействию экстремальных факторов (укачивание, вибрация, шум, низкое барометрическое давление, перегрузки, действие УВЧ).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Нет.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 1 табл. в сутки, при длительной нагрузке и пониженной витаминной ценности питания — до 2 табл. в день в течение длительного времени.\n</p>\n<div id=\"usloviya-xraneniya-preparata-aehrovit\">\n</div>\n",
+    "Условия хранения препарата Аэровит®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-aehrovit\">\n</div>\n",
+    "Срок годности препарата Аэровит®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2201,
+        2229,
+        2200,
+        2204,
+        2199,
+        2198,
+        2182,
+        2208,
+        2193
+    ],
+    "id": 4221
+}

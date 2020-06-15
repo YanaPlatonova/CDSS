@@ -1,0 +1,20 @@
+{
+    "Название": "Гемаза® ",
+    "_before": "<div class=\"drug__replacement\">\n <div class=\"drug__replacement--caption\">\n  Рекомендуется более полная информация:\n </div>\n <ul class=\"drug__replacement--list\">\n  <li class=\"drug__replacement--listitem\">\n   <a class=\"drug__replacement--link\" href=\"//www.rlsnet.ru/mnn_index_id_3178.htm\">\n    Проурокиназа (ДВ)\n   </a>\n  </li>\n </ul>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"24857\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3178.htm\">\n Проурокиназа (Prourokinase)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_342.htm\">\n B01AD Ферментные препараты\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_174.htm\">\n   Фибринолитики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3279.htm\">\n   H21.0 Гифема\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3342.htm\">\n   H34 Окклюзии сосудов сетчатки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3343.htm\">\n   H34.0 Преходящая ретинальная артериальная окклюзия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3344.htm\">\n   H34.1 Центральная ретинальная артериальная окклюзия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3355.htm\">\n   H35.6 Ретинальное кровоизлияние\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3393.htm\">\n   H44.8 Другие болезни глазного яблока\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3473.htm\">\n   H57.8 Другие неуточненные болезни глаза и придаточного аппарата\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3482.htm\">\n   H59.9 Поражение глаза и его придаточного аппарата после медицинских процедур неуточненное\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        3279,
+        3482,
+        3355,
+        3342,
+        3343,
+        3344,
+        3393,
+        3473
+    ],
+    "id": 24857
+}

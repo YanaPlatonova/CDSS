@@ -1,0 +1,21 @@
+{
+    "Название": "Урофлукс® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3307\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_236.htm\">\n   Диуретики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5936.htm\">\n   N12 Тубулоинтерстициальный нефрит, не уточненный как острый или хронический\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6015.htm\">\n   N30 Цистит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6040.htm\">\n   N34 Уретрит и уретральный синдром\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 25 г растворимого растительного чая содержат 8,4 г обезвоженного экстракта следующего состава: кора ивы 3 г, листья березы 9 г, листья толокнянки 6 г, трава хвоща 3 г, трава золотарника 6 г, корень рудбекии 1,5 г, корень лакричника 2 г, корень стальника 2,5 г и корневища злаков 9 г; порошок по 37,5 или 75 г; во флаконах вместимостью 150 и 300 мл соответственно.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противовоспалительное, диуретическое\n</span>\n<div id=\"pokazaniya-preparata-urofluks\">\n</div>\n",
+    "Показания препарата Урофлукс®": "<p class=\"OPIS_POLE\">\n Пиелит, цистит, уретрит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Отеки на фоне сердечной и почечной недостаточности.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Совместим с сульфаниламидами и антибиотиками.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 1 чашке чая 3–5 раз в день; одну чайную ложку чая кладут в чашку, заливают горячей водой и размешивают, чай можно подсластить. Флакон немедленно закрыть.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n При наличии диабета необходимо принимать во внимание, что чайная ложка Урофлукса соответствует 0,08\n <span class=\"sokr\" title=\"хлебная единица\">\n  ХЕ\n </span>\n .\n</p>\n<div id=\"usloviya-xraneniya-preparata-urofluks\">\n</div>\n",
+    "Условия хранения препарата Урофлукс®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-urofluks\">\n</div>\n",
+    "Срок годности препарата Урофлукс®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        6015,
+        5936,
+        6040
+    ],
+    "id": 3307
+}

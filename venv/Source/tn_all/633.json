@@ -1,0 +1,28 @@
+{
+    "Название": "Блокальцин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"633\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_59.htm\">\n Дилтиазем* (Diltiazem*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1537.htm\">\n C08DB01 Дилтиазем\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_215.htm\">\n   Блокаторы кальциевых каналов\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3669.htm\">\n   I10 Эссенциальная (первичная) гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3681.htm\">\n   I15 Вторичная гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3688.htm\">\n   I20 Стенокардия [грудная жаба]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3851.htm\">\n   I47.9 Пароксизмальная тахикардия неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7964.htm\">\n   R07.2 Боль в области сердца\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит дилтиазема гидрохлорида 60 мг; в блистере 10 шт., в коробке 5 блистеров.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — гипотензивное\n</span>\n<p class=\"OPIS_POLE\">\n Ингибирует процесс прохождения кальция через активированные каналы мембран и снижает его содержание в клетках сердечной мышцы и гладкой мускулатуры сосудов.\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Уменьшает\n <span class=\"sokr\" title=\"общее периферическое сопротивление сосудов\">\n  ОПСС\n </span>\n ,  расширяет коронарные сосуды, улучшает баланс кислорода в миокарде (снижается потребность и повышается доставка). Препятствует возникновению коронарных спазмов, уменьшает кровяное давление и снижает\n <span class=\"sokr\" title=\"частота сердечных сокращений\">\n  ЧСС\n </span>\n .\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n В\n <span class=\"sokr\" title=\"желудочно-кишечный тракт\">\n  ЖКТ\n </span>\n абсорбируется 90% препарата. Связывается с плазменными белками на 80%. Выделяется в основном почками в виде метаболитов, небольшая часть попадает в желчь.\n</p>\n<div id=\"pokazaniya-preparata-blokal`cin\">\n</div>\n",
+    "Показания препарата Блокальцин": "<p class=\"OPIS_POLE\">\n Профилактика стенокардии и приступов тахиаритмии; артериальная гипертензия.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Кардиогенный шок, острая сердечная недостаточность, синдром слабости синусного узла, гипотензия, выраженная брадикардия.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Противопоказано при беременности. На время лечения необходимо приостановить грудное вскармливание.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Недомогание, слабость, головокружение, головная боль, кожный зуд; редко — синусовая брадикардия, нарушения проводимости (синоатриальная или\n <span class=\"sokr\" title=\"атриовентрикулярный\">\n  AV\n </span>\n блокада), ортостатическая гипотензия.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Гипотензивные и антиаритмические средства, бета-адреноблокаторы могут потенцировать \nгипотонию, брадикардию и угнетение\n <span class=\"sokr\" title=\"атриовентрикулярный\">\n  AV\n </span>\n проводимости.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, перед едой, не разжевывая, запивая небольшим количеством воды, по 60 мг 3 раза в сутки, при необходимости — до 360 мг/сут.\n</p>\n<div id=\"usloviya-xraneniya-preparata-blokal`cin\">\n</div>\n",
+    "Условия хранения препарата Блокальцин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-blokal`cin\">\n</div>\n",
+    "Срок годности препарата Блокальцин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        7964,
+        3669,
+        3681,
+        3851,
+        3688
+    ],
+    "id": 633
+}

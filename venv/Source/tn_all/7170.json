@@ -1,0 +1,19 @@
+{
+    "Название": "Глицеролит-57 ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"7170\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_317.htm\">\n   Вспомогательные вещества, реактивы и полупродукты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11368.htm\">\n   Z100* КЛАСС XXII Хирургическая практика\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 100 мл раствора гемоконсерванта содержат глицерина 57 г, натрия молочнокислого 1,6\n г, калия хлористого 30 мг, натрия фосфата первично-кислого (моногидрата) 51,7 мг, натрия фосфата \nдвухосновного (безводного) 124,2 мг; во флаконах по 400 и 500 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — гемоконсервирующее\n</span>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n Выводится через почки,\n <span class=\"sokr\" title=\"период полувыведения\">\n  T\n  <sub>\n   1/2\n  </sub>\n </span>\n — 14,8 ч.\n</p>\n<div id=\"pokazaniya-preparata-glicerolit-\">\n</div>\n",
+    "Показания препарата Глицеролит-57": "<p class=\"OPIS_POLE\">\n Криоконсервация (хранение эритроцитов при температуре — 65–85° C).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n к глицерину).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тошнота, озноб, высыпания.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n На 100 мл эритроцитов — 178 мл раствора.\n</p>\n<div id=\"usloviya-xraneniya-preparata-glicerolit-\">\n</div>\n",
+    "Условия хранения препарата Глицеролит-57": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-glicerolit-\">\n</div>\n",
+    "Срок годности препарата Глицеролит-57": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        11368
+    ],
+    "id": 7170
+}

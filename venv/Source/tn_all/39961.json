@@ -1,0 +1,16 @@
+{
+    "Название": "Витрум® Бьюти Коэнзим Q10 ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"39961\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5462.htm\">\n Поливитамины + Прочие препараты (Multivitamins + Other medicines)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_241.htm\">\n A11AB Поливитамины в комбинации с другими препаратами\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_571.htm\">\n   Витамины и витаминоподобные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2227.htm\">\n   E63 Физические и умственные перегрузки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2378.htm\">\n   E88.9 Нарушение обмена веществ неуточненное\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8025.htm\">\n   R23.4 Изменения структуры кожи\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-vitrum-b`yuti-koehnzim-q\">\n</div>\n",
+    "Условия хранения препарата Витрум® Бьюти Коэнзим Q10": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-vitrum-b`yuti-koehnzim-q\">\n</div>\n",
+    "Срок годности препарата Витрум® Бьюти Коэнзим Q10": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        8025,
+        2378,
+        2227
+    ],
+    "id": 39961
+}

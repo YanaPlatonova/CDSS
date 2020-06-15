@@ -1,0 +1,16 @@
+{
+    "Название": "Валганцикловир-Тева ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"88031\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3219.htm\">\n Валганцикловир* (Valganciclovir*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_782.htm\">\n J05AB Нуклеозиды и нуклеотиды, кроме ингибиторов обратной транскриптазы\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_343.htm\">\n   Средства для лечения ВИЧ-инфекции\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_630.htm\">\n   Противовирусные (за исключением ВИЧ) средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_550.htm\">\n   B20.2 Болезнь, вызванная ВИЧ, с проявлениями цитомегаловирусного заболевания\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_578.htm\">\n   B25 Цитомегаловирусная болезнь\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11317.htm\">\n   Z94 Наличие трансплантированного(ой) органа и ткани\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-valganciklovir-teva\">\n</div>\n",
+    "Условия хранения препарата Валганцикловир-Тева": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-valganciklovir-teva\">\n</div>\n",
+    "Срок годности препарата Валганцикловир-Тева": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        11317,
+        578,
+        550
+    ],
+    "id": 88031
+}

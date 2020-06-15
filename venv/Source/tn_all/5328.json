@@ -1,0 +1,20 @@
+{
+    "Название": "Фенобарбитал ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"5328\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1320.htm\">\n Фенобарбитал* (Phenobarbital*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1196.htm\">\n N03AA02 Фенобарбитал\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_289.htm\">\n   Противоэпилептические средства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_337.htm\">\n   Снотворные средства\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Фенобарбитал - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40236\">\n  ЛП-003783 от 2016-08-12\n </a>\n <br/>\n Фенобарбитал - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/39963\">\n  ЛП-003510 от 2016-03-17\n </a>\n <br/>\n Фенобарбитал - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/44481\">\n  ЛСР-002303/07 от 2013-11-18\n </a>\n <br/>\n Фенобарбитал - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/42496\">\n  ЛС-001694 от 2012-05-14\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        2883,
+        2933,
+        2846,
+        2533,
+        2527,
+        8140,
+        2849,
+        8090
+    ],
+    "id": 5328
+}

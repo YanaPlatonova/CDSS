@@ -1,0 +1,25 @@
+{
+    "Название": "Синусан ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1997\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"6553\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_234.htm\">\n   Антиконгестанты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2900.htm\">\n   G43 Мигрень\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4199.htm\">\n   J31 Хронический ринит, назофарингит и фарингит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4205.htm\">\n   J32 Хронический синусит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5616.htm\">\n   M54.3 Ишиас\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5745.htm\">\n   M79.0 Ревматизм неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7978.htm\">\n   R10.1 Боли, локализованные в области верхней части живота\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8128.htm\">\n   R51 Головная боль\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 флакон содержит 10 мл частично дементолизированного эфирного масла японской мяты (Mentha arvensis piperascens).\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — анальгезирующее, противоотечное, противовоспалительное, антисептическое\n</span>\n<div id=\"klinicheskaya-farmakologiya\">\n</div>\n",
+    "Клиническая фармакология": "<p class=\"OPIS_POLE\">\n Снижает отечность и утолщение слизистой оболочки придаточных пазух носа, тем самым улучшая вентиляцию и дренаж, т.е. удаление чрезмерных выделений слизи из синусов. Устраняются сильные боли в надбровной области, под глазами, переносице, гайморовых пазухах и\n <span class=\"sokr\" title=\"другие\">\n  др.\n </span>\n Местное длительное применение не приводит к раздражению слизистой оболочки.\n</p>\n<div id=\"pokazaniya-preparata-sinusan\">\n</div>\n",
+    "Показания препарата Синусан": "<p class=\"OPIS_POLE\">\n Насморк, острый синусит, боли при мигрени, ишиасе, ревматизме, боли в желудке.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Нет.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Местно; при насморке, синусите — кончиком пальца, смоченным препаратом, слегка прикасаются к коже под носом; при мигрени, ишиасе, ревматизме — несколько капель капают в теплую воду, затем натирают или массируют полученным раствором больные места. Внутрь; при болях в желудке — по 3–5 капель на кусок сахара или в стакан с теплой водой.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Во время лечения рекомендуется избегать чрезмерно напряженной работы и недосыпания (развивается выраженная общая слабость); хранить в местах недоступных для детей.\n</p>\n<div id=\"usloviya-xraneniya-preparata-sinusan\">\n</div>\n",
+    "Условия хранения препарата Синусан": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-sinusan\">\n</div>\n",
+    "Срок годности препарата Синусан": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        8128,
+        5745,
+        4205,
+        4199,
+        2900,
+        7978,
+        5616
+    ],
+    "id": 6553
+}

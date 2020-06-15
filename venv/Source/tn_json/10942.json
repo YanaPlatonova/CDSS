@@ -1,5 +1,6 @@
 {
     "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"10942\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
     "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_762.htm\">\n Кодеин (Codeine)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
-    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_39.htm\">\n   Противокашлевые средства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_645.htm\">\n   Опиоидные наркотические анальгетики\n  </a>\n </li>\n</ul>\n<div>\n</div>\n"
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_39.htm\">\n   Противокашлевые средства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_645.htm\">\n   Опиоидные наркотические анальгетики\n  </a>\n </li>\n</ul>\n<div>\n</div>\n",
+    "id_disease": []
 }

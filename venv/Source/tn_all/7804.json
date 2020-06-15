@@ -1,0 +1,23 @@
+{
+    "Название": "Бекломет Изихейлер ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"7804\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_185.htm\">\n Беклометазон* (Beclometasone*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2039.htm\">\n R03BA01 Беклометазон\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_287.htm\">\n   Глюкокортикостероиды\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4269.htm\">\n   J45 Астма\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 доза порошка для ингаляций содержит беклометазона дипропионата 200 мкг; в изихейлере или изихейлере с защитным футляром 200 доз; в упаковке из алюминиевой фольги 1 изихейлер.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противоотечное, противовоспалительное\n</span>\n<div id=\"klinicheskaya-farmakologiya\">\n</div>\n",
+    "Клиническая фармакология": "<p class=\"OPIS_POLE\">\n Терапевтический эффект развивается через несколько дней лечения и достигает максимума в течение нескольких недель.\n</p>\n<div id=\"pokazaniya-preparata-beklomet-izixejler\">\n</div>\n",
+    "Показания препарата Бекломет Изихейлер": "<p class=\"OPIS_POLE\">\n Бронхиальная астма.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, беременность (I-й триместр).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Кандидоз полости рта и верхних дыхательных путей; охриплость голоса, кашель, першение и боль в горле; редко — эозинофильная пневмония, аллергические реакции (острый местный отек, сыпь, бронхоспазм).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Ингаляционно. Профилактическое лечение: взрослым — 1–2 ингаляции (200–400 мкг) 2 раза в день (до 1600 мкг в сутки в 2 или 4 приема с последующим снижением дозы при стабилизации состояния).\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Детям до 12 лет — 1 ингаляция (200 мкг) 1–2 раза в день (до 800 мкг в сутки в 2–4 приема, с последующим сокращением дозы при стабилизации состояния).\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n С осторожностью используют у больных туберкулезом. После каждой ингаляции (для профилактики кандидоза) рекомендуется тщательно полоскать рот (воду необходимо выплевывать). Пациентам, принимающим системные кортикостероиды, необходимо продолжать их прием в течение недели с момента начала ингаляций препаратом (в дальнейшем возможно сокращение приема кортикостероидов под наблюдением врача).\n</p>\n<div id=\"osobye-ukazaniya\">\n</div>\n",
+    "Особые указания": "<p class=\"OPIS_POLE\">\n Рекомендуется применять регулярно и длительно. При возникновении кандидозных инфекций проводится терапия противогрибковыми препаратами (без прекращения ингаляций). Кормящие матери на время лечения должны прекратить грудное вскармливание.\n</p>\n<div id=\"usloviya-xraneniya-preparata-beklomet-izixejler\">\n</div>\n",
+    "Условия хранения препарата Бекломет Изихейлер": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-beklomet-izixejler\">\n</div>\n",
+    "Срок годности препарата Бекломет Изихейлер": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4269
+    ],
+    "id": 7804
+}

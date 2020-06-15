@@ -1,0 +1,23 @@
+{
+    "Название": "Ризаксил ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"9564\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3031.htm\">\n R01AB06 Ксилометазолин в комбинации с другими препаратами\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_50.htm\">\n   Местные анестетики\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_130.htm\">\n   Местнораздражающие средства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_160.htm\">\n   Альфа-адреномиметики\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_234.htm\">\n   Антиконгестанты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3564.htm\">\n   H80-H83 Болезни внутреннего уха\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4193.htm\">\n   J30 Вазомоторный и аллергический ринит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4199.htm\">\n   J31 Хронический ринит, назофарингит и фарингит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4205.htm\">\n   J32 Хронический синусит\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 10 мл раствора для применения в виде назальных капель содержат ксилометазолина 0,005 г, холина салицилата 0,2 г и лидокаина 0,025 г; во флаконах по 10 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — местноанестезирующее, противовоспалительное, сосудосуживающее\n</span>\n<p class=\"OPIS_POLE\">\n Возбуждает альфа-адренорецепторы, снижает сосудистую проницаемость, восприятие и передачу болевых импульсов.\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n При местной аппликации суживает сосуды, уменьшает отечность, гиперемию, экссудацию. Улучшает носовое дыхание и снижает выделения из носа.\n</p>\n<div id=\"pokazaniya-preparata-rizaksil\">\n</div>\n",
+    "Показания препарата Ризаксил": "<p class=\"OPIS_POLE\">\n Ринит (острый, хронический бактериальный, аллергический), катаральные состояния придаточных пазух носа, острый евстахиит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n к отдельным компонентам), атрофический ринит, закрытоугольная глаукома.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Ощущение жжения в носу и горле (кратковременно, сразу после приема).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Интраназально. Взрослым — по 3–4 капли в каждую ноздрю 2–6 раз в день; детям — по 1 капле в каждую ноздрю 2–3 раза в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-rizaksil\">\n</div>\n",
+    "Условия хранения препарата Ризаксил": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-rizaksil\">\n</div>\n",
+    "Срок годности препарата Ризаксил": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4205,
+        4199,
+        3564,
+        4193
+    ],
+    "id": 9564
+}

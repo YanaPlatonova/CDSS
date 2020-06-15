@@ -1,0 +1,23 @@
+{
+    "Название": "Риволокс ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"6546\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3361.htm\">\n Алгелдрат + Магния гидроксид (Algeldrate + Magnesium hydroxide)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_41.htm\">\n A02AX Антациды в других комбинациях\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_516.htm\">\n   Антациды в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4541.htm\">\n   K25 Язва желудка\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4542.htm\">\n   K26 Язва двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4545.htm\">\n   K29 Гастрит и дуоденит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4560.htm\">\n   K30 Диспепсия\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 10 мл суспензии для приема внутрь содержат гидроокиси алюминия 3,49 г и гидроокиси магния 3,99 г; во флаконах по 250 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — обволакивающее, антацидное\n</span>\n<p class=\"OPIS_POLE\">\n Нейтрализует избыток свободной соляной кислоты в желудке, снижает пептическую активность желудочного сока, экранирует (обволакивает) и защищает слизистую нижнего отдела пищевода, желудка и двенадцатиперстной кишки.\n</p>\n<div id=\"pokazaniya-preparata-rivoloks\">\n</div>\n",
+    "Показания препарата Риволокс": "<p class=\"OPIS_POLE\">\n Нарушения, обусловленные повышенной кислотностью при гастритах, диафрагмальных грыжах, диспептических расстройствах, язвенной болезни желудка и двенадцатиперстной кишки.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Тяжелая почечная недостаточность.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Снижает всасывание тетрациклинов, сердечных гликозидов, атропина и препаратов железа. При сочетании с другими лекарственными средствами, принимаемыми внутрь, необходимо соблюдать интервал между приемами.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 1 ст.ложке после каждого приема пищи (примерно через 1 ч) и/или при боли. Перед употреблением флакон встряхивают.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Нельзя применять в течение длительного времени без консультации врача. Во время лечения следует избегать курения и приема алкогольных напитков, соблюдать режим питания.\n</p>\n<div id=\"usloviya-xraneniya-preparata-rivoloks\">\n</div>\n",
+    "Условия хранения препарата Риволокс": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4560,
+        4545,
+        4541,
+        4542
+    ],
+    "id": 6546
+}

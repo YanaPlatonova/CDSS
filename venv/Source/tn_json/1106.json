@@ -14,5 +14,11 @@
     "Производитель": "<p class=\"OPIS_POLE\">\n АО «Олайнский химико-фармацевтический завод »Олайнфарм«, Латвия.\n</p>\n<div id=\"usloviya-xraneniya-preparata-furadonin\">\n</div>\n",
     "Условия хранения препарата Фурадонин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-furadonin\">\n</div>\n",
     "Срок годности препарата Фурадонин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
-    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Фурадонин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/63074\">\n  Р N002401/01 от 2014-07-17\n </a>\n <br/>\n</div>\n<div>\n</div>\n"
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Фурадонин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/63074\">\n  Р N002401/01 от 2014-07-17\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        6061,
+        6015,
+        5936,
+        6040
+    ]
 }

@@ -1,0 +1,21 @@
+{
+    "Название": "Осарцид® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2000\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4912\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3900.htm\">\n Ацетарсол + Борная кислота + Декстроза + Сульфаниламид (Acetarsol + Boric acid + Dextrose + Sulfanilamide)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1797.htm\">\n G01AB01 Ацетарсол\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_533.htm\">\n   Другие синтетические антибактериальные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_318.htm\">\n   A59.0 Урогенитальный трихомониаз\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6175.htm\">\n   N76 Другие воспалительные болезни влагалища и вульвы\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 вагинальный суппозиторий содержит осарсола 0,3 г, борной кислоты 0,3 г, глюкозы 0,3 г, стрептоцида 0,3 г; в контурной ячейковой упаковке 5 шт., в пачке 1 упаковка.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противовоспалительное, антисептическое, противопротозойное\n</span>\n<div id=\"pokazaniya-preparata-osarcid\">\n</div>\n",
+    "Показания препарата Осарцид®": "<p class=\"OPIS_POLE\">\n Трихомонадный кольпит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, беременность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Лихорадка, дерматит (требуют отмены препарата).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Интравагинально, глубоко, по 1 супп. ежедневно в течение 10 дней.\n</p>\n<div id=\"usloviya-xraneniya-preparata-osarcid\">\n</div>\n",
+    "Условия хранения препарата Осарцид®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-osarcid\">\n</div>\n",
+    "Срок годности препарата Осарцид®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        318,
+        6175
+    ],
+    "id": 4912
+}

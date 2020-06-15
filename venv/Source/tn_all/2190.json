@@ -1,0 +1,25 @@
+{
+    "Название": "Мульти-табс® HZ ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2190\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5450.htm\">\n Поливитамины (Multivitamins)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_243.htm\">\n A11BA Поливитамины\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_571.htm\">\n   Витамины и витаминоподобные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2182.htm\">\n   E50 Недостаточность витамина A\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2193.htm\">\n   E51 Недостаточность тиамина\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2198.htm\">\n   E52 Недостаточность никотиновой кислоты [пеллагра]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2200.htm\">\n   E53.0 Недостаточность рибофлавина\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2201.htm\">\n   E53.1 Недостаточность пиридоксина\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2204.htm\">\n   E54 Недостаточность аскорбиновой кислоты [витамина C]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2205.htm\">\n   E55 Недостаточность витамина D\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2208.htm\">\n   E56 Недостаточность других витаминов\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 мл раствора для приема внутрь содержит витамина A 1000 МЕ, витамина D3 500 МЕ, витамина Е 1 мг, витамина B\n <sub>\n  1\n </sub>\n 1 мг, витамина B\n <sub>\n  2\n </sub>\n 0,75 мг, витамина B\n <sub>\n  6\n </sub>\n 1 мг, никотинамида 5 мг, пантотеновой кислоты 2,13 мг и витамина C 25 мг; во флаконах-капельницах по 30 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — поливитаминное\n</span>\n<div id=\"pokazaniya-preparata-mul`ti-tabs-hz\">\n</div>\n",
+    "Показания препарата Мульти-табс® HZ": "<p class=\"OPIS_POLE\">\n Профилактика авитаминоза у детей до 2 лет (неадекватное питание).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь по 1 мл в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-mul`ti-tabs-hz\">\n</div>\n",
+    "Условия хранения препарата Мульти-табс® HZ": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-mul`ti-tabs-hz\">\n</div>\n",
+    "Срок годности препарата Мульти-табс® HZ": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2201,
+        2200,
+        2204,
+        2198,
+        2205,
+        2182,
+        2208,
+        2193
+    ],
+    "id": 2190
+}

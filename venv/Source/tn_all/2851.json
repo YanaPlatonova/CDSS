@@ -1,0 +1,20 @@
+{
+    "Название": "Сальбутамол ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  14.07.2006\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2851\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_276.htm\">\n Сальбутамол* (Salbutamol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2057.htm\">\n R03CC02 Сальбутамол\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_161.htm\">\n   Бета-адреномиметики\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<div class=\"tw\">\n <table align=\"left\" border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Таблетки\n    </td>\n    <td class=\"PrepInSost_Val\">\n     1 табл.\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     сальбутамол\n    </td>\n    <td class=\"CompSost_Val\">\n     2 мг\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<br clear=\"all\"/>\n<p class=\"PrepUpack\">\n в блистере 15 шт.; в коробке 2 блистера.\n</p>\n<div class=\"tw\">\n <table align=\"left\" border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Таблетки\n    </td>\n    <td class=\"PrepInSost_Val\">\n     1 табл.\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     сальбутамол\n    </td>\n    <td class=\"CompSost_Val\">\n     4 мг\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<br clear=\"all\"/>\n<p class=\"PrepUpack\">\n во флаконах по 30 шт.; в коробке 1 флакон.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n <i>\n  Внутрь,\n </i>\n взрослым и детям старше 12 лет — по 2–4 мг 4 раза в сутки; максимальная доза — 32 мг/сут.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Больным пожилого возраста или при повышенной чувствительности к симпатомиметикам — по 2 мг 4 раза в сутки.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Детям 6–12 лет\n </i>\n — по 2 мг 3–4 раза в сутки (максимально — по 6 мг 4 раза в сутки).\n</p>\n<div id=\"usloviya-xraneniya-preparata-sal`butamol\">\n</div>\n",
+    "Условия хранения препарата Сальбутамол": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-sal`butamol\">\n</div>\n",
+    "Срок годности препарата Сальбутамол": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4258,
+        6584,
+        4269,
+        11455,
+        4252
+    ],
+    "id": 2851
+}

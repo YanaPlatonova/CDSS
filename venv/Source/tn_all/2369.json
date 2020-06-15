@@ -1,0 +1,21 @@
+{
+    "Название": "Нолвадекс ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2369\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_300.htm\">\n Тамоксифен* (Tamoxifen*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_945.htm\">\n L02BA01 Тамоксифен\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_64.htm\">\n   Эстрогены, гестагены; их гомологи и антагонисты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_271.htm\">\n   Противоопухолевые гормональные средства и антагонисты гормонов\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1208.htm\">\n   C50 Злокачественные новообразования молочной железы\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая оболочкой, содержит тамоксифена (в форме цитрата) 10 или 20 мг; в блистере 10 шт., в картонной коробке 3 блистера.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противоопухолевое, антиэстрогенное\n</span>\n<div id=\"klinicheskaya-farmakologiya\">\n</div>\n",
+    "Клиническая фармакология": "<p class=\"OPIS_POLE\">\n Быстро всасывается, в течение 4–7 часов создается максимальная концентрация в крови. Равновесная концентрация (300 нг/мг) достигается при суточной дозе 40 мг за 4\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .  На 99% связывается с альбумином. Метаболизируется, выводится с калом, период полувыведения для тамоксифена — 7 дней, X-десметилтамоксифена (главный метаболит) — 14 дней.\n</p>\n<div id=\"pokazaniya-preparata-nolvadeks\">\n</div>\n",
+    "Показания препарата Нолвадекс": "<p class=\"OPIS_POLE\">\n Рак молочной железы.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Приливы, влагалищное кровотечение, гиперплазия эндометрия, зуд вульвы, диспептические расстройства, головокружение, задержка воды в организме, гиперкальциемия, тромбоцитопения, алопеция, фиброма матки, лейкопения, тромбоэмболия.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Потенцирует эффект антикоагулянтов. При сочетании с цитотоксическими средствами возможны тромбоэмболические осложнения.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, при раке молочной железы — 20–40 мг/сут (за 1 или 2 приема).\n</p>\n<div id=\"usloviya-xraneniya-preparata-nolvadeks\">\n</div>\n",
+    "Условия хранения препарата Нолвадекс": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-nolvadeks\">\n</div>\n",
+    "Срок годности препарата Нолвадекс": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        1208
+    ],
+    "id": 2369
+}

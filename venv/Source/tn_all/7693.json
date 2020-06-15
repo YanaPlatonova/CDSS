@@ -1,0 +1,22 @@
+{
+    "Название": "Икс-Преп ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2001\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"7693\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1146.htm\">\n Сеннозиды А и B (Sennosides A &amp;  B)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_131.htm\">\n A06AB06 Сеннозиды А и В\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_231.htm\">\n   Слабительные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4862.htm\">\n   K94* Диагностика заболеваний ЖКТ\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 флакон с 75 мл раствора для приема внутрь содержит сеннозидов А и В 150 мг; в коробке 1 флакон.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — слабительное\n</span>\n<p class=\"OPIS_POLE\">\n Раздражает рецепторы слизистой толстого кишечника и стимулирует ее перистальтику.\n</p>\n<div id=\"klinicheskaya-farmakologiya\">\n</div>\n",
+    "Клиническая фармакология": "<p class=\"OPIS_POLE\">\n Эффект развивается через 8–10 ч после приема.\n</p>\n<div id=\"pokazaniya-preparata-iks-prep\">\n</div>\n",
+    "Показания препарата Икс-Преп": "<p class=\"OPIS_POLE\">\n Очистка кишечного тракта перед проведением рентгенологического и ультразвукового обследований (ирригоскопия, колоноскопия, ректоскопия, пиелография).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность к сеннозидам, кишечная непроходимость, боли в животе («острый живот»), илеостома, ранний детский возраст (до 6 мес).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, взрослые выпивают содержимое 1 флакона (запивать большим стаканом воды) в 14 ч, накануне дня проведения обследования.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Детям старше 7 мес и пациентам с пониженной массой — 1 мл/кг.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Пациентам с нарушением сердечно-сосудистой системы и пожилым рекомендуется снижение дозы в зависимости от общего состояния. Во время беременности следует применять только по специальному указанию врача. Прием препарата не требует отмены ранее используемых слабительных.\n</p>\n<div id=\"osobye-ukazaniya\">\n</div>\n",
+    "Особые указания": "<p class=\"OPIS_POLE\">\n 1 флакон соответствует 416\n <span class=\"sokr\" title=\"хлебная единица\">\n  ХЕ\n </span>\n .\n</p>\n<div id=\"usloviya-xraneniya-preparata-iks-prep\">\n</div>\n",
+    "Условия хранения препарата Икс-Преп": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-iks-prep\">\n</div>\n",
+    "Срок годности препарата Икс-Преп": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4862
+    ],
+    "id": 7693
+}

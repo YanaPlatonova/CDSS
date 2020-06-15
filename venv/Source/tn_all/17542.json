@@ -1,0 +1,22 @@
+{
+    "Название": "Эуфиллина таблетки 0,15 г ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2000\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"17542\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1893.htm\">\n Аминофиллин* (Aminophylline*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2066.htm\">\n R03DA05 Аминофиллин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_186.htm\">\n   Аденозинергические средства\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 ампула с 10 мл раствора для внутривенных инъекций содержит аминофиллина 0,24 г; в пачке 10 шт.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n 1 таблетка содержит аминофиллина 0,15 г; в банках по 30 шт., в коробке 1 банка или в контурной ячейковой упаковке 10 шт., в пачке 3 упаковки.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n В/в (медленно в течение 4–6 мин), взрослым — по 5–10 мл 2,4% раствора (предварительно развести в 10–20 мл 20% или 40% раствора глюкозы);\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n капельно — по 10–20 мл в 500 мл 5% раствора глюкозы в течение 2–2,5 ч. Внутрь, после еды, по 0,1–0,15 г 2–3 раза в день. В микроклизмах: 0,3–0,5 г растворяют в 20–25 мл теплой воды. Высшие дозы для взрослых —\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n :  разовая — 0,25 г, суточная — 0,5 г; внутрь,\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n ,  ректально: разовая — 0,5 г, суточная — 1,5 г.\n</p>\n<div id=\"usloviya-xraneniya-preparata-ehufillina-tabletki--g\">\n</div>\n",
+    "Условия хранения препарата Эуфиллина таблетки 0,15 г": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ehufillina-tabletki--g\">\n</div>\n",
+    "Срок годности препарата Эуфиллина таблетки 0,15 г": "<p>\n раствор для внутривенного введения 2.4% — 3 года.\n</p>\n<p>\n таблетки 0.15 г — 5 лет.\n</p>\n<p>\n таблетки 150 мг — 2 года.\n</p>\n<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3126,
+        3867,
+        3735,
+        2922,
+        6009,
+        4094,
+        4269,
+        11455
+    ],
+    "id": 17542
+}

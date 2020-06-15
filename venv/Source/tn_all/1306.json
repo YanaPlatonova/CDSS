@@ -1,0 +1,24 @@
+{
+    "Название": "Дипромал ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"1306\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_380.htm\">\n Вальпроевая кислота* (Valproic acid*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1210.htm\">\n N03AG01 Вальпроевая кислота\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_289.htm\">\n   Противоэпилептические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2883.htm\">\n   G40 Эпилепсия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2887.htm\">\n   G40.3 Генерализованная идиопатическая эпилепсия и эпилептические синдромы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2890.htm\">\n   G40.6 Припадки grand mal неуточненные [с малыми припадками [petit mal] или без них]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2891.htm\">\n   G40.7 Малые припадки [petit mal] неуточненные без припадков grand mal\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая оболочкой, содержит вальпроата магния 200 мг; в блистере 40 шт., в картонной коробке 2 блистера.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противоэпилептическое, противосудорожное\n</span>\n<p class=\"OPIS_POLE\">\n Ингибирует ГАМК-дезаминазу, повышает содержание\n <span class=\"sokr\" title=\"гамма-аминомасляная кислота\">\n  ГАМК\n </span>\n в\n <span class=\"sokr\" title=\"центральная нервная система\">\n  ЦНС\n </span>\n .\n</p>\n<div id=\"pokazaniya-preparata-dipromal\">\n</div>\n",
+    "Показания препарата Дипромал": "<p class=\"OPIS_POLE\">\n Эпилепсия,\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n малые и большие приступы, миоклонус-эпилепсия.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, порфирия, выраженные нарушения функции печени; относительно противопоказан при беременности (особенно в первые 3 мес).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тошнота, рвота, понос, сонливость, атаксия, выпадение волос, кожная сыпь.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь. Дозу устанавливают индивидуально. Взрослым и детям старше 15 лет (монотерапия) — по 400–600 мг в сутки, через неделю постепенно (1 раз в неделю) увеличивают дозу на 200 мг в сутки до эффективной — 1000–3000 мг в сутки; максимальная суточная доза — 3000 мг.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Детям с массой тела до 20 кг — в исходной дозе 15 мг/кг в сутки; при необходимости дозу можно постепенно (1 раз в неделю) увеличивать на 5–10 мг/кг в сутки до эффективной; детям с большой массой тела назначают в исходной дозе по 400 мг в сутки.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n С осторожностью назначают при почечной недостаточности, сахарном диабете, системной красной волчанке.\n</p>\n<div id=\"usloviya-xraneniya-preparata-dipromal\">\n</div>\n",
+    "Условия хранения препарата Дипромал": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-dipromal\">\n</div>\n",
+    "Срок годности препарата Дипромал": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2883,
+        2887,
+        2890,
+        2891
+    ],
+    "id": 1306
+}

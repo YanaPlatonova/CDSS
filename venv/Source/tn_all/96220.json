@@ -1,0 +1,18 @@
+{
+    "Название": "Сыворотка противогангренозная поливалентная лошадиная очищенная концентрированная ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"96220\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_6886.htm\">\n Антитоксин гангренозный (Antitoxin gangrenous)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2910.htm\">\n J06AA05 Антигангренозная сыворотка\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_180.htm\">\n   Вакцины, сыворотки, фаги и анатоксины\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_253.htm\">\n   A48.0 Газовая гангрена\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4339.htm\">\n   J85.0 Гангрена и некроз легкого\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6731.htm\">\n   O85 Послеродовой сепсис\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6732.htm\">\n   O86 Другие послеродовые инфекции\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7938.htm\">\n   R02 Гангрена, не классифицированная в других рубриках\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-syvorotka-protivogangrenoznaya-polivalentnaya-loshadinaya-ochishhennaya-koncentrirovannaya\">\n</div>\n",
+    "Условия хранения препарата Сыворотка противогангренозная поливалентная лошадиная очищенная концентрированная": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-syvorotka-protivogangrenoznaya-polivalentnaya-loshadinaya-ochishhennaya-koncentrirovannaya\">\n</div>\n",
+    "Срок годности препарата Сыворотка противогангренозная поливалентная лошадиная очищенная концентрированная": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        253,
+        4339,
+        7938,
+        6731,
+        6732
+    ],
+    "id": 96220
+}

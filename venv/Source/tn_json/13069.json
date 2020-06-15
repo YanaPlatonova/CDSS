@@ -3,5 +3,6 @@
     "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3091.htm\">\n V04CX Диагностические препараты другие\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
     "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_314.htm\">\n   Другие диагностические средства\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-streptokinaza-dlya-diagnosticheskix-celej-garlizit\">\n</div>\n",
     "Условия хранения Стрептокиназа для диагностических целей (Гарлизит)": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-streptokinaza-dlya-diagnosticheskix-celej-garlizit\">\n</div>\n",
-    "Срок годности Стрептокиназа для диагностических целей (Гарлизит)": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+    "Срок годности Стрептокиназа для диагностических целей (Гарлизит)": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": []
 }

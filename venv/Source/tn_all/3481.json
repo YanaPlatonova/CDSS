@@ -1,0 +1,21 @@
+{
+    "Название": "Хлорхинальдин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  19.07.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3481\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_737.htm\">\n Хлорхинальдол* (Chlorquinaldol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1799.htm\">\n G01AC03 Хлорхинальдол\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_312.htm\">\n   Другие синтетические антибактериальные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6175.htm\">\n   N76 Другие воспалительные болезни влагалища и вульвы\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 вагинальная таблетка содержит хлорхинальдола 200 мг; в блистере 10 шт., в картонной коробке 1 блистер.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противогрибковое, противопротозойное, бактерицидное, антибактериальное\n</span>\n<p class=\"OPIS_POLE\">\n Ингибирует синтез бактериальной\n <span class=\"sokr\" title=\"дезоксирибонуклеиновая кислота\">\n  ДНК\n </span>\n .\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Активен в отношении Corynebacterium diphtheriae, Streptococcus pyogenes, Staphylococcus aureus, Pseudomonas aeruginosa, Proteus vulgaris, Salmonella, Shigella, Escherichia coli, простейших (Entamoeba histolytica, Lamblia intestinalis, Trichomonas vaginalis) и некоторых грибков.\n</p>\n<div id=\"pokazaniya-preparata-xlorxinal`din\">\n</div>\n",
+    "Показания препарата Хлорхинальдин": "<p class=\"OPIS_POLE\">\n Инфекционно-воспалительные заболевания влагалища.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Ощущение зуда и жжения влагалища (исчезает после прекращения лечения).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Интравагинально; вводят глубоко во влагалище, перед сном; по 1 табл. в сутки; курс лечения — 7 дней.\n</p>\n<div id=\"usloviya-xraneniya-preparata-xlorxinal`din\">\n</div>\n",
+    "Условия хранения препарата Хлорхинальдин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-xlorxinal`din\">\n</div>\n",
+    "Срок годности препарата Хлорхинальдин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        6175
+    ],
+    "id": 3481
+}

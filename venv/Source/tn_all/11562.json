@@ -1,0 +1,23 @@
+{
+    "Название": "Пармидина таблетки 0,25 г ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1997\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"11562\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_366.htm\">\n Пирикарбат* (Pyricarbate*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2807.htm\">\n C10AX Гиполипидемические препараты другие\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_213.htm\">\n   Ангиопротекторы и корректоры микроциркуляции\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3342.htm\">\n   H34 Окклюзии сосудов сетчатки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3723.htm\">\n   I25.1 Атеросклеротическая болезнь сердца\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3939.htm\">\n   I67.2 Церебральный атеросклероз\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3960.htm\">\n   I70 Атеросклероз\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит пармидина 0,25 г; в упаковке 100 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — ангиопротективное\n</span>\n<div id=\"pokazaniya-preparata-parmidina-tabletki--g\">\n</div>\n",
+    "Показания препарата Пармидина таблетки 0,25 г": "<p class=\"OPIS_POLE\">\n Атеросклероз сосудов мозга, сердца, конечностей, глаз (комплексное лечение и профилактика).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, печеночная недостаточность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головная боль, диспепсия, аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 0,25–0,75 г 3–4 раза в день. Средняя суточная доза — 1–2 г. Курс — 2–6 мес.\n</p>\n<div id=\"usloviya-xraneniya-preparata-parmidina-tabletki--g\">\n</div>\n",
+    "Условия хранения препарата Пармидина таблетки 0,25 г": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-parmidina-tabletki--g\">\n</div>\n",
+    "Срок годности препарата Пармидина таблетки 0,25 г": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3723,
+        3939,
+        3342,
+        3960
+    ],
+    "id": 11562
+}

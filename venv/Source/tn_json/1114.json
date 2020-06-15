@@ -21,5 +21,9 @@
     "Производитель": "<p class=\"OPIS_POLE\">\n Производитель готовой лекарственной формы, фасовщик, упаковщик: ЛЕО Лэбораторис Лимитед, Ирландия. 285, Кешел Роад, Дублин, 12, Ирландия/LEO Laboratories Limited, Ireland/285, Kashel Road, Dublin, 12, Ireland.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Выпускающий контроль качества: ЛЕО Лэбораторис Лимитед, Ирландия.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Владелец регистрационного удостоверения: ЛЕО Фарма А/С, Дания. Индустрипаркен, 55, ДК-2750, Баллеруп, Дания/LEO Pharma A/S, Denmark. Industriparken, 55, DK-2750, Ballerup, Denmark.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Организация, принимающая претензии потребителей: ООО «ЛЕО Фармасьютикал Продактс».\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Тел.: (495) 760-93-41.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Электронная почта:\n <i>\n  info.ru@leo-pharma.com\n </i>\n</p>\n<div id=\"usloviya-otpuska-iz-aptek\">\n</div>\n",
     "Условия отпуска из аптек": "<p class=\"OPIS_POLE\">\n Без рецепта.\n</p>\n<div id=\"usloviya-xraneniya-preparata-dajvoneks\">\n</div>\n",
     "Условия хранения препарата Дайвонекс®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-dajvoneks\">\n</div>\n",
-    "Срок годности препарата Дайвонекс®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+    "Срок годности препарата Дайвонекс®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4999,
+        5000
+    ]
 }

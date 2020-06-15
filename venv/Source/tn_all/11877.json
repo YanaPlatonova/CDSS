@@ -1,0 +1,25 @@
+{
+    "Название": "Циклодола таблетки ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"11877\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1081.htm\">\n Тригексифенидил* (Trihexyphenidyl*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1223.htm\">\n N04AA01 Тригексифенидил\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_534.htm\">\n   м-, н-Холинолитики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2812.htm\">\n   G20 Болезнь Паркинсона\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2813.htm\">\n   G21 Вторичный паркинсонизм\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2827.htm\">\n   G24 Дистония\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2840.htm\">\n   G25 Другие экстрапирамидные и двигательные нарушения\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3091.htm\">\n   G83 Другие паралитические синдромы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11456.htm\">\n   R25.8.0* Гиперкинез\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит тригексифенидила гидрохлорида 2 мг; в контурной ячейковой упаковке 10 шт., в картонной коробке 5 упаковок.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противопаркинсоническое\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует центральные и периферические м-холинорецепторы.\n</p>\n<div id=\"pokazaniya-preparata-ciklodola-tabletki\">\n</div>\n",
+    "Показания препарата Циклодола таблетки": "<p class=\"OPIS_POLE\">\n Болезнь Паркинсона, паркинсонизм, экстрапирамидные нарушения (спастический паралич, ригидность мышц, гиперкинез, болезнь Литтла).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Глаукома, мерцательная тахиаритмия, артериальная гипертензия, застойная сердечная недостаточность, печеночно-почечная недостаточность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Сухость во рту, головокружение, возбуждение, тахикардия, парез аккомодации.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, во время или после еды, начиная с 0,5–1 мг/сут; в последующие дни прибавляют по 1–2 мг в день до суточной дозы — 5–10 мг (в 1–3 приема).\n</p>\n<div id=\"usloviya-xraneniya-preparata-ciklodola-tabletki\">\n</div>\n",
+    "Условия хранения препарата Циклодола таблетки": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ciklodola-tabletki\">\n</div>\n",
+    "Срок годности препарата Циклодола таблетки": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3091,
+        2827,
+        2840,
+        11456,
+        2812,
+        2813
+    ],
+    "id": 11877
+}

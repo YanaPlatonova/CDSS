@@ -1,0 +1,24 @@
+{
+    "Название": "Сант-Е-гал ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2866\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1546.htm\">\n Витамин E (Vitamin E)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_269.htm\">\n A11HA03 Токоферол (Витамин E)\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_198.htm\">\n   Витамины и витаминоподобные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2000.htm\">\n   D84.9 Иммунодефицит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2209.htm\">\n   E56.0 Недостаточность витамина E\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2827.htm\">\n   G24 Дистония\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3960.htm\">\n   I70 Атеросклероз\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6316.htm\">\n   N95.1 Менопаузное и климактерическое состояние у женщин\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8134.htm\">\n   R53 Недомогание и утомляемость\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_10824.htm\">\n   Z29.1 Профилактическая иммунотерапия\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 драже содержит токоферола ацетата 150 мг; в картонной коробке 3 блистера по 10 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — иммуностимулирующее, антиоксидантное\n</span>\n<p class=\"OPIS_POLE\">\n Защищает липиды мембран от окислительных изменений, ускоряет транспорт жиров и предупреждает развитие склеротических процессов в сосудах, активирует половые железы, замедляет старение клеток организма.\n</p>\n<div id=\"pokazaniya-preparata-sant-e-gal\">\n</div>\n",
+    "Показания препарата Сант-Е-гал": "<p class=\"OPIS_POLE\">\n Сниженная мышечная активность и переносимость психофизических нагрузок, атеросклероз (профилактика), слабая сопротивляемость организма (хронические больные, пациенты с алкогольной зависимостью), климакс.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 1–2 драже в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-sant-e-gal\">\n</div>\n",
+    "Условия хранения препарата Сант-Е-гал": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-sant-e-gal\">\n</div>\n",
+    "Срок годности препарата Сант-Е-гал": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2000,
+        2827,
+        6316,
+        3960,
+        8134,
+        10824,
+        2209
+    ],
+    "id": 2866
+}

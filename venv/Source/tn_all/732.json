@@ -1,0 +1,25 @@
+{
+    "Название": "Венен ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"732\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_447.htm\">\n Эсцин (Aescin)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2751.htm\">\n C05CX Препараты, снижающие проницаемость капилляров, другие\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_213.htm\">\n   Ангиопротекторы и корректоры микроциркуляции\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4019.htm\">\n   I80 Флебит и тромбофлебит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4034.htm\">\n   I83 Варикозное расширение вен нижних конечностей\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4063.htm\">\n   I87.2 Венозная недостаточность (хроническая) (периферическая)\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 драже содержит сухого экстракта семян конского каштана 03,1 г; в упаковке 50 шт.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n 100 г мази содержат нативного сухого экстракта семян конского каштана 1,14–1,6 г; в тюбиках по 100 г.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n 100 г раствора содержат сухого экстракта семян конского каштана 2–2,9 г; во флаконах по 250 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — уменьшающее ломкость и проницаемость сосудов\n</span>\n<div id=\"pokazaniya-preparata-venen\">\n</div>\n",
+    "Показания препарата Венен": "<p class=\"OPIS_POLE\">\n Хроническая венозная недостаточность (отеки на ногах, судороги икроножных мышц, зуд, боли и чувство тяжести в ногах, варикозное расширение вен); посттромботический синдром, посттравматические опухоли и гематомы; язвы голени; воспаление поверхностных вен; мышечные уплотнения и напряжение мышц.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Беременность (первые 3 мес) — для перорального приема драже; гиперчувствительность к компонентам мази; на открытые раны и мокнущие экземы нельзя наносить раствор, содержащий спирт, и мазь.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Раздражение слизистой\n <span class=\"sokr\" title=\"желудочно-кишечный тракт\">\n  ЖКТ\n </span>\n (при приеме драже), кожные аллергические реакции (при местном использовании).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 2 драже 3 раза в день, через 1–2 нед — по 4 драже в день через день.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Наружно: мазь наносится тонким слоем ежедневно многократно, при ушибах и кровоизлияниях — наносят на больное место и втирают (при заболеваниях вен,\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n тромбозах — не втирать); раствор втирают несколько раз в день в пораженные участки тела (при воспалении вен не массируя), возможно наложение марлевого компресса, пропитанного раствором и фиксированного повязкой.\n</p>\n<div id=\"usloviya-xraneniya-preparata-venen\">\n</div>\n",
+    "Условия хранения препарата Венен": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4063,
+        4980,
+        9053,
+        9089,
+        4034,
+        4019,
+        5207
+    ],
+    "id": 732
+}

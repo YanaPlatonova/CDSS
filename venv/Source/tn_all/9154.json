@@ -1,0 +1,30 @@
+{
+    "Название": "Стрептоцида таблетки ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"9154\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1220.htm\">\n Сульфаниламид* (Sulfanilamide*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_678.htm\">\n J01EB06 Сульфаниламид\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_264.htm\">\n   Сульфаниламиды\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3486.htm\">\n   H60 Наружный отит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3517.htm\">\n   H66 Гнойный и неуточненный средний отит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4101.htm\">\n   J01 Острый синусит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4116.htm\">\n   J03.9 Острый тонзиллит неуточненный (ангина агранулоцитарная)\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4117.htm\">\n   J04 Острый ларингит и трахеит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4124.htm\">\n   J06 Острые инфекции верхних дыхательных путей множественной и неуточненной локализации\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4864.htm\">\n   L00-L08 Инфекции кожи и подкожной клетчатки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6061.htm\">\n   N39.0 Инфекция мочевыводящих путей без установленной локализации\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9089.htm\">\n   T14.1 Открытая рана неуточненной области тела\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9612.htm\">\n   T79.3 Посттравматическая раневая инфекция, не классифицированная в других рубриках\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит сульфаниламида 0,3 или 0,5 г; в упаковке 10 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противомикробное\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует усвоение парааминобензоата и синтез фолиевой кислоты в микробной клетке.\n</p>\n<div id=\"pokazaniya-preparata-streptocida-tabletki\">\n</div>\n",
+    "Показания препарата Стрептоцида таблетки": "<p class=\"OPIS_POLE\">\n Инфекции кожи, дыхательных путей, ЛОР-органов, мочевыводящих путей, раневые инфекции (профилактика и лечение).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, заболевания кроветворной системы, почечная недостаточность, тиреотоксикоз.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головная боль, головокружение, тошнота, рвота, цианоз, лейкопения, агранулоцитоз, аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь — по 0,5 г 5–6 раз в день; высшая разовая доза — 2 г, суточная — 7 г; детям до 1 года — 0,05–0,1 г на прием, 2–5 лет — 0,2–0,3 г, 6–12 лет — 0,3–0,5 г. При глубоких ранах вводят в полость раны в виде тщательно измельченного простерилизованного порошка (5–15 г), одновременно назначая антибактериальные препараты внутрь.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n При длительном лечении следует периодически проводить анализ крови.\n</p>\n<div id=\"usloviya-xraneniya-preparata-streptocida-tabletki\">\n</div>\n",
+    "Условия хранения препарата Стрептоцида таблетки": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-streptocida-tabletki\">\n</div>\n",
+    "Срок годности препарата Стрептоцида таблетки": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4101,
+        3486,
+        4116,
+        4117,
+        6061,
+        9089,
+        9612,
+        3517,
+        4864,
+        4124
+    ],
+    "id": 9154
+}

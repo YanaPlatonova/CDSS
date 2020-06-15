@@ -1,0 +1,25 @@
+{
+    "Название": "Витабекс ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"813\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5450.htm\">\n Поливитамины (Multivitamins)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_240.htm\">\n A11AA04 Поливитамины в комбинации с микроэлементами\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_571.htm\">\n   Витамины и витаминоподобные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2199.htm\">\n   E53 Недостаточность других витаминов группы B\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2208.htm\">\n   E56 Недостаточность других витаминов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2229.htm\">\n   E63.1 Несбалансированное поступление пищевых элементов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3011.htm\">\n   G60-G64 Полинейропатии и другие поражения периферической нервной системы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8168.htm\">\n   R63.0 Анорексия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11004.htm\">\n   Z54 Период выздоровления\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 драже с сахарным покрытием содержит тиамина мононитрата (витамина B\n <sub>\n  1\n </sub>\n ) 6 мг, рибофлавина (витамина B\n <sub>\n  2\n </sub>\n ) 3 мг, пиридоксина гидрохлорида (витамина B\n <sub>\n  6\n </sub>\n ) 1,5 мг, никотинамида 20 мг, кальция пантотената 3 мг; в упаковке 30 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — восполняющее дефицит витаминов группы B\n</span>\n<p class=\"OPIS_POLE\">\n Нормализует обмен веществ. Активирует окислительно-восстановительные процессы, повышает сопротивляемость организма инфекциям.\n</p>\n<div id=\"pokazaniya-preparata-vitabeks\">\n</div>\n",
+    "Показания препарата Витабекс": "<p class=\"OPIS_POLE\">\n Абсолютная или относительная недостаточность витаминов группы B, сниженный аппетит, полиневриты различной этиологии, беременность, лактация.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n к любому компоненту препарата).\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Рекомендуется.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, во время или после еды. Взрослым — по 1–2 драже 3 раза в день, детям — по 1 драже 3 раза в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-vitabeks\">\n</div>\n",
+    "Условия хранения препарата Витабекс": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-vitabeks\">\n</div>\n",
+    "Срок годности препарата Витабекс": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2229,
+        2199,
+        11004,
+        8168,
+        3011,
+        2208
+    ],
+    "id": 813
+}

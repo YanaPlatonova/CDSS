@@ -1,0 +1,21 @@
+{
+    "Название": "Фариал ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3328\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1981.htm\">\n Инданазолин* (Indanazoline*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_160.htm\">\n   Альфа-адреномиметики\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_234.htm\">\n   Антиконгестанты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4100.htm\">\n   J00 Острый назофарингит [насморк]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4199.htm\">\n   J31 Хронический ринит, назофарингит и фарингит\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 мл раствора содержит инданазолина гидрохлорида 1,18 мг; во флаконах по 10 мл, в коробке 1 флакон.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — вазоконстрикторное\n</span>\n<p class=\"OPIS_POLE\">\n Уменьшает отечность слизистой оболочки носа и носоглотки. Возбуждает альфа\n <sub>\n  1\n </sub>\n -адренорецепторы.\n</p>\n<div id=\"pokazaniya-preparata-farial\">\n</div>\n",
+    "Показания препарата Фариал": "<p class=\"OPIS_POLE\">\n Отечность слизистой оболочки носа при остром и хроническом рините.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, атрофический ринит, закрытоугольная глаукома.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Только по строгим показаниям (особенно в I триместре беременности).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Преходящая гиперсекреция (в течение нескольких часов), тошнота, головокружение, бронхоспазм, повышение\n <span class=\"sokr\" title=\"артериальное давление\">\n  АД\n </span>\n ,  тахикардия, першение в горле, атрофия слизистой носа (при длительном применении), аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Интраназально, 3–4 раза в сутки по одному впрыскиванию в каждую ноздрю. Если после 2\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n применения, например, при хроническом воспалении слизистой оболочки носа, жалобы не прекращаются, продолжать лечение можно только по рекомендации врача.\n</p>\n<div id=\"usloviya-xraneniya-preparata-farial\">\n</div>\n",
+    "Условия хранения препарата Фариал": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-farial\">\n</div>\n",
+    "Срок годности препарата Фариал": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4100,
+        4199
+    ],
+    "id": 3328
+}

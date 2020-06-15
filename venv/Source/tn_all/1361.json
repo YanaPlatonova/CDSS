@@ -1,0 +1,22 @@
+{
+    "Название": "Допанол ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"1361\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_105.htm\">\n Метилдопа* (Methyldopa*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2634.htm\">\n C02AB02 Метилдопа (рацемическая смесь)\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_160.htm\">\n   Альфа-адреномиметики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3669.htm\">\n   I10 Эссенциальная (первичная) гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3681.htm\">\n   I15 Вторичная гипертензия\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит метилдопы 250 мг; в упаковке 50 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — симпатолитическое, гипотензивное\n</span>\n<p class=\"OPIS_POLE\">\n Снижает активность ренина в плазме крови.\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n Всасывание из\n <span class=\"sokr\" title=\"желудочно-кишечный тракт\">\n  ЖКТ\n </span>\n около 50%,\n <span class=\"sokr\" title=\"максимальная концентрация\">\n  C\n  <sub>\n   max\n  </sub>\n </span>\n — через 2–6 ч (соответствует максимальному гипотензивному эффекту), длительность действия — 24 ч.\n</p>\n<div id=\"pokazaniya-preparata-dopanol\">\n</div>\n",
+    "Показания препарата Допанол": "<p class=\"OPIS_POLE\">\n Артериальная гипертония.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, депрессия, гепатит, феохромоцитома, гемолитическая анемия.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Угнетение\n <span class=\"sokr\" title=\"центральная нервная система\">\n  ЦНС\n </span>\n (седация, головная боль, головокружение), ортостатическая гипотония, брадикардия, отеки, сухость во рту, диспептические расстройства (тошнота, рвота, метеоризм, диарея, запоры), гинекомастия, нарушение функции печени, потенции, гемолитическая анемия, повышение уровня аминотрансфераз, лихорадка, аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь по 250 мг 2–3 раза в день (в течение первых 2 дней), затем суточную дозу можно увеличить или (реже) сократить на 250–500 мг; как правило, вводят дополнительную дозу вечером; обычная суточная доза 1–2 г.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Детям первоначально — по 10 мг/кг (не более 65 мг/кг) в сутки в 2–4 приема.\n</p>\n<div id=\"usloviya-xraneniya-preparata-dopanol\">\n</div>\n",
+    "Условия хранения препарата Допанол": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-dopanol\">\n</div>\n",
+    "Срок годности препарата Допанол": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3669,
+        3681
+    ],
+    "id": 1361
+}

@@ -1,0 +1,21 @@
+{
+    "Название": "Проставерн® Уртика ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  27.05.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"7214\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4728.htm\">\n Крапивы жгучей корней экстракт (Urtica radicibus extract)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_238.htm\">\n   Средства, влияющие на обмен веществ в предстательной железе, и корректоры уродинамики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6069.htm\">\n   N40 Гиперплазия предстательной железы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8051.htm\">\n   R30.0 Дизурия\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 100 г раствора для приема внутрь содержат жидкого экстракта из корней крапивы 100 г, а также этанол 30 об.%; во флаконах-капельницах темного стекла 100 мл, в комплекте с мерным стаканчиком, в картонной пачке 1 комплект.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антидизурическое\n</span>\n<p class=\"OPIS_POLE\">\n Повышает уродинамику, объем мочеиспускания; понижает количество остаточной мочи в мочевом пузыре.\n</p>\n<div id=\"pokazaniya-preparata-prostavern-urtika\">\n</div>\n",
+    "Показания препарата Проставерн® Уртика": "<p class=\"OPIS_POLE\">\n Дизурия при аденоме предстательной железы I и II степени.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Диспептические явления.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, 5 мл (мерный стаканчик) 1 раз в сутки или по 2–3 мл 2 раза в сутки.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n С осторожностью назначают при заболеваниях печени, эпилепсии, повреждениях головного мозга, больным алкоголизмом (препарат содержит 30% алкоголя).\n</p>\n<div id=\"usloviya-xraneniya-preparata-prostavern-urtika\">\n</div>\n",
+    "Условия хранения препарата Проставерн® Уртика": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-prostavern-urtika\">\n</div>\n",
+    "Срок годности препарата Проставерн® Уртика": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        8051,
+        6069
+    ],
+    "id": 7214
+}

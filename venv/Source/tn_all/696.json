@@ -1,0 +1,32 @@
+{
+    "Название": "Бурана ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"696\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_100.htm\">\n Ибупрофен* (Ibuprofen*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1006.htm\">\n M01AE01 Ибупрофен\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_544.htm\">\n   НПВС — Производные пропионовой кислоты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2900.htm\">\n   G43 Мигрень\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5270.htm\">\n   M00-M25 Артропатии\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5371.htm\">\n   M15-M19 Артрозы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5467.htm\">\n   M25.5 Боль в суставе\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5541.htm\">\n   M42 Остеохондроз позвоночника\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5745.htm\">\n   M79.0 Ревматизм неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5746.htm\">\n   M79.1 Миалгия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5747.htm\">\n   M79.2 Невралгия и неврит неуточненные\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_6311.htm\">\n   N94.6 Дисменорея неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8124.htm\">\n   R50 Лихорадка неясного происхождения\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8128.htm\">\n   R51 Головная боль\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8129.htm\">\n   R52 Боль, не классифицированная в других рубриках\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9053.htm\">\n   T08-T14 Травмы неуточненной части туловища, конечности или области тела\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая оболочкой, содержит ибупрофена 200 или 400 мг; в блистере 10 шт., в коробке 2 или 1 блистер соответственно, или во флаконах по 100 шт., в коробке 1 флакон.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — анальгезирующее, противовоспалительное\n</span>\n<p class=\"OPIS_POLE\">\n Ингибирует циклооксигеназу, синтез\n <span class=\"sokr\" title=\"простагландины\">\n  ПГ\n </span>\n ,  стимулирует образование эндогенного интерферона.\n</p>\n<div id=\"pokazaniya-preparata-burana\">\n</div>\n",
+    "Показания препарата Бурана": "<p class=\"OPIS_POLE\">\n Остеохондроз, остеоартроз, артриты, боли (ревматические, послеоперационные, посттравматические, головные, зубные, невралгия, миалгия, артралгия), мигрень, дисальгоменорея, лихорадочный синдром.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Язвенная болезнь желудка и двенадцатиперстной кишки в стадии обострения, язвенный колит, заболевания зрительного нерва, «аспириновая» бронхиальная астма.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Диспепсия, головная боль, головокружение, нарушения зрения.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 400–600 мг 3 раза в сутки, максимальная суточная доза — 2400 мг, поддерживающая — 800–1600 мг в сутки; детям — 20–40 мг/кг за 3–4 приема в сутки.\n</p>\n<div id=\"usloviya-xraneniya-preparata-burana\">\n</div>\n",
+    "Условия хранения препарата Бурана": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-burana\">\n</div>\n",
+    "Срок годности препарата Бурана": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        5747,
+        8129,
+        8128,
+        5746,
+        6311,
+        5745,
+        5541,
+        9053,
+        5467,
+        2900,
+        5270,
+        5371,
+        8124
+    ],
+    "id": 696
+}

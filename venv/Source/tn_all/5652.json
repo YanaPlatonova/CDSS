@@ -1,0 +1,22 @@
+{
+    "Название": "Деманол ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"5652\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1788.htm\">\n Деанола ацеглумат* (Deanol aceglumate*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1348.htm\">\n N06BX Другие психостимуляторы и ноотропные препараты\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_46.htm\">\n   Ноотропы\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2438.htm\">\n   F10.2 Синдром алкогольной зависимости\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2452.htm\">\n   F20 Шизофрения\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2501.htm\">\n   F32 Депрессивный эпизод\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2572.htm\">\n   F48.0 Неврастения\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8134.htm\">\n   R53 Недомогание и утомляемость\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 чайная ложка раствора содержит деанола ацеглумата 1 г; во флаконах по 100 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — церебропротективное, ноотропное\n</span>\n<p class=\"OPIS_POLE\">\n Связывает свободные радикалы, улучшает организацию основного ритма\n <span class=\"sokr\" title=\"электрокардиограмма, электрокардиография\">\n  ЭКГ\n </span>\n ,  сглаживает межполушарную асимметрию, стимулирует процессы тканевого обмена.\n</p>\n<div id=\"pokazaniya-preparata-demanol\">\n</div>\n",
+    "Показания препарата Деманол": "<p class=\"OPIS_POLE\">\n Астенические и астенодепрессивные расстройства (пограничные состояния, психоорганический синдром, шизофрения, алкоголизм).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 1 ч.ложке 2–3 раза в день (последний прием — не позднее 16–18 ч) в течение 1,5–2 мес; максимальная разовая доза — 2 г, суточная — 10 г.\n</p>\n<div id=\"usloviya-xraneniya-preparata-demanol\">\n</div>\n",
+    "Условия хранения препарата Деманол": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-demanol\">\n</div>\n",
+    "Срок годности препарата Деманол": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2438,
+        2572,
+        2501,
+        2452,
+        8134
+    ],
+    "id": 5652
+}

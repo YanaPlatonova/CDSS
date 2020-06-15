@@ -1,0 +1,22 @@
+{
+    "Название": "Биттнер травяной эликсир ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"621\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_304.htm\">\n A13A Общетонизирующие препараты\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_48.htm\">\n   Общетонизирующие средства и адаптогены\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_223.htm\">\n   Желчегонные средства и препараты желчи\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_236.htm\">\n   Диуретики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2229.htm\">\n   E63.1 Несбалансированное поступление пищевых элементов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4561.htm\">\n   K31 Другие болезни желудка и двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4814.htm\">\n   K83 Другие болезни желчевыводящих путей\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n Эликсир на основе комплекса лекарственных растений (цветки гвоздичного дерева, плоды аниса, корневище аира, корень солодки, лист мяты перечной, цветки лаванды, цветки хмеля, листья мелиссы и др.); содержит 18,4% сахара, 27% спирта этилового; во флаконах по 50, 100, 200, 250, 300 и 500 мл.\n</p>\n<div id=\"xarakteristika\">\n</div>\n",
+    "Характеристика": "<p class=\"OPIS_POLE\">\n Прозрачная жидкость красно-коричневого цвета со специфическим запахом, сладковато-пряного вкуса.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — диуретическое, желчегонное, психостимулирующее\n</span>\n<div id=\"pokazaniya-preparata-bittner-travyanoj-ehliksir\">\n</div>\n",
+    "Показания препарата Биттнер травяной эликсир": "<p class=\"OPIS_POLE\">\n Нервное перенапряжение, умственная и физическая перегрузка, предстрессовые и стрессовые состояния, нервные расстройства; атония кишечника, застой желчи; нарушения водно-солевого баланса (в качестве сопутствующего средства).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, нефрит, нефрозонефрит, почечная и печеночная недостаточность, цирроз \nпечени, закупорка желчевыводящих путей, сахарный диабет, беременность, лактация, детский возраст (ввиду содержания \nспирта).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Не выявлены.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь по 1–2 чайные ложки 3–4 раза в день за полчаса до еды или через ч после еды.\n</p>\n<div id=\"usloviya-xraneniya-preparata-bittner-travyanoj-ehliksir\">\n</div>\n",
+    "Условия хранения препарата Биттнер травяной эликсир": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-bittner-travyanoj-ehliksir\">\n</div>\n",
+    "Срок годности препарата Биттнер травяной эликсир": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2229,
+        4561,
+        4814
+    ],
+    "id": 621
+}

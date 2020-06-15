@@ -1,0 +1,30 @@
+{
+    "Название": "Нифесан ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2330\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_25.htm\">\n Нифедипин* (Nifedipine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1525.htm\">\n C08CA05 Нифедипин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_215.htm\">\n   Блокаторы кальциевых каналов\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3669.htm\">\n   I10 Эссенциальная (первичная) гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3681.htm\">\n   I15 Вторичная гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3688.htm\">\n   I20 Стенокардия [грудная жаба]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3724.htm\">\n   I25.2 Перенесенный в прошлом инфаркт миокарда\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3984.htm\">\n   I73 Другие болезни периферических сосудов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3985.htm\">\n   I73.0 Синдром Рейно\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7964.htm\">\n   R07.2 Боль в области сердца\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит нифедипина 10 мг, в упаковке 50 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — артериодилатирующее, сосудорасширяющее, гипотензивное, антиангинальное\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует кальциевые каналы.\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n Всасывается около 90%, биодоступность 45–70%. Максимальный уровень концентрации в плазме достигается через 30–60 мин, полупериод элиминации — 1,8 ч, длительность эффекта — 8–12 ч. Выводится почками в виде неактивных метаболитов.\n</p>\n<div id=\"pokazaniya-preparata-nifesan\">\n</div>\n",
+    "Показания препарата Нифесан": "<p class=\"OPIS_POLE\">\n Артериальная гипертония, стенокардия (профилактика и купирование), стенокардия после инфаркта миокарда, болезнь Рейно, спазм периферических артерий.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, гипотония, тяжелая сердечно-сосудистая недостаточность.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n При беременности не рекомендован.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головокружение, головная боль, слабость, гипотония, тахикардия, аллергические реакции.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Эффект возрастает при одновременном назначении бета-адреноблокаторов и нитратов. Усиливает гипотензивное действие диуретиков и трициклических антидепрессантов.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, во время или после еды по 1 таблетке 3–4 раза в день (но не более 180 мг в день). Для купирования гипертонического криза — сублингвально.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Осторожно назначать кормящим матерям, а также лицам, профессия которых требует повышенной концентрации внимания (вождение автомобиля и т.п.).\n</p>\n<div id=\"usloviya-xraneniya-preparata-nifesan\">\n</div>\n",
+    "Условия хранения препарата Нифесан": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-nifesan\">\n</div>\n",
+    "Срок годности препарата Нифесан": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        7964,
+        3724,
+        3669,
+        3681,
+        3985,
+        3984,
+        3688
+    ],
+    "id": 2330
+}

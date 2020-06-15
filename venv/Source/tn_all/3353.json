@@ -1,0 +1,23 @@
+{
+    "Название": "Фентанил ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  22.07.2004\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3353\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1324.htm\">\n Фентанил* (Fentanyl*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1115.htm\">\n N01AH01 Фентанил\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_645.htm\">\n   Опиоидные наркотические анальгетики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8131.htm\">\n   R52.1 Постоянная некупирующаяся боль\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11368.htm\">\n   Z100* КЛАСС XXII Хирургическая практика\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 мл раствора для инъекций содержит фентанила 0,05 мг; в упаковке 5 ампул по 1 и 2 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — анальгезирующее\n</span>\n<p class=\"OPIS_POLE\">\n Стимулирует опиатные рецепторы.\n</p>\n<div id=\"pokazaniya-preparata-fentanil\">\n</div>\n",
+    "Показания препарата Фентанил": "<p class=\"OPIS_POLE\">\n Премедикация, нейролептанальгезия, выраженный болевой синдром.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, акушерские операции, бронхиальная астма, угнетение дыхательного центра, наркомания.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Угнетение дыхания (в больших дозах); брадикардия, ригидность мышц, бронхоспазм.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n В/в,\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n ,  взрослым, при подготовке к операции: в/в — по 0,05–0,1 мг (в комбинации с 2,5–5 мг дроперидола) за 10–15 мин до наркоза; для хирургического наркоза: в/в — по 0,05–0,2 мг через каждые 20–30 мин. Детям при подготовке к операции — 0,002 мг/кг массы тела; для хирургического наркоза: в/в — 0,01–0,15 мг/кг или\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n 0,15–0,25 мг/кг; для поддержания хирургического наркоза: в/м — по 0,001–0,002 мг/кг.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Рекомендуется применять под наблюдением врача-анестезиолога и с использованием соответствующего анестезиологического оборудования.\n</p>\n<div id=\"usloviya-xraneniya-preparata-fentanil\">\n</div>\n",
+    "Условия хранения препарата Фентанил": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-fentanil\">\n</div>\n",
+    "Срок годности препарата Фентанил": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Фентанил - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61873\">\n  Р N002020/01 от 2017-11-23\n </a>\n <br/>\n Фентанил - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61873\">\n  Р N002020/01 от 2016-11-30\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        11368,
+        8131
+    ],
+    "id": 3353
+}

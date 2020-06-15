@@ -1,0 +1,23 @@
+{
+    "Название": "Тамоксен ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1997\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3076\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_300.htm\">\n Тамоксифен* (Tamoxifen*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_945.htm\">\n L02BA01 Тамоксифен\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_64.htm\">\n   Эстрогены, гестагены; их гомологи и антагонисты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_271.htm\">\n   Противоопухолевые гормональные средства и антагонисты гормонов\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1208.htm\">\n   C50 Злокачественные новообразования молочной железы\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит тамоксифена цитрата 10 или 20 мг; в упаковке 30, 60 и 100 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антиэстрогенное, противоопухолевое\n</span>\n<div id=\"pokazaniya-preparata-tamoksen\">\n</div>\n",
+    "Показания препарата Тамоксен": "<p class=\"OPIS_POLE\">\n Рак молочной железы (главным образом в постменопаузном периоде).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, беременность.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Противопоказано при беременности. Во время лечения следует обеспечивать надежную контрацепцию.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Потеря аппетита, тошнота, рвота, приливы, головокружение, головная боль, депрессия; периферические отеки, тромбоцитопения, лейкопения, анемия, редко — гиперкальциемия. У больных, получающих исключительно высокие дозы в течение длительного времени, возможно появление офтальмологических реакций (снижение остроты зрения, помутнение роговицы, ретинопатия).\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Усиливает гепатотоксичность аллопуринола, эффект производных кумарина.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 10–20 мг 2 раза в день.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Необходимо контролировать содержание кальция в крови (особенно при метастазировании в кости). Высокий уровень (гиперкальциемия) требует прекращения лечения. С осторожностью назначать пациентам с лейкопенией или тромбоцитопенией (необходимо периодически производить полный анализ крови).\n</p>\n<div id=\"usloviya-xraneniya-preparata-tamoksen\">\n</div>\n",
+    "Условия хранения препарата Тамоксен": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-tamoksen\">\n</div>\n",
+    "Срок годности препарата Тамоксен": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        1208
+    ],
+    "id": 3076
+}

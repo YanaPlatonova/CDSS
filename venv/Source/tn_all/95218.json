@@ -1,0 +1,14 @@
+{
+    "Название": "Аваксим 160 ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"95218\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4724.htm\">\n Вакцина для профилактики вирусного гепатита А (Vaccine hepatitis A)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_841.htm\">\n J07BC02 Вирус гепатита А инактивированный цельный\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_180.htm\">\n   Вакцины, сыворотки, фаги и анатоксины\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_524.htm\">\n   B15 Острый гепатит A\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-avaksim--vakcina-dlya-profilaktiki-gepatita-a-inaktivirovannaya-adsorbirovannaya\">\n</div>\n",
+    "Условия хранения препарата Аваксим 160 (вакцина для профилактики гепатита А инактивированная, адсорбированная)": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-avaksim--vakcina-dlya-profilaktiki-gepatita-a-inaktivirovannaya-adsorbirovannaya\">\n</div>\n",
+    "Срок годности препарата Аваксим 160 (вакцина для профилактики гепатита А инактивированная, адсорбированная)": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        524
+    ],
+    "id": 95218
+}

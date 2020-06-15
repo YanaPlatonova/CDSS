@@ -1,0 +1,23 @@
+{
+    "Название": "Мибирон ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2100\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_162.htm\">\n Астемизол* (Astemizole*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2126.htm\">\n R06AX11 Астемизол\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_182.htm\">\n   H\n   <sub>\n    1\n   </sub>\n   -антигистаминные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3215.htm\">\n   H10.1 Острый атопический конъюнктивит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4199.htm\">\n   J31 Хронический ринит, назофарингит и фарингит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5035.htm\">\n   L50 Крапивница\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9604.htm\">\n   T78.4 Аллергия неуточненная\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит астемизола 10 мг, в упаковке 10 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антигистаминное\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует гистаминовые H\n <sub>\n  1\n </sub>\n -рецепторы.\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n После приема разовой дозы\n <span class=\"sokr\" title=\"максимальная концентрация\">\n  C\n  <sub>\n   max\n  </sub>\n </span>\n в плазме крови определяется через 30–60 мин; метаболизируется в печени, выделяется главным образом с желчью.\n</p>\n<div id=\"pokazaniya-preparata-mibiron\">\n</div>\n",
+    "Показания препарата Мибирон": "<p class=\"OPIS_POLE\">\n Аллергические заболевания, аллергический ринит, аллергический конъюнктивит, крапивница.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, беременность, лактация, возраст (до 6 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Увеличение массы тела, головокружения, вестибулярные нарушения, сонливость, лейкопения.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, натощак по 1 таблетке в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-mibiron\">\n</div>\n",
+    "Условия хранения препарата Мибирон": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        5035,
+        4199,
+        3215,
+        9604
+    ],
+    "id": 2100
+}

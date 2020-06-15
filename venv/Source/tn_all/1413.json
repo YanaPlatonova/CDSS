@@ -1,0 +1,21 @@
+{
+    "Название": "Зимокс ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"1413\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3349.htm\">\n Леводопа + Карбидопа (Levodopa + Carbidopa)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1228.htm\">\n N04BA02 Леводопа и ингибитор декарбоксилазы\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_596.htm\">\n   Дофаминомиметики в комбинациях\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_602.htm\">\n   Противопаркинсонические средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2812.htm\">\n   G20 Болезнь Паркинсона\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2813.htm\">\n   G21 Вторичный паркинсонизм\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит леводопы 250 мг и карбидопы 25 мг, в упаковке 30 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — дофаминергическое, противопаркинсоническое\n</span>\n<p class=\"OPIS_POLE\">\n Ингибирует дофа-декарбоксилазу.\n</p>\n<div id=\"pokazaniya-preparata-zimoks\">\n</div>\n",
+    "Показания препарата Зимокс": "<p class=\"OPIS_POLE\">\n Паркинсонизм.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, сердечно-сосудистые, легочные нарушения, печеночно-почечная недостаточность, язвенная болезнь желудка и двенадцатиперстной кишки, глаукома, сахарный диабет, артериальная гипертензия, застойная сердечная недостаточность, беременность, лактация, возраст (до 18 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Паранойя, психоз, депрессия, тревожность, гиперкинезы, нарушение речи, головная боль, головокружение, сонливость, нарушение координации, тревога, стресс, ортостатическая гипотония, аритмия, анорексия, тошнота, рвота, гиперсаливация, гастралгия, недержание мочи, затруднение мочеиспускания, полиурия.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, начальная доза — 125 мг леводопы 3–4 раза в день, суточная — 750 мг — 1,5 г в несколько приемов после еды.\n</p>\n<div id=\"usloviya-xraneniya-preparata-zimoks\">\n</div>\n",
+    "Условия хранения препарата Зимокс": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-zimoks\">\n</div>\n",
+    "Срок годности препарата Зимокс": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2812,
+        2813
+    ],
+    "id": 1413
+}

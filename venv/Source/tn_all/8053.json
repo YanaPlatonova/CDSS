@@ -1,0 +1,25 @@
+{
+    "Название": "Фазин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1997\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"8053\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_527.htm\">\n Оксиметазолин* (Oxymetazoline*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1972.htm\">\n R01AA05 Оксиметазолин\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_160.htm\">\n   Альфа-адреномиметики\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_234.htm\">\n   Антиконгестанты\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3517.htm\">\n   H66 Гнойный и неуточненный средний отит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4193.htm\">\n   J30 Вазомоторный и аллергический ринит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4199.htm\">\n   J31 Хронический ринит, назофарингит и фарингит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4205.htm\">\n   J32 Хронический синусит\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 мл раствора содержит оксиметазолина гидрохлорида 0,5 мг; во флаконах-капельницах по 30 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — альфа-адреномиметическое, сосудосуживающее\n</span>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Суживает артериолы слизистой оболочки носа, что приводит к снижению отека, гиперемии и экссудации.\n</p>\n<div id=\"pokazaniya-preparata-fazin\">\n</div>\n",
+    "Показания препарата Фазин": "<p class=\"OPIS_POLE\">\n Острый ринит, синусит, евстахиит, средний отит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, сухой ринит, хроническая сердечная недостаточность, гипертиреоз, сахарный диабет, беременность, детский возраст (до 1 года).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Жжение и сухость слизистой носовых ходов, чихание, сухость во рту и горле, тошнота, головокружение, повышенная возбудимость, нарушение сна, сердцебиение, гипертензия; атрофия слизистой оболочки (при длительном применении).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Интраназально, взрослым и детям старше 6 лет — по 2–3 капли в каждую ноздрю каждые 10–12 ч.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Рекомендуется использовать не более 3 дней. Если за этот период времени улучшения не наблюдается, необходимо обратиться к врачу. У детей от 1 года до 6 лет применяют только после консультации с врачом.\n</p>\n<div id=\"usloviya-xraneniya-preparata-fazin\">\n</div>\n",
+    "Условия хранения препарата Фазин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-fazin\">\n</div>\n",
+    "Срок годности препарата Фазин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4205,
+        4199,
+        4193,
+        3517
+    ],
+    "id": 8053
+}

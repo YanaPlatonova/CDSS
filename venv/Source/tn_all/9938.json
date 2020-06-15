@@ -1,0 +1,29 @@
+{
+    "Название": "Жидкий антацид «Йорк» с симетиконом ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"9938\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_40.htm\">\n A02AF02 Простые комбинации солей и ветрогонных препаратов\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_227.htm\">\n   Антациды\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4541.htm\">\n   K25 Язва желудка\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4542.htm\">\n   K26 Язва двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4545.htm\">\n   K29 Гастрит и дуоденит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4551.htm\">\n   K29.5 Хронический гастрит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4561.htm\">\n   K31 Другие болезни желудка и двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4753.htm\">\n   K72 Печеночная недостаточность, не классифицированная в других рубриках (в том числе печеночная кома)\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4855.htm\">\n   K92.2 Желудочно-кишечное кровотечение неуточненное\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7985.htm\">\n   R12 Изжога\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9323.htm\">\n   T39 Отравление неопиоидными аналгезирующими, жаропонижающими и противоревматическими средствами\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 флакон с 355 мл суспензии для приема внутрь со вкусом ментола или вишни содержит магния гидроксида 220 мг, алюминия гидроксида 200 мг и симетикона 20 мг.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — ветрогонное, обволакивающее, адсорбирующее, антацидное\n</span>\n<p class=\"OPIS_POLE\">\n Нейтрализует соляную кислоту, создает экранирующую пленку на слизистых. При длительном применении не вызывает запоров.\n</p>\n<div id=\"pokazaniya-preparata-zhidkij-antacid-«jork»-s-simetikonom\">\n</div>\n",
+    "Показания препарата Жидкий антацид «Йорк» с симетиконом": "<p class=\"OPIS_POLE\">\n Язвенная болезнь желудка и двенадцатиперстной кишки, гастриты (острые, хронические, с нормальной или повышенной секрецией, эрозивные и др.), гастропатия (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n при печеночной недостаточности), желудочные кровотечения, дискомфорт в области желудка (вследствие погрешностей в диете, длительного применения лекарственных средств, излишнего употребления алкоголя, никотина, кофе и др.).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Выраженные нарушения функции почек.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Повышение концентрации алюминия и магния в сыворотке крови, развитие дефицита фосфора (при длительном применении).\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Снижает всасывание фторхинолонов, тетрациклинов и ряда\n <span class=\"sokr\" title=\"другие\">\n  др.\n </span>\n лекарственных соединений.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, через 20–40 мин после еды и на ночь. По 2–4 ч.ложки 4 раза в день, но не более 16 ч.ложек в сутки.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n С осторожностью применяют при беременности (только по назначению врача).\n</p>\n<div id=\"usloviya-xraneniya-preparata-zhidkij-antacid-«jork»-s-simetikonom\">\n</div>\n",
+    "Условия хранения препарата Жидкий антацид «Йорк» с симетиконом": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-zhidkij-antacid-«jork»-s-simetikonom\">\n</div>\n",
+    "Срок годности препарата Жидкий антацид «Йорк» с симетиконом": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4855,
+        9323,
+        4561,
+        4545,
+        4551,
+        4753,
+        4541,
+        4542,
+        7985
+    ],
+    "id": 9938
+}

@@ -1,0 +1,23 @@
+{
+    "Название": "Эдас-401М ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2000\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"12380\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_296.htm\">\n   Гомеопатические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4034.htm\">\n   I83 Варикозное расширение вен нижних конечностей\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_5746.htm\">\n   M79.1 Миалгия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9053.htm\">\n   T08-T14 Травмы неуточненной части туловища, конечности или области тела\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9088.htm\">\n   T14.0 Поверхностная травма неуточненной области тела\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n Оподельдок (на основе мыльного спирта), содержащий Arnica D3, Hamamelis D3, Rhus tox. D3; во флаконах из стекломассы по 100 мл, в футляре 1 флакон.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противовоспалительное, дерматопротективное, ранозаживляющее\n</span>\n<p class=\"OPIS_POLE\">\n Способствует регенерации тканей и эпителизации кожи.\n</p>\n<div id=\"pokazaniya-preparata-ehdas-m\">\n</div>\n",
+    "Показания препарата Эдас-401М": "<p class=\"OPIS_POLE\">\n Закрытые травмы, ушибы, кровоподтеки, миалгия, варикозное расширение вен.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n к мыльному спирту).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Не выявлены.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Совместим с любыми фармакологическими средствами.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Наружно, небольшое количество наносят на кожу пораженных участков кожи, растирать в направлении снизу вверх 2–3 раза в день.\n</p>\n<div id=\"osobye-ukazaniya\">\n</div>\n",
+    "Особые указания": "<p class=\"OPIS_POLE\">\n Перед употреблением флакон необходимо взболтать.\n</p>\n<div id=\"usloviya-xraneniya-preparata-ehdas-m\">\n</div>\n",
+    "Условия хранения препарата Эдас-401М": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ehdas-m\">\n</div>\n",
+    "Срок годности препарата Эдас-401М": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        5746,
+        9053,
+        9088,
+        4034
+    ],
+    "id": 12380
+}

@@ -1,0 +1,24 @@
+{
+    "Название": "Тразикор® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3187\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1203.htm\">\n Окспренолол* (Oxprenolol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_165.htm\">\n   Бета-адреноблокаторы\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3669.htm\">\n   I10 Эссенциальная (первичная) гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3681.htm\">\n   I15 Вторичная гипертензия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3688.htm\">\n   I20 Стенокардия [грудная жаба]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3858.htm\">\n   I49.4 Другая и неуточненная преждевременная деполяризация\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7964.htm\">\n   R07.2 Боль в области сердца\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая оболочкой, содержит окспренолола 80 мг; в упаковке 40 шт.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n 1 таблетка — 20 мг; в коробке 2 блистера по 20 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антиаритмическое, гипотензивное, антиангинальное\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует бета-адренорецепторы, обладает собственной симпатомиметической активностью.\n</p>\n<div id=\"pokazaniya-preparata-trazikor\">\n</div>\n",
+    "Показания препарата Тразикор®": "<p class=\"OPIS_POLE\">\n Артериальная гипертония, стенокардия (профилактика приступов), экстрасистолия, гиперкинетический кардиальный синдром.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, AV-блокада II и III степени, синоатриальная блокада, брадикардия, синдром слабости синусового узла, гипотония, хроническая сердечная недостаточность, бронхиальная астма, кетоацидоз.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Не рекомендуется.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Бронхоспазм, брадикардия,\n <span class=\"sokr\" title=\"атриовентрикулярный\">\n  AV\n </span>\n блокада, артериальная гипотония, сердечная недостаточность, спазм периферических сосудов, похолодание конечностей, головокружение, слабость, аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 160–480 мг в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-trazikor\">\n</div>\n",
+    "Условия хранения препарата Тразикор®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-trazikor\">\n</div>\n",
+    "Срок годности препарата Тразикор®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        7964,
+        3669,
+        3858,
+        3681,
+        3688
+    ],
+    "id": 3187
+}

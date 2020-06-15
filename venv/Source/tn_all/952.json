@@ -1,0 +1,31 @@
+{
+    "Название": "Гепарин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  22.06.2005\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"952\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_137.htm\">\n Гепарин натрия* (Heparin sodium*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_327.htm\">\n B01AB01 Гепарин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_172.htm\">\n   Антикоагулянты\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<div class=\"tw\">\n <table align=\"left\" border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Раствор для инъекций\n    </td>\n    <td class=\"PrepInSost_Val\">\n     5 мл\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     гепарин натрий\n    </td>\n    <td class=\"CompSost_Val\">\n     25000 МЕ\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<br clear=\"all\"/>\n<p class=\"PrepUpack\">\n в пузырьках по 5 мл; в коробке 10, 50 или 100 пузырьков.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n <i>\n  В/в\n </i>\n (инфузионно или инъекционно) или\n <i>\n  п/к,\n </i>\n начальная доза —\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n (инъекционно) 5000 МЕ, поддерживающая: непрерывная\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n инфузия — 1000–2000 МЕ/ч (20000–40000 МЕ/сут), предварительно разводя в 1000 мл изотонического раствора NaCl; регулярные\n <span class=\"sokr\" title=\"внутривенно\">\n  в/в\n </span>\n инъекции — по 5000–10000 МЕ каждые 4–6 ч;\n <span class=\"sokr\" title=\"подкожно\">\n  п/к\n </span>\n (глубоко) — по 15000–20000 МЕ каждые 12 ч или по 8000–10000 МЕ каждые 8 ч.\n</p>\n<div id=\"usloviya-xraneniya-preparata-geparin\">\n</div>\n",
+    "Условия хранения препарата Гепарин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-geparin\">\n</div>\n",
+    "Срок годности препарата Гепарин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Гепарин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/59543\">\n  Р N000185/01 от 2016-10-10\n </a>\n <br/>\n Гепарин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/36888\">\n  ЛП-000427 от 2012-09-11\n </a>\n <br/>\n Гепарин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40570\">\n  ЛП-004117 от 2017-02-03\n </a>\n <br/>\n Гепарин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/37899\">\n  ЛП-001441 от 2016-04-26\n </a>\n <br/>\n Гепарин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/59543\">\n  Р N000185/01 от 2016-10-10\n </a>\n <br/>\n Гепарин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/37417\">\n  ЛП-000958 от 2016-12-20\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        3732,
+        7964,
+        10966,
+        1901,
+        1900,
+        3695,
+        3989,
+        2320,
+        11368,
+        4019,
+        10672,
+        4027,
+        3852,
+        3689,
+        3702
+    ],
+    "id": 952
+}

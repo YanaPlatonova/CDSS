@@ -1,0 +1,30 @@
+{
+    "Название": "Индометацин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  15.07.2008\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"1519\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_640.htm\">\n Индометацин* (Indomethacin*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_992.htm\">\n M01AB01 Индометацин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_542.htm\">\n   НПВС — Производные уксусной кислоты и родственные соединения\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка, покрытая кишечнорастворимой оболочкой, содержит индометацина 25 мг; в контурной ячейковой упаковке 30 шт., в картонной пачке 1 упаковка.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противоотечное, обезболивающее, противовоспалительное\n</span>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, во время или непосредственно после еды, не разжевывая, запивая достаточным количеством воды.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Взрослым:\n </i>\n по 25 мг 2–3 раза в сутки, при необходимости суточную дозу можно увеличить до 100 мг, разделенных на 4 приема, при остром приступе подагры — до 50 мг 3 раза в сутки.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Детям старше 14 лет:\n </i>\n 1,5–2,5 мг/кг/сут, разделенные на 3–4 приема.\n</p>\n<div id=\"usloviya-xraneniya-preparata-indometacin\">\n</div>\n",
+    "Условия хранения препарата Индометацин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-indometacin\">\n</div>\n",
+    "Срок годности препарата Индометацин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Индометацин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/45282\">\n  ЛСР-004806/10 от 2015-12-10\n </a>\n <br/>\n Индометацин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/60577\">\n  Р N001072/03 от 2015-11-30\n </a>\n <br/>\n Индометацин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/60573\">\n  Р N001072/01 от 2017-11-09\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        5747,
+        6311,
+        5624,
+        5745,
+        5541,
+        5743,
+        5693,
+        5336,
+        3636,
+        5655,
+        9053,
+        5270,
+        8132,
+        5371
+    ],
+    "id": 1519
+}

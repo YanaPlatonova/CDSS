@@ -1,0 +1,23 @@
+{
+    "Название": "Эссавен® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3731\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4052.htm\">\n Эсцин + Эссенциальные фосфолипиды + Гепарин натрия (Aescin + Essencial phospholipids + Heparin sodium)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2737.htm\">\n C05BA53 Гепарин в комбинации с другими препаратами\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_573.htm\">\n   Антикоагулянты в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4019.htm\">\n   I80 Флебит и тромбофлебит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4063.htm\">\n   I87.2 Венозная недостаточность (хроническая) (периферическая)\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_8028.htm\">\n   R25 Анормальные непроизвольные движения\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_9053.htm\">\n   T08-T14 Травмы неуточненной части туловища, конечности или области тела\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 100 г геля содержат эсцина 1 г, гепарина натриевой соли 10000 МЕ и «эссенциальных» фосфолипидов 1 г; в тубах по 40 и 100 г, в картонной коробке 1 туба.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — тромболитическое, противовоспалительное, антиагрегационное, улучшающее микроциркуляцию, анальгезирующее, противоотечное, снижающее проницаемость капилляров, венотонизирующее\n</span>\n<p class=\"OPIS_POLE\">\n Поливалентность эффектов обусловлена позитивными свойствами входящих в препарат компонентов.\n</p>\n<div id=\"pokazaniya-preparata-ehssaven\">\n</div>\n",
+    "Показания препарата Эссавен®": "<p class=\"OPIS_POLE\">\n Нарушения венозного кровообращения (варикозное расширение вен, воспаления поверхностных вен, болезненная усталость ног, ночные судороги икроножных мышц, кровоподтеки и отеки вследствие растяжений и ушибов, спортивные травмы).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Чувство жжения при мокнущей экземе ног и при открытых ранах (содержит спирт), аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Наружно, наносят тонким слоем на отечные и болезненные участки 2–3 раза в день. Втирание не является необходимым, а в случае воспалительных процессов — даже нежелательно.\n</p>\n<div id=\"usloviya-xraneniya-preparata-ehssaven\">\n</div>\n",
+    "Условия хранения препарата Эссавен®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ehssaven\">\n</div>\n",
+    "Срок годности препарата Эссавен®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4063,
+        8028,
+        9053,
+        4019
+    ],
+    "id": 3731
+}

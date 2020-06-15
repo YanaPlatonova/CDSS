@@ -1,0 +1,18 @@
+{
+    "Название": "Теотард ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"1820\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_108.htm\">\n Теофиллин (Theophylline)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2065.htm\">\n R03DA04 Теофиллин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_186.htm\">\n   Аденозинергические средства\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 капсула ретард содержит теофиллина 200 или 350 мг; в контурной ячейковой упаковке 10 шт., в коробке 4 упаковки.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, после еды, не разжевывая и запивая водой. Взрослым и детям массой тела более 40 кг в начале лечения обычно по 350 мг 1 раз в сутки (вечером), поддерживающая доза — по 350 мг 2 раза в сутки. Взрослым с пониженной массой тела и детям массой тела более 20 кг — в начале лечения 200 мг 1 раз в сутки (вечером), затем по 200 мг 2 раза в сутки. В ходе лечения дозу корректируют в зависимости от уровня теофиллина в сыворотке крови, который должен составлять 10–20 мкг/мл.\n</p>\n<div id=\"usloviya-xraneniya-preparata-teotard\">\n</div>\n",
+    "Условия хранения препарата Теотард": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-teotard\">\n</div>\n",
+    "Срок годности препарата Теотард": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4258,
+        4257,
+        4269,
+        4252
+    ],
+    "id": 1820
+}

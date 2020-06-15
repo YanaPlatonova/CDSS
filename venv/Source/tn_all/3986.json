@@ -1,0 +1,17 @@
+{
+    "Название": "Модитен депо ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3986\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_850.htm\">\n Флуфеназин* (Fluphenazine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1246.htm\">\n N05AB02 Флуфеназин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_43.htm\">\n   Нейролептики\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 мл раствора для инъекций содержит флуфеназина деканоата 25 мг; в ампулах по 1 мл, в коробке 5 шт.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n В/м глубоко, взрослым в начальной дозе 25–100 мг (пожилым больным 12,5–50 мг), поддерживающая доза 12,5–25 мг (пожилым — 12,5 мг), интервал между инъекциями 15–35 дней. Разовая доза не должна превышать 100 мг. При необходимости применения в дозе, превышающей 50 мг, начальную дозу при каждом следующем введении увеличивают на 12,5 мг.\n</p>\n<div id=\"usloviya-xraneniya-preparata-moditen-depo\">\n</div>\n",
+    "Условия хранения препарата Модитен депо": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-moditen-depo\">\n</div>\n",
+    "Срок годности препарата Модитен депо": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2452,
+        2482
+    ],
+    "id": 3986
+}

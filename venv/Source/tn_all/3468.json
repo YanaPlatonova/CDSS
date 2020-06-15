@@ -1,0 +1,19 @@
+{
+    "Название": "Хематэ П ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3468\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3258.htm\">\n Фактор свертывания крови VIII (Coagulation Factor VIII)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_362.htm\">\n B02BD02 Фактор свертывания крови VIII\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_173.htm\">\n   Коагулянты (в т.ч. факторы свертывания крови), гемостатики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1902.htm\">\n   D66 Наследственный дефицит фактора VIII\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 флакон с порошком для приготовления инъекционного раствора содержит 250, 500 или 1000 МЕ антигемофильного фактора YIII, в комплекте с растворителем.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — восполняющее дефицит фактора свертывания VIII\n</span>\n<div id=\"pokazaniya-preparata-xemateh-p\">\n</div>\n",
+    "Показания препарата Хематэ П": "<p class=\"OPIS_POLE\">\n Гемофилия А, врожденная и приобретенная недостаточность фактора YIII.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, коагулопатии без дефицита фактора YIII, беременность, лактация.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Лихорадка, гемолиз, образование антител к фактору YIII, аллергические реакции.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n В/в, дозировку определяют по степени выраженности недостаточности фактора YIII, а также в зависимости от локализации и выраженности кровотечения. При введении 1 МЕ/кг массы тела следует ожидать повышения активности фактора YIII примерно на 1% нормы.\n</p>\n<div id=\"usloviya-xraneniya-preparata-xemateh-p\">\n</div>\n",
+    "Условия хранения препарата Хематэ П": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        1902
+    ],
+    "id": 3468
+}

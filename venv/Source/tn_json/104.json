@@ -9,5 +9,14 @@
     "Противопоказания": "<p class=\"OPIS_POLE\">\n Возраст (до 12 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
     "Побочные действия": "<p class=\"OPIS_POLE\">\n Не выявлены.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
     "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь (не глотая, держат во рту). По 1–2 табл. на прием (не более 16 табл. в сутки).\n</p>\n<div id=\"usloviya-xraneniya-preparata-aktal\">\n</div>\n",
-    "Условия хранения препарата Актал": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n"
+    "Условия хранения препарата Актал": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4560,
+        4615,
+        4545,
+        4541,
+        4542,
+        7985,
+        7983
+    ]
 }

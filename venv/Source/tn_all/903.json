@@ -1,0 +1,29 @@
+{
+    "Название": "Гексадрепс ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"903\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1920.htm\">\n Биклотимол* (Biclotymol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2015.htm\">\n R02AA20 Прочие препараты\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_247.htm\">\n   Антисептики и дезинфицирующие средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4112.htm\">\n   J02.9 Острый фарингит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4116.htm\">\n   J03.9 Острый тонзиллит неуточненный (ангина агранулоцитарная)\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4117.htm\">\n   J04 Острый ларингит и трахеит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4224.htm\">\n   J35 Хронические болезни миндалин и аденоидов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4438.htm\">\n   K05 Гингивит и болезни пародонта\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4494.htm\">\n   K12 Стоматит и родственные поражения\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 пастилка для рассасывания содержит биклотимола 20 мг; в блистере 12 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антисептическое\n</span>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Обладает антибактериальной активностью в отношении стафилококков, стрептококков, микрококков и коринебактерий.\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n Биклотимол медленно всасывается через слизистые, что обеспечивает его длительное присутствие в полости рта.\n</p>\n<div id=\"pokazaniya-preparata-geksadreps\">\n</div>\n",
+    "Показания препарата Гексадрепс": "<p class=\"OPIS_POLE\">\n Инфекционно-воспалительные заболевания слизистой оболочки полости рта и горла.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, детский возраст (до 6 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Не выявлены.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Сублингвально, 4–6 пастилок в сутки.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Детям старше 6 лет — 1–3 пастилки в сутки.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Следует избегать одновременного применения других местных антисептиков. Если симптомы не исчезли через 5 дней, необходимо скорректировать лечение.\n</p>\n<div id=\"osobye-ukazaniya\">\n</div>\n",
+    "Особые указания": "<p class=\"OPIS_POLE\">\n Гексадрекс содержит сахар (1,36 г сахарозы в одной пастилке).\n</p>\n<div id=\"usloviya-xraneniya-preparata-geksadreps\">\n</div>\n",
+    "Условия хранения препарата Гексадрепс": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-geksadreps\">\n</div>\n",
+    "Срок годности препарата Гексадрепс": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4116,
+        4117,
+        4112,
+        4438,
+        4224,
+        4494
+    ],
+    "id": 903
+}

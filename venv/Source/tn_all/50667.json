@@ -1,0 +1,30 @@
+{
+    "Название": "Цефотаксим-ЛЕКСВМ® ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"50667\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_751.htm\">\n Цефотаксим* (Cefotaxime*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_3426.htm\">\n J01DD01 Цефотаксим\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_263.htm\">\n   Цефалоспорины\n  </a>\n </li>\n</ul>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Цефотаксим-ЛЕКСВМ\n <sup>\n  ®\n </sup>\n - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/38003\">\n  ЛП-001545 от 2017-11-01\n </a>\n <br/>\n Цефотаксим-ЛЕКСВМ\n <sup>\n  ®\n </sup>\n - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/38003\">\n  ЛП-001545 от 2015-11-10\n </a>\n <br/>\n Цефотаксим-ЛЕКСВМ\n <sup>\n  ®\n </sup>\n - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/38003\">\n  ЛП-001545 от 2018-06-22\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        4101,
+        6105,
+        4896,
+        3486,
+        4116,
+        6061,
+        233,
+        6167,
+        6162,
+        5936,
+        3763,
+        4191,
+        9612,
+        4719,
+        306,
+        5837,
+        9228,
+        3517,
+        2754
+    ],
+    "id": 50667
+}

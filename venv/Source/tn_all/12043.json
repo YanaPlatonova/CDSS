@@ -1,0 +1,26 @@
+{
+    "Название": "Эйфитол® ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"12043\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_5869.htm\">\n Омега-3 триглицериды [20%] + Чеснока посевного луковиц экстракт (Omega-3-triglycerides [20%] + Allii sativi extract)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_650.htm\">\n   Другие гиполипидемические средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-ehjfitol\">\n</div>\n",
+    "Условия хранения препарата Эйфитол®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ehjfitol\">\n</div>\n",
+    "Срок годности препарата Эйфитол®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2000,
+        3721,
+        3669,
+        3723,
+        3939,
+        3695,
+        3681,
+        11004,
+        3960,
+        2320,
+        11368,
+        4134,
+        3920,
+        10824,
+        4124
+    ],
+    "id": 12043
+}

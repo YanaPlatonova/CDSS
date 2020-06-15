@@ -12,5 +12,18 @@
     "Производитель": "<p class=\"OPIS_POLE\">\n Производитель/владелец регистрационного удостоверения: Tакеда ГмбХ, Германия, Takeda GmbH, Germany.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Бик-Гульден-Штрассе 2, Д-78467 Констанц, Германия, Byk-Gulden-Strasse 2, D-78467 Konstanz, Germany.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Адрес производственной площадки. Tакеда ГмбХ, Германия, Takeda GmbH, Germany.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Роберт-Бош-Штрассе 8, Д-78224, Зинген, Германия, Robert-Bosch-Str. 8, D-78224, Singen, Germany.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Претензии потребителей направлять по адресу: ООО «Такеда Фармасьютикалс». 119048, Москва, ул. Усачева, д. 2, стр. 1.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Тел.: (495) 933-55-11; факс: (495) 502-16-25.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  www.takeda.com.ru; russia@takeda.com\n </i>\n</p>\n<div id=\"usloviya-otpuska-iz-aptek\">\n</div>\n",
     "Условия отпуска из аптек": "<p class=\"OPIS_POLE\">\n По рецепту.\n</p>\n<div id=\"usloviya-xraneniya-preparata-kontrolok\">\n</div>\n",
     "Условия хранения препарата Контролок®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-kontrolok\">\n</div>\n",
-    "Срок годности препарата Контролок®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+    "Срок годности препарата Контролок®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4855,
+        4541,
+        4542,
+        4557,
+        4543,
+        4524,
+        7987,
+        7984,
+        7985,
+        11451,
+        4523
+    ]
 }

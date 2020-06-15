@@ -1,0 +1,17 @@
+{
+    "Название": "Сомноген ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"12504\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_296.htm\">\n   Гомеопатические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2933.htm\">\n   G47.0 Нарушения засыпания и поддержания сна [бессонница]\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n Гомеопатические гранулы, содержащие Ignatia 3 CH, Kali brom. 3 CH, Lupulus 3 CH, Passiflora 3 CH; в баночке 20 г (в 1 г 22–28 гранул).\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — снотворное\n</span>\n<div id=\"pokazaniya-preparata-somnogen\">\n</div>\n",
+    "Показания препарата Сомноген": "<p class=\"OPIS_POLE\">\n Бессонница (нарушения засыпания и расстройства сна).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь (под язык), за 0,5–1 ч перед сном, по 3–5 гранул при нарушении засыпания или 2–3 раза подряд на ночь длительно (в случаях хронических нарушений), с перерывом по неделе через каждый месяц приема.\n</p>\n<div id=\"usloviya-xraneniya-preparata-somnogen\">\n</div>\n",
+    "Условия хранения препарата Сомноген": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-somnogen\">\n</div>\n",
+    "Срок годности препарата Сомноген": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2933
+    ],
+    "id": 12504
+}

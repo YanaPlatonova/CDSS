@@ -1,0 +1,20 @@
+{
+    "Название": "Чест раб ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"9538\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2102.htm\">\n R05X Прочие средства для лечения простудных заболеваний\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_38.htm\">\n   Секретолитики и стимуляторы моторной функции дыхательных путей\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_247.htm\">\n   Антисептики и дезинфицирующие средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4124.htm\">\n   J06 Острые инфекции верхних дыхательных путей множественной и неуточненной локализации\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 г мази содержит камфоры 47 мг, ментола 26 мг и эвкалиптового масла 12 мг; в баночках по 85 г, в картонной упаковке.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — муколитическое, противовоспалительное\n</span>\n<p class=\"OPIS_POLE\">\n Раздражает чувствительные нервные окончания в месте аппликации, рефлекторно улучшает трофику внутренних органов и тканей, вовлеченных в патологический процесс, может оказывать общерезорбтивное влияние на различные регуляторные процессы (нейромедиаторные, иммунные реакции и т.д.).\n</p>\n<div id=\"pokazaniya-preparata-chest-rab\">\n</div>\n",
+    "Показания препарата Чест раб": "<p class=\"OPIS_POLE\">\n Инфекционно-воспалительные заболевания верхних дыхательных путей у взрослых и детей (в составе комбинированной терапии).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, корь, краснуха и\n <span class=\"sokr\" title=\"другие\">\n  др.\n </span>\n детские инфекции, сопровождающиеся кожными высыпаниями, бронхиальная астма, детский возраст (до 2 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Раздражение кожи и слизистых оболочек.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Нецелесообразно одновременное местное применение\n <span class=\"sokr\" title=\"другие\">\n  др.\n </span>\n средств с раздражающими свойствами.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Наружно, наносят на неповрежденную кожу шеи, грудной клетки, желательно перед сном (не чаще 2–3 раз в день).\n</p>\n<div id=\"usloviya-xraneniya-preparata-chest-rab\">\n</div>\n",
+    "Условия хранения препарата Чест раб": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-chest-rab\">\n</div>\n",
+    "Срок годности препарата Чест раб": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4124
+    ],
+    "id": 9538
+}

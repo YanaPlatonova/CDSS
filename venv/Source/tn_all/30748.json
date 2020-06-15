@@ -1,0 +1,29 @@
+{
+    "Название": "Папаверин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  18.08.2007\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"30748\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1819.htm\">\n Папаверин* (Papaverine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_79.htm\">\n A03AD01 Папаверин\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_216.htm\">\n   Спазмолитическое средство\n   <span class=\"fgrls\">\n    [Вазодилататоры]\n   </span>\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_243.htm\">\n   Спазмолитическое средство\n   <span class=\"fgrls\">\n    [Спазмолитики миотропные]\n   </span>\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<div class=\"tw\">\n <table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Суппозитории для ректального применения\n    </td>\n    <td class=\"PrepInSost_Val\">\n     1 супп.\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     папаверина гидрохлорид\n    </td>\n    <td class=\"CompSost_Val\">\n     0,02 г\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost_Clear\">\n     <i>\n      вспомогательные вещества:\n     </i>\n     твердый жир, тип А или витепсол — достаточное количество до получения суппозитория массой от 1,19 до 1,31 г\n    </td>\n    <td>\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<p class=\"PrepUpack\">\n в контурной ячейковой упаковке 5 шт.; в пачке картонной 2 упаковки.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — спазмолитическое\n</span>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n <i>\n  Ректально.\n </i>\n Освободив суппозиторий от контурной упаковки, его вводят в задний проход. Применяют по 1 супп. 2–3 раза в день после самопроизвольного опорожнения кишечника или очистительной клизмы.\n</p>\n<div id=\"usloviya-xraneniya-preparata-papaverin\">\n</div>\n",
+    "Условия хранения препарата Папаверин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-papaverin\">\n</div>\n",
+    "Срок годности препарата Папаверин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Папаверин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61974\">\n  Р N002103/01 от 2018-06-20\n </a>\n <br/>\n Папаверин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/46091\">\n  ЛСР-007267/08 от 2013-08-15\n </a>\n <br/>\n Папаверин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40268\">\n  ЛП-003815 от 2019-01-15\n </a>\n <br/>\n Папаверин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/60569\">\n  Р N001069/02 от 2008-11-18\n </a>\n <br/>\n Папаверин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/60567\">\n  Р N001069/01 от 2018-02-22\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        7964,
+        4675,
+        3963,
+        4565,
+        4039,
+        2914,
+        4801,
+        4541,
+        4542,
+        7984,
+        5993,
+        3688
+    ],
+    "id": 30748
+}

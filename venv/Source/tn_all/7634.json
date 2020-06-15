@@ -1,0 +1,19 @@
+{
+    "Название": "Аминостерил® III Новум ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1997\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"7634\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_197.htm\">\n   Белки и аминокислоты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_280.htm\">\n   Средства для энтерального и парентерального питания\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2180.htm\">\n   E46 Белково-энергетическая недостаточность неуточненная\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11368.htm\">\n   Z100* КЛАСС XXII Хирургическая практика\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 л раствора для инфузий с энергетической ценностью 125\n <span class=\"sokr\" title=\"килокалория\">\n  ккал\n </span>\n и\n <span class=\"sokr\" title=\"водородный показатель\">\n  pH\n </span>\n 4–6 содержит смесь L-аминокислот 30 г (3%) (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n незаменимых 12 г); во флаконах по 500 и 1000 мл. Общее содержание азота 4,75 г/л.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — восполняющее дефицит аминокислот\n</span>\n<div id=\"pokazaniya-preparata-aminosteril-iii-novum\">\n</div>\n",
+    "Показания препарата Аминостерил® III Новум": "<p class=\"OPIS_POLE\">\n Дефицит белка (потеря белка после перенесенных операций, травм, ожогов и др.).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Тяжелая печеночная и острая почечная недостаточность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тромбофлебит — редко.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n В/в, капельно (в периферические или центральные вены). Взрослым в суточной дозе — 1–2 л; если для лечения применяется исключительно аминостерил III новум, возможно применение в дозах 30–35 мл/кг. Детям раннего возраста — по 2,5 г/кг в сутки.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Начинать применение препарата следует после того, как скорректированы дегидратация, электролитные и гемодинамические нарушения. Необходимо учитывать возможность врожденных нарушений метаболизма.\n</p>\n<div id=\"usloviya-xraneniya-preparata-aminosteril-iii-novum\">\n</div>\n",
+    "Условия хранения препарата Аминостерил® III Новум": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-aminosteril-iii-novum\">\n</div>\n",
+    "Срок годности препарата Аминостерил® III Новум": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2180
+    ],
+    "id": 7634
+}

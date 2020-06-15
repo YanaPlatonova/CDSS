@@ -1,0 +1,21 @@
+{
+    "Название": "ТД-спрей Изо Мак ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3048\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_70.htm\">\n Изосорбида динитрат* (Isosorbide dinitrate)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_476.htm\">\n C01DA08 Изосорбида динитрат\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_90.htm\">\n   Нитраты и нитратоподобные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3695.htm\">\n   I21 Острый инфаркт миокарда\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7964.htm\">\n   R07.2 Боль в области сердца\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 доза аэрозоля, составляющая 0,31 мл раствора, содержит изосорбида динитрата 30 мг, в баллончиках по 25 и 50 мл.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — сосудорасширяющее, антиангинальное\n</span>\n<div id=\"pokazaniya-preparata-td-sprej-izo-mak\">\n</div>\n",
+    "Показания препарата ТД-спрей Изо Мак": "<p class=\"OPIS_POLE\">\n Стенокардия (лечение и профилактика).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, острая недостаточность кровообращения (шок, коллапс), гипотензия (систолическое давление ниже 90\n <span class=\"sokr\" title=\"миллиметр ртутного столба\">\n  мм рт.ст.\n </span>\n ), острый инфаркт миокарда с низким давлением наполнения, поражение миокарда с расширением желудочков (гипертрофическая обструктивная кардиомиопатия), констриктивный перикардит, тампонада перикарда, кардиогенный шок, первичная легочная гипертензия, стеноз аорты и/или митрального клапана, повышенное внутричерепное давление.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головная боль, ортостатическая гипотензия. В отдельных случаях — тошнота, рвота, приливы, коллапс, обморок, эксфолиативный дерматит, аллергические реакции.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Усиливает гипотензивный эффект сосудорасширяющих, бета-адреноблокаторов, антагонистов кальция, нейролептиков, трициклических антидепрессантов, дигидроэрготаминовых препаратов и алкоголя.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Накожно, нанести на верхнюю половину туловища с расстояния около 20 см и растереть кончиками пальцев.\n</p>\n<div id=\"usloviya-xraneniya-preparata-td-sprej-izo-mak\">\n</div>\n",
+    "Условия хранения препарата ТД-спрей Изо Мак": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        7964,
+        3695
+    ],
+    "id": 3048
+}

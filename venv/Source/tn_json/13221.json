@@ -11,5 +11,9 @@
     "Производитель": "<p class=\"OPIS_POLE\">\n Новартис Фарма АГ, Швейцария.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Произведено\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Новартис Фарма Штейн АГ, Швейцария.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Лихтштрассе, 35, 4056, Базель, Швейцария.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Novartis Pharma AG, Switzerland.\n </i>\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Manufactured by Novartis Pharma Stein AG, Switzerland.\n </i>\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Lichtstrasse 35, 4056 Basel, Switzerland.\n </i>\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Дополнительную информацию о препарате можно получить по адресу\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n 115035, Москва, Садовническая ул., 82/2.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Тел.: (495) 967-12 70; факс: (495) 967-12-68.\n</p>\n<div id=\"usloviya-otpuska-iz-aptek\">\n</div>\n",
     "Условия отпуска из аптек": "<p class=\"OPIS_POLE\">\n По рецепту.\n</p>\n<div id=\"usloviya-xraneniya-preparata-simulekt\">\n</div>\n",
     "Условия хранения препарата Симулект®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-simulekt\">\n</div>\n",
-    "Срок годности препарата Симулект®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n"
+    "Срок годности препарата Симулект®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        9685,
+        11318
+    ]
 }

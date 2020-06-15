@@ -1,0 +1,21 @@
+{
+    "Название": "Талеум ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3070\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_791.htm\">\n Кромоглициевая кислота* (Cromoglicic acid*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2222.htm\">\n S01GX01 Кромоглициевая кислота\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_184.htm\">\n   Стабилизаторы мембран тучных клеток\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4269.htm\">\n   J45 Астма\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4270.htm\">\n   J45.0 Астма с преобладанием аллергического компонента\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 доза аэрозоля содержит кромогликата натрия 1 мг; в стеклянных баллонах с механическим распылителем по 200 доз.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противоаллергическое\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует поступление ионов кальция в тучные клетки слизистой оболочки дыхательных путей, \nтормозит их дегрануляцию, задерживает высвобождение гистамина, брадикинина, медленно реагирующей субстанции \nанафилатоксина, способствующих развитию бронхоспазма, аллергии и воспаления.\n</p>\n<div id=\"pokazaniya-preparata-taleum\">\n</div>\n",
+    "Показания препарата Талеум": "<p class=\"OPIS_POLE\">\n Бронхиальная астма: атопическая, инфекционно-аллергическая, астма физического усилия, «астматическая» триада; астматический бронхит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, бронхоспазм, I триместр беременности, лактация (необходимо отказаться от грудного вскармливания), детский возраст (до 5 лет).\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Раздражение слизистой оболочки ротовой полости, сухость и неприятный вкус во рту, тошнота, кашель, бронхоспазм.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Ингаляционно — по 2 мг 4 раза в сутки, при необходимости — по 2 мг 6–8 раз в сутки; аэрозольный баллон перед употреблением необходимо встряхнуть; держать его следует в вертикальном положении клапаном книзу.\n</p>\n<div id=\"usloviya-xraneniya-preparata-taleum\">\n</div>\n",
+    "Условия хранения препарата Талеум": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-taleum\">\n</div>\n",
+    "Срок годности препарата Талеум": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4270,
+        4269
+    ],
+    "id": 3070
+}

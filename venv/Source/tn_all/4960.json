@@ -1,0 +1,22 @@
+{
+    "Название": "Пиперазин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4960\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1100.htm\">\n Пиперазина адипинат (Piperazine adipinate)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1945.htm\">\n P02CB01 Пиперазин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_249.htm\">\n   Противоглистные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_837.htm\">\n   B77 Аскаридоз\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_847.htm\">\n   B80 Энтеробиоз\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит пиперазина адипината 0,5 г; в контурной безъячейковой упаковке 6 или 10 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антигельминтное\n</span>\n<div id=\"pokazaniya-preparata-piperazin\">\n</div>\n",
+    "Показания препарата Пиперазин": "<p class=\"OPIS_POLE\">\n Аскаридоз, энтеробиоз.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Органические заболевания\n <span class=\"sokr\" title=\"центральная нервная система\">\n  ЦНС\n </span>\n .\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Не противопоказано.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тошнота, боль в животе, головная боль, мышечная слабость, тремор.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, 2 раза в день за 1 ч или спустя 0,5–1 ч после еды в течение 2 дней; при аскаридозе — по 1,5–2 г на прием; детям до 1 года — по 0,2 г, от 2 до 3 лет — по 0,3 г, 4–5 лет — по 0,5 г, 6–8 лет — по 0,75 г, 9–12 лет — по 1 г, 13–15 лет — по 1,5 г. Можно применять в течение 1 дня: однократно от 0,4 до 4 г (в зависимости от возраста) или 2 раза от 0,2 до 2 г.\n</p>\n<div id=\"usloviya-xraneniya-preparata-piperazin\">\n</div>\n",
+    "Условия хранения препарата Пиперазин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-piperazin\">\n</div>\n",
+    "Срок годности препарата Пиперазин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        837,
+        847
+    ],
+    "id": 4960
+}

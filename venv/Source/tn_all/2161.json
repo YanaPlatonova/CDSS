@@ -1,0 +1,25 @@
+{
+    "Название": "Мононит ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2161\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_626.htm\">\n Изосорбида мононитрат* (Isosorbide mononitrate*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_477.htm\">\n C01DA14 Изосорбида мононитрат\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_90.htm\">\n   Нитраты и нитратоподобные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3688.htm\">\n   I20 Стенокардия [грудная жаба]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3865.htm\">\n   I50 Сердечная недостаточность\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7964.htm\">\n   R07.2 Боль в области сердца\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит 5-мононитрата изосорбида 10, 20 и 40 мг; в упаковке 60, 50 и 40 шт. соответственно.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — сосудорасширяющее, антиангинальное\n</span>\n<p class=\"OPIS_POLE\">\n Снижает преднагрузку.\n</p>\n<div id=\"pokazaniya-preparata-mononit\">\n</div>\n",
+    "Показания препарата Мононит": "<p class=\"OPIS_POLE\">\n Стенокардия, хроническая сердечная недостаточность, легочная гипертония.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, острый инфаркт миокарда с низким давлением заполнения левого желудочка, гипотония, коллапс, шок, внутричерепное кровоизлияние, гипертрофическая кардиомиопатия.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Применение под строгим контролем врача.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головная боль, головокружение, шум в ушах, гиперемия лица, тахикардия, гипотония, тошнота, рвота, гастралгия, метгемоглобинемия, аллергические реакции.\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Гипотензивный эффект усиливается другими вазодилататорами, антагонистами кальция, трициклическими антидепрессантами, алкоголем.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, по 40 мг/сут, при необходимости дозу увеличивают до 80–120 мг/сут за 2 приема с интервалом в 7 ч и 17-часовым ночным перерывом. Лечение начинают с малых доз с постепенным их увеличением. Препарат не предназначен для купирования стенокардии, поскольку начало действия отмечается через 20 мин после приема.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n В период лечения противопоказано употребление алкоголя.\n</p>\n<div id=\"usloviya-xraneniya-preparata-mononit\">\n</div>\n",
+    "Условия хранения препарата Мононит": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-mononit\">\n</div>\n",
+    "Срок годности препарата Мононит": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        7964,
+        3865,
+        3688
+    ],
+    "id": 2161
+}

@@ -1,0 +1,30 @@
+{
+    "Название": "Пенсилина ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"96340\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_3880.htm\">\n Ампициллин + Сульбактам (Ampicillin + Sulbactam)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_636.htm\">\n J01CR01 Ампициллин в комбинации с ингибитором бета-лактамазы\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_527.htm\">\n   Пенициллины в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-pensilina\">\n</div>\n",
+    "Условия хранения препарата Пенсилина": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-pensilina\">\n</div>\n",
+    "Срок годности препарата Пенсилина": "<p>\n порошок для приготовления раствора для внутривенного и внутримышечного введения 250 мг+125 мг 250 мг+125 — 3 года.\n</p>\n<p>\n порошок для приготовления раствора для внутривенного и внутримышечного введения 500 мг+250 мг 500 мг+250 — 3 года.\n</p>\n<p>\n порошок для приготовления раствора для внутривенного и внутримышечного введения 1000 мг+500 мг 1000 мг+500 — 3 года.\n</p>\n<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        5753,
+        4101,
+        4896,
+        3523,
+        297,
+        6015,
+        6149,
+        4159,
+        4205,
+        5936,
+        4801,
+        4815,
+        5277,
+        4191,
+        4123,
+        5837,
+        6040,
+        4124
+    ],
+    "id": 96340
+}

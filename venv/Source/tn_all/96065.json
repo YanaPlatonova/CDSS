@@ -1,0 +1,16 @@
+{
+    "Название": "Викаир Авексима ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"96065\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4020.htm\">\n Аира корневища + Висмута субнитрат + Крушины ольховидной кора + Магния карбонат + Натрия гидрокарбонат (Acori calami rhizomata + Bismuth subnitrate + Rhamni frangulae cortex + Magnesium carbonate + Sodium hydrocarbonate)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_57.htm\">\n A02BX Другие препараты  для лечения язвенной болезни желудка и двенадцатиперстной кишки и ГЭРБ\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_632.htm\">\n   Другие желудочно-кишечные средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4541.htm\">\n   K25 Язва желудка\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4542.htm\">\n   K26 Язва двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11398.htm\">\n   K29.6.1* Гастрит гиперацидный\n  </a>\n </li>\n</ul>\n<div id=\"usloviya-xraneniya-preparata-vikair-aveksima\">\n</div>\n",
+    "Условия хранения препарата Викаир Авексима": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-vikair-aveksima\">\n</div>\n",
+    "Срок годности препарата Викаир Авексима": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        11398,
+        4541,
+        4542
+    ],
+    "id": 96065
+}

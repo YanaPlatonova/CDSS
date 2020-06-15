@@ -1,0 +1,22 @@
+{
+    "Название": "Стерилин® ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1997\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3003\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1724.htm\">\n Ноноксинол* (Nonoxinol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1830.htm\">\n G02BB Контрацептивы интравагинальные\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_237.htm\">\n   Контрацептивы негормональные\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_10829.htm\">\n   Z30 Наблюдение за применением противозачаточных средств\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_10830.htm\">\n   Z30.0 Общие советы и консультации по контрацепции\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 суппозиторий содержит ноноксинола-9 в полиэтиленгликолевой основе 100 мг; в упаковке 5 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — спермицидное, контрацептивное\n</span>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Не содержит гормонов, не всасывается, не вызывает раздражения, обладает смазывающим действием, лишен неприятного запаха.\n</p>\n<div id=\"pokazaniya-preparata-sterilin\">\n</div>\n",
+    "Показания препарата Стерилин®": "<p class=\"OPIS_POLE\">\n Местная контрацепция.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Противопоказано при беременности и подозрении на беременность.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Ввести свечу после удаления обертки с помощью указательного пальца глубоко в отверстие влагалища не позже, чем за 15 мин и не более чем за 1 ч до полового акта (осторожно — не попасть свечой в отверстие уретры). Если половое сношение отложено на срок более чем 1 ч, после того как вставлена свеча, или будет повторено, вставьте новую свечу; частота применения не ограничена. В спринцевании нет необходимости, но оно возможно не ранее, чем через 6 ч после полового акта.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n В случае нарушения менструального цикла необходимо обратиться к врачу. Следует прекратить использование при раздражении кожных покровов у одного из партнеров.\n</p>\n<div id=\"usloviya-xraneniya-preparata-sterilin\">\n</div>\n",
+    "Условия хранения препарата Стерилин®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-sterilin\">\n</div>\n",
+    "Срок годности препарата Стерилин®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        10829,
+        10830
+    ],
+    "id": 3003
+}

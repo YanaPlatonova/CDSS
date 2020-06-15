@@ -1,0 +1,28 @@
+{
+    "Название": "Тамс ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"4070\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4243.htm\">\n Кальция карбонат + Магния карбонат (Calcium carbonate + Magnesium carbonate)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_41.htm\">\n A02AX Антациды в других комбинациях\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_516.htm\">\n   Антациды в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4560.htm\">\n   K30 Диспепсия\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4561.htm\">\n   K31 Другие болезни желудка и двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7985.htm\">\n   R12 Изжога\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7987.htm\">\n   R14 Метеоризм и родственные состояния\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит кальция карбоната 600 мг и магния карбоната 125 мг; в картонной коробке 30 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антацидное\n</span>\n<p class=\"OPIS_POLE\">\n Нейтрализует свободную соляную кислоту в желудке, уменьшает пептическую активность желудочного сока.\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Карбонаты кальция и магния реагируют с соляной кислотой желудочного сока и превращаются в хлориды. Эффект не сопровождается вторичной гиперсекрецией соляной кислоты и изменениями системного КЩР.\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n Часть кальция всасывается, около 80% переходит в нерастворимые соли и выводится из организма кишечником.\n</p>\n<div id=\"pokazaniya-preparata-tams\">\n</div>\n",
+    "Показания препарата Тамс": "<p class=\"OPIS_POLE\">\n Диспептические явления (\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n изжога), гиперацидные состояния, метеоризм.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, тяжелые нарушения функции почек.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Расстройства стула (запоры или диарея).\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Понижают всасывание\n <span class=\"sokr\" title=\"другие\">\n  др.\n </span>\n препаратов. Повышают активность и токсичность сердечных гликозидов.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь. Разжевывают или рассасывают во рту по 1–2 табл. (при болях или после еды).\n</p>\n<div id=\"peredozirovka\">\n</div>\n",
+    "Передозировка": "<p class=\"OPIS_POLE\">\n Запоры, гиперкальциемия; при патологии почек — гипермагниемия.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Не рекомендуется принимать более 12 табл. в сутки, на фоне сердечных гликозидов, больным, находящимся на диете с низким содержанием фосфатов, детям до 12 лет.\n</p>\n<div id=\"usloviya-xraneniya-preparata-tams\">\n</div>\n",
+    "Условия хранения препарата Тамс": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-tams\">\n</div>\n",
+    "Срок годности препарата Тамс": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4560,
+        4561,
+        7987,
+        7985
+    ],
+    "id": 4070
+}

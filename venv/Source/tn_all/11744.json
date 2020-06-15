@@ -1,0 +1,23 @@
+{
+    "Название": "Тетрациклиновая глазная мазь 1% ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  04.06.2009\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"11744\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_82.htm\">\n Тетрациклин* (Tetracycline*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2149.htm\">\n S01AA09 Тетрациклин\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_262.htm\">\n   Тетрациклины\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_633.htm\">\n   Офтальмологические средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_360.htm\">\n   A71 Трахома\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3169.htm\">\n   H01.0 Блефарит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3221.htm\">\n   H10.9 Конъюнктивит неуточненный\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3249.htm\">\n   H16.9 Кератит неуточненный\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<div class=\"tw\">\n <table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" class=\"sostav_table drug__table\">\n  <colgroup>\n  </colgroup>\n  <colgroup width=\"15%\">\n  </colgroup>\n  <tbody>\n   <tr>\n    <td class=\"PrepInSost\">\n     Мазь глазная\n    </td>\n    <td class=\"PrepInSost_Val\">\n     1 г\n    </td>\n   </tr>\n   <tr>\n    <td class=\"CompSost\">\n     тетрациклин\n    </td>\n    <td class=\"CompSost_Val\">\n     10000 мкг\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<p class=\"PrepUpack\">\n в тубах по 3, 7 или 10 г; в пачке картонной 1 туба.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — антибактериальное широкого спектра\n</span>\n<div id=\"pokazaniya-preparata-tetraciklinovaya-glaznaya-maz`-\">\n</div>\n",
+    "Показания препарата Тетрациклиновая глазная мазь 1%": "<p class=\"Bullet\">\n трахома;\n</p>\n<p class=\"Bullet\">\n конъюнктивит;\n</p>\n<p class=\"Bullet\">\n блефарит;\n</p>\n<p class=\"Bullet\">\n кератит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Повышенная чувствительность к тетрациклину.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Возможны аллергические реакции (аллергические конъюнктивиты). В этих случаях применение мази следует прекратить и обратиться к врачу.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n <i>\n  Конъюнктивально.\n </i>\n Мазь закладывают за нижнее веко 3–5 раз в день.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n Длительность лечения устанавливается врачом.\n</p>\n<div id=\"usloviya-xraneniya-preparata-tetraciklinovaya-glaznaya-maz`-\">\n</div>\n",
+    "Условия хранения препарата Тетрациклиновая глазная мазь 1%": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-tetraciklinovaya-glaznaya-maz`-\">\n</div>\n",
+    "Срок годности препарата Тетрациклиновая глазная мазь 1%": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3221,
+        3169,
+        360,
+        3249
+    ],
+    "id": 11744
+}

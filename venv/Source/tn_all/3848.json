@@ -1,0 +1,25 @@
+{
+    "Название": "Сальметер ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  28.05.2002\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3848\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_2030.htm\">\n Салметерол* (Salmeterol*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2032.htm\">\n R03AC12 Салметерол\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_161.htm\">\n   Бета-адреномиметики\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4264.htm\">\n   J44 Другая хроническая обструктивная легочная болезнь\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4269.htm\">\n   J45 Астма\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_11455.htm\">\n   J98.8.0* Бронхоспазм\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 доза аэрозоля для ингаляций содержит салметерола ксинафоата 25 мкг; во флаконе с аппликатором 120 доз, в картонной пачке 1 флакон.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — бронходилатирующее, противоастматическое\n</span>\n<p class=\"OPIS_POLE\">\n Стимулирует бета\n <sub>\n  2\n </sub>\n -адренорецепторы.\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Расслабляет гладкую мускулатуру бронхов и уменьшает их реактивность; ингибирует выделение гистамина,\n <span class=\"sokr\" title=\"лейкотриены\">\n  ЛТ\n </span>\n и\n <span class=\"sokr\" title=\"простагландины\">\n  ПГ\n </span>\n D\n <sub>\n  2\n </sub>\n тучными клетками.\n</p>\n<div id=\"pokazaniya-preparata-sal`meter\">\n</div>\n",
+    "Показания препарата Сальметер": "<p class=\"OPIS_POLE\">\n Профилактика приступов бронхиальной астмы, лечение хронического обструктивного бронхита и\n <span class=\"sokr\" title=\"другие\">\n  др.\n </span>\n заболеваний, сопровождающихся обратимой обструкцией бронхов.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, беременность, кормление грудью.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Противопоказано. На время лечения следует прекратить грудное вскармливание.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тремор, сердцебиение, головная боль, гипокалиемия.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n По 2 ингаляции (50 мкг) 2 раза в сутки. В тяжелых случаях — по 4 ингаляции 2 раза в сутки.\n</p>\n<div id=\"osobye-ukazaniya\">\n</div>\n",
+    "Особые указания": "<p class=\"OPIS_POLE\">\n Не следует применять для купирования приступа бронхиальной астмы.\n</p>\n<div id=\"usloviya-xraneniya-preparata-sal`meter\">\n</div>\n",
+    "Условия хранения препарата Сальметер": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-sal`meter\">\n</div>\n",
+    "Срок годности препарата Сальметер": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4264,
+        4269,
+        11455
+    ],
+    "id": 3848
+}

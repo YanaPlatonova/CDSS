@@ -1,0 +1,29 @@
+{
+    "Название": "Фурацилина таблетки для наружного употребления 0,02 г ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"10013\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_332.htm\">\n Нитрофурал* (Nitrofural*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1747.htm\">\n D08AF01 Нитрофурал\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_312.htm\">\n   Другие синтетические антибактериальные средства\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка для наружного употребления содержит нитрофурала 0,02 г; в упаковке 10 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противомикробное\n</span>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Действует на различные грамположительные и грамотрицательные бактерии (стафилококки, стрептококки, дизентерийная палочка, кишечная палочка, сальмонелла паратифа, возбудитель газовой гангрены и др.).\n</p>\n<div id=\"pokazaniya-preparata-furacilina-tabletki-dlya-naruzhnogo-upotrebleniya--g\">\n</div>\n",
+    "Показания препарата Фурацилина таблетки для наружного употребления 0,02 г": "<p class=\"OPIS_POLE\">\n Хронический гнойный отит, инфицированные раны, язвы, ожоги, пролежни; стоматит; ангина; конъюнктивит.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n Допускается.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Дерматиты.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Наружно, в виде водного раствора 1:5000 (0,02%) — орошают раны и накладывают влажные повязки. Внутриполостно — промывают гайморовую полость, полость рта.\n</p>\n<div id=\"usloviya-xraneniya-preparata-furacilina-tabletki-dlya-naruzhnogo-upotrebleniya--g\">\n</div>\n",
+    "Условия хранения препарата Фурацилина таблетки для наружного употребления 0,02 г": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-furacilina-tabletki-dlya-naruzhnogo-upotrebleniya--g\">\n</div>\n",
+    "Срок годности препарата Фурацилина таблетки для наружного употребления 0,02 г": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3486,
+        4116,
+        9089,
+        3213,
+        9228,
+        5214,
+        3517,
+        4494,
+        5207
+    ],
+    "id": 10013
+}

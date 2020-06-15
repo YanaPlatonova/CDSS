@@ -1,0 +1,23 @@
+{
+    "Название": "Топалкан ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1996\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"3168\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_227.htm\">\n   Антациды\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4524.htm\">\n   K21.0 Гастроэзофагеальный рефлюкс с эзофагитом\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4541.htm\">\n   K25 Язва желудка\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4542.htm\">\n   K26 Язва двенадцатиперстной кишки\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4545.htm\">\n   K29 Гастрит и дуоденит\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_7985.htm\">\n   R12 Изжога\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка для разжевывания содержит альгиновой кислоты 200 мг, коллоидного гидроксида алюминия 30 мг, гидрокарбоната магния 40 мг и гидратированного кремния 130 мг, в упаковке 42 шт.; 1 пакетик с порошком для приготовления суспензии для применения внутрь этих же компонентов — 400, 60, 80 и 260 мг соответственно, в упаковке 21 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — обволакивающее, антацидное\n</span>\n<div id=\"pokazaniya-preparata-topalkan\">\n</div>\n",
+    "Показания препарата Топалкан": "<p class=\"OPIS_POLE\">\n Рефлюкс-эзофагит, эрозивно-язвенные заболевания пищевода, острый и хронический гастрит (в фазе обострения), язвенная болезнь желудка и двенадцатиперстной кишки в фазе обострения, изжога.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Уменьшение содержания фосфора в организме (при длительном приеме высоких доз).\n</p>\n<div id=\"vzaimodejstvie\">\n</div>\n",
+    "Взаимодействие": "<p class=\"OPIS_POLE\">\n Снижает всасывание индометацина, тетрациклина, дигоксина, изониазида, холиномиметиков.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, после еды по 2 таблетки (тщательно разжевать) или по 1 пакетику (высыпать в стакан, добавить воды, перемешать до образования суспензии) 3 раза в день.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n При назначении больным с сахарным диабетом необходимо учитывать, что 1 таблетка содержит 0,88 г, а в 1 пакетике — 1,76 г глюкозы.\n</p>\n<div id=\"usloviya-xraneniya-preparata-topalkan\">\n</div>\n",
+    "Условия хранения препарата Топалкан": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4545,
+        4541,
+        4542,
+        4524,
+        7985
+    ],
+    "id": 3168
+}

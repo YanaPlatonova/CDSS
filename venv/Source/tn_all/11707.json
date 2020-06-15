@@ -1,0 +1,29 @@
+{
+    "Название": "Ацилок ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"11707\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_163.htm\">\n Ранитидин* (Ranitidine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_45.htm\">\n A02BA02 Ранитидин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_183.htm\">\n   H\n   <sub>\n    2\n   </sub>\n   -антигистаминные средства\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит ранитидина гидрохлорида 150 или 300 мг; в коробке 10 блистеров по 10 шт.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n 1 ампула с 2 мл раствора для инъекций — 50 мг; в коробке 5 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противоязвенное\n</span>\n<p class=\"OPIS_POLE\">\n Блокирует гистаминовые H\n <sub>\n  2\n </sub>\n -рецепторы париетальных клеток слизистой оболочки желудка, угнетает базальную и стимулированную секрецию соляной кислоты. Снижает\n <span class=\"sokr\" title=\"водородный показатель\">\n  pH\n </span>\n содержимого желудка, что приводит к уменьшению активности пепсина.\n</p>\n<div id=\"farmakokinetika\">\n</div>\n",
+    "Фармакокинетика": "<p class=\"OPIS_POLE\">\n <span class=\"sokr\" title=\"максимальная концентрация\">\n  C\n  <sub>\n   max\n  </sub>\n </span>\n — через 1–2 ч (вне зависимости от приема пищи). Биодоступность — 50%. Связывание с белками плазмы крови — 15%. Частично метаболизируется в печени. Экскретируется почками.\n <span class=\"sokr\" title=\"период полувыведения\">\n  T\n  <sub>\n   1/2\n  </sub>\n </span>\n — 2 ч.\n</p>\n<div id=\"pokazaniya-preparata-acilok\">\n</div>\n",
+    "Показания препарата Ацилок": "<p class=\"OPIS_POLE\">\n Язвенная болезнь желудка и двенадцатиперстной кишки, язвы \n(симптоматические, \nпослеоперационные), синдром Золлингера-Эллисона, рефлюкс-эзофагит. Профилактика \nжелудочно-кишечных \nкровотечений, вызванных стрессом, рецидивирующих кровотечений из пептических язв, \nсиндрома Мендельсона (аспирация \nкислого содержимого желудка во время анестезии или родов).\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n В период беременности — допустимо, если польза для матери превышает потенциальный вред для плода. На период лечения рекомендуется прекратить грудное вскармливание.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головные боли, повышенная утомляемость, головокружения, брадикардия,\n <span class=\"sokr\" title=\"атриовентрикулярный\">\n  AV\n </span>\n блокада, аллергические реакции (крапивница).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь.\n <i>\n  Язвенная болезнь желудка и двенадцатиперстной кишки в фазе обострения:\n </i>\n 150 мг 2 раза/сут или 300 мг 1 раз/сут на ночь. Курс — 4–8\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n В/в или\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n .\n <i>\n  Профилактика рецидивирующих кровотечений, вызванных стрессом:\n </i>\n 50–100 мг (2–4 мл) каждые 6–8 ч.\n</p>\n<p class=\"OPIS_POLE_ABZ\">\n <i>\n  Профилактика синдрома Мендельсона:\n </i>\n 50 мг (2 мл) за 45–60 мин; — до наркоза, или в начале, или во время родов.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n Пациентам с нарушениями функции почек препарат следует назначать в меньших дозах.\n</p>\n<div id=\"usloviya-xraneniya-preparata-acilok\">\n</div>\n",
+    "Условия хранения препарата Ацилок": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-acilok\">\n</div>\n",
+    "Срок годности препарата Ацилок": "<p>\n раствор для внутривенного и внутримышечного введения 25 мг/мл — 2 года.\n</p>\n<p>\n таблетки, покрытые оболочкой 150 мг — 3 года.\n</p>\n<p>\n таблетки, покрытые оболочкой 300 мг — 3 года.\n</p>\n<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        4855,
+        4561,
+        4369,
+        4541,
+        4542,
+        4543,
+        11451,
+        4523
+    ],
+    "id": 11707
+}

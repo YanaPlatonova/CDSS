@@ -18,5 +18,12 @@
     "Производитель": "<p class=\"OPIS_POLE\">\n ЗАО «ФАРМА ВАМ».\n</p>\n<div id=\"usloviya-xraneniya-preparata-glutoksim\">\n</div>\n",
     "Условия хранения препарата Глутоксим®": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-glutoksim\">\n</div>\n",
     "Срок годности препарата Глутоксим®": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
-    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Глутоксим\n <sup>\n  ®\n </sup>\n - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61859\">\n  Р N002010/01 от 2018-02-07\n </a>\n <br/>\n</div>\n<div>\n</div>\n"
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Глутоксим\n <sup>\n  ®\n </sup>\n - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/61859\">\n  Р N002010/01 от 2018-02-07\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        2000,
+        537,
+        11368,
+        4999,
+        71
+    ]
 }

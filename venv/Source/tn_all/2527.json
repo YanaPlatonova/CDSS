@@ -1,0 +1,23 @@
+{
+    "Название": "Парседил ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2527\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_829.htm\">\n Дипиридамол* (Dipyridamole*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_339.htm\">\n B01AC07 Дипиридамол\n</a>\n<div id=\"farmakologicheskie-gruppy\">\n</div>\n",
+    "Фармакологические группы": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_171.htm\">\n   Антиагреганты\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_186.htm\">\n   Аденозинергические средства\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_213.htm\">\n   Ангиопротекторы и корректоры микроциркуляции\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3865.htm\">\n   I50 Сердечная недостаточность\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_3989.htm\">\n   I74 Эмболия и тромбоз артерий\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4027.htm\">\n   I82 Эмболия и тромбоз других вен\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 драже содержит дипиридамола 75 мг; в блистере 15 шт., в картонной коробке 1 блистер.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — артериодилатирующее, сосудорасширяющее, антиагрегационное, антиадгезивное\n</span>\n<p class=\"OPIS_POLE\">\n Ингибирует фосфодиэстеразу, увеличивает содержание\n <span class=\"sokr\" title=\"циклический аденозинмонофосфат\">\n  цАМФ\n </span>\n в клетках эндотелия, тромбоцитах, снижает агрегацию и адгезию последних, улучшает микроциркуляцию и снабжение миокарда кислородом.\n</p>\n<div id=\"pokazaniya-preparata-parsedil\">\n</div>\n",
+    "Показания препарата Парседил": "<p class=\"OPIS_POLE\">\n Тромбозы, тромбоэмболические осложнения (профилактика и лечение), хроническая сердечная недостаточность.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность, острый инфаркт миокарда.\n</p>\n<div id=\"primenenie-pri-beremennosti-i-kormlenii-grud`yu\">\n</div>\n",
+    "Применение при беременности и кормлении грудью": "<p class=\"OPIS_POLE\">\n С осторожностью во II и III триместре беременности.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Головная боль, тахикардия, гастралгия, диспептические расстройства.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, натощак, за 1 ч до еды. Для профилактики и терапии тромбоэмболических осложнений или при одновременном приеме с ацетилсалициловой кислотой — по 75 мг 3 раза в день.\n</p>\n<div id=\"usloviya-xraneniya-preparata-parsedil\">\n</div>\n",
+    "Условия хранения препарата Парседил": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-parsedil\">\n</div>\n",
+    "Срок годности препарата Парседил": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        3865,
+        3989,
+        4027
+    ],
+    "id": 2527
+}

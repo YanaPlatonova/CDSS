@@ -1,0 +1,25 @@
+{
+    "Название": "Микосептин ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2003\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"2106\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_4499.htm\">\n Ундециленовая кислота + Ундециленат цинка (Undecylenic acid + Undecylenate zinc)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_1614.htm\">\n D01AE04 Ундециленовая кислота\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_578.htm\">\n   Противогрибковые средства в комбинациях\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_618.htm\">\n   B35 Дерматофития\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_617.htm\">\n   B35-B49 Микозы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_625.htm\">\n   B35.6 Эпидермофития паховая\n  </a>\n </li>\n</ul>\n<div style=\"clear: both;\">\n</div>\n<div id=\"d-izobrazheniya\">\n</div>\n",
+    "3D-изображения": "<div>\n</div>\n<div style=\"clear: both;\">\n</div>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 30 г мази содержат ундециленовой кислоты 1,5 г, цинковой соли ундециленовой кислоты 6 г; в тубах по 30 г, в коробке 1 туба.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — противогрибковое\n</span>\n<p class=\"OPIS_POLE\">\n Снижает барьерные функции клеточной стенки грибка.\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Оказывает действие на дерматофиты (Trichophyton, Epidermophyton, Microsporum).\n</p>\n<div id=\"pokazaniya-preparata-mikoseptin\">\n</div>\n",
+    "Показания препарата Микосептин": "<p class=\"OPIS_POLE\">\n Профилактика и лечение дерматомикозов,\n <span class=\"sokr\" title=\"в том числе\">\n  в т.ч.\n </span>\n эпидермофитий, и трихофитий кожи нижних конечностей.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Гиперчувствительность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Аллергические реакции (редко).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Наружно. Наносят на пораженный участок 2 раза в сутки, после исчезновения клинических признаков — 1 раз в сутки через день; для профилактики — 2 раза в\n <span class=\"sokr\" title=\"неделя\">\n  нед\n </span>\n .\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n В случае прерывания курса возможно развитие рецидивов.\n</p>\n<div id=\"usloviya-xraneniya-preparata-mikoseptin\">\n</div>\n",
+    "Условия хранения препарата Микосептин": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-mikoseptin\">\n</div>\n",
+    "Срок годности препарата Микосептин": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        625,
+        618,
+        617
+    ],
+    "id": 2106
+}

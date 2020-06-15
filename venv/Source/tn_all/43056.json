@@ -1,0 +1,11 @@
+{
+    "Название": "Файберлекс ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"43056\">\n </div>\n</div>\n<div class=\"link-pharm-block\">\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        4039,
+        11360,
+        4679,
+        4686
+    ],
+    "id": 43056
+}

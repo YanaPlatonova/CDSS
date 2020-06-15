@@ -1,0 +1,21 @@
+{
+    "Название": "Мульти-табс® с Витамином С ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1999\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"40\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_523.htm\">\n Аскорбиновая кислота* (Ascorbic acid*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_262.htm\">\n A11GA01 Аскорбиновая кислота (витамин С)\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_198.htm\">\n   Витамины и витаминоподобные средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2204.htm\">\n   E54 Недостаточность аскорбиновой кислоты [витамина C]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_2229.htm\">\n   E63.1 Несбалансированное поступление пищевых элементов\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_4124.htm\">\n   J06 Острые инфекции верхних дыхательных путей множественной и неуточненной локализации\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 жевательная таблетка с апельсиновым вкусом содержит аскорбиновой кислоты 180 мг; в блистере 30 шт.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — восполняющее дефицит витамина C\n</span>\n<p class=\"OPIS_POLE\">\n Участвует в регуляции окислительно-восстановительных процессов, синтезе стероидных гормонов, коллагена, проколлагена и др.\n</p>\n<div id=\"farmakodinamika\">\n</div>\n",
+    "Фармакодинамика": "<p class=\"OPIS_POLE\">\n Нормализует проницаемость капилляров, стимулирует гемостаз, регенерацию.\n</p>\n<div id=\"pokazaniya-preparata-mul`ti-tabs-s-vitaminom-s\">\n</div>\n",
+    "Показания препарата Мульти-табс® с Витамином С": "<p class=\"OPIS_POLE\">\n Гипо- и авитаминоз C (профилактика), повышенная потребность в витамине C (простуда, стрессы).\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь, предварительно разжевав, во время или после еды, по 1 табл. в день — взрослым и детям с 10 лет, при простуде — по 2 табл.\n</p>\n<div id=\"usloviya-xraneniya-preparata-mul`ti-tabs-s-vitaminom-s\">\n</div>\n",
+    "Условия хранения препарата Мульти-табс® с Витамином С": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-mul`ti-tabs-s-vitaminom-s\">\n</div>\n",
+    "Срок годности препарата Мульти-табс® с Витамином С": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2229,
+        2204,
+        4124
+    ],
+    "id": 40
+}

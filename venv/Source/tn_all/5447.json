@@ -1,0 +1,33 @@
+{
+    "Название": "Циклофосфан ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.1998\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"5447\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1417.htm\">\n Циклофосфамид* (Cyclophosphamide*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_855.htm\">\n L01AA01 Циклофосфамид\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_268.htm\">\n   Алкилирующие средства\n  </a>\n </li>\n</ul>\n<div id=\"nozologicheskaya-klassifikaciya-mkb-\">\n</div>\n",
+    "Нозологическая классификация (МКБ-10)": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1208.htm\">\n   C50 Злокачественные новообразования молочной железы\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1240.htm\">\n   C56 Злокачественное новообразование яичника\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1394.htm\">\n   C83 Диффузная неходжкинская лимфома\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1428.htm\">\n   C91 Лимфоидный лейкоз [лимфолейкоз]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1437.htm\">\n   C92 Миелоидный лейкоз [миелолейкоз]\n  </a>\n </li>\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mkb_index_id_1460.htm\">\n   C95 Лейкоз неуточненного клеточного типа\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 флакон с порошком для приготовления инъекционного раствора содержит циклофосфамида 200 мг.\n</p>\n<div id=\"farmakologicheskoe-dejstvie\">\n</div>\n",
+    "Фармакологическое действие": "<span class=\"pharm_action\">\n <span>\n  Фармакологическое действие\n </span>\n — иммунодепрессивное, цитостатическое, противоопухолевое\n</span>\n<p class=\"OPIS_POLE\">\n В клетках опухоли под действием фосфатаз распадается с образованием бис-(бетахлорэтил)-амина, обладающего алкилирующим действием, нарушает синтез\n <span class=\"sokr\" title=\"дезоксирибонуклеиновая кислота\">\n  ДНК\n </span>\n ,  митотическое деление клеток, вызывая их гибель.\n</p>\n<div id=\"pokazaniya-preparata-ciklofosfan\">\n</div>\n",
+    "Показания препарата Циклофосфан": "<p class=\"OPIS_POLE\">\n Мелкоклеточный рак легкого, рак яичников, рак молочной железы, ретикулосаркома, хронический лимфолейкоз, острый лимфобластный лейкоз, множественная миелома, опухоли Вильмса, костная ретикулосаркома, саркома Юинга, ангиосаркома.\n</p>\n<div id=\"protivopokazaniya\">\n</div>\n",
+    "Противопоказания": "<p class=\"OPIS_POLE\">\n Кахексия, тяжелая анемия, лейкопения, тромбоцитопения, сердечная недостаточность, печеночная и/или почечная недостаточность.\n</p>\n<div id=\"pobochnye-dejstviya\">\n</div>\n",
+    "Побочные действия": "<p class=\"OPIS_POLE\">\n Тошнота, рвота, головная боль, алопеция, лейкопения, тромбоцитопения, боли в мышцах и костях, токсический гепатит, цистит.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n В/в,\n <span class=\"sokr\" title=\"внутримышечно\">\n  в/м\n </span>\n ,  внутриплеврально и внутрибрюшинно — по 200 мг ежедневно, по 400 мг — через день или по 600 мг — через 2 дня. Курсовая доза — 8–14 г. Поддерживающие дозы — по 100–200 мг 2 раза в неделю.\n</p>\n<div id=\"mery-predostorozhnosti\">\n</div>\n",
+    "Меры предосторожности": "<p class=\"OPIS_POLE\">\n В процессе лечения необходим систематический контроль клеточного состава периферической крови.\n</p>\n<div id=\"usloviya-xraneniya-preparata-ciklofosfan\">\n</div>\n",
+    "Условия хранения препарата Циклофосфан": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-ciklofosfan\">\n</div>\n",
+    "Срок годности препарата Циклофосфан": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        1240,
+        1437,
+        1430,
+        1394,
+        1157,
+        1208,
+        1198,
+        1428,
+        1429,
+        1110,
+        1460,
+        1271,
+        1129
+    ],
+    "id": 5447
+}

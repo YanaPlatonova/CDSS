@@ -1,0 +1,21 @@
+{
+    "Название": "Троксерутин ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"34836\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_273.htm\">\n Троксерутин* (Troxerutin*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_2747.htm\">\n C05CA04 Троксерутин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_213.htm\">\n   Ангиопротекторы и корректоры микроциркуляции\n  </a>\n </li>\n</ul>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Троксерутин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40507\">\n  ЛП-004054 от 2016-12-29\n </a>\n <br/>\n Троксерутин - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/40109\">\n  ЛП-003656 от 2017-07-27\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        4061,
+        4063,
+        9097,
+        4039,
+        3360,
+        8156,
+        4036,
+        4034,
+        4035,
+        4019
+    ],
+    "id": 34836
+}

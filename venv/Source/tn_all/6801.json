@@ -1,0 +1,27 @@
+{
+    "Название": "Дротаверина гидрохлорид ",
+    "_before": "<div class=\"drug__date\">\n Последняя актуализация описания производителем\n <b>\n  31.07.2003\n </b>\n</div>\n<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"6801\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_1030.htm\">\n Дротаверин* (Drotaverine*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"atx\">\n</div>\n",
+    "АТХ": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/atc_index_id_80.htm\">\n A03AD02 Дротаверин\n</a>\n<div id=\"farmakologicheskaya-gruppa\">\n</div>\n",
+    "Фармакологическая группа": "<ul class=\"drug__list\">\n <li class=\"drug__item drug__item--tall\">\n  <a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/fg_index_id_243.htm\">\n   Спазмолитики миотропные\n  </a>\n </li>\n</ul>\n<div id=\"sostav-i-forma-vypuska\">\n</div>\n",
+    "Состав и форма выпуска": "<p class=\"OPIS_POLE\">\n 1 таблетка содержит дротаверина гидрохлорида 40 мг, а также вспомогательные вещества (сахар молочный, крахмал картофельный, поливинилпирролидон низкомолекулярный, кросповидон, тальк, магния стеарат); в контурной ячейковой упаковке 10 или 20 шт., в картонной пачке 1, 2, 3, 4 или 5 упаковок.\n</p>\n<div id=\"sposob-primeneniya-i-dozy\">\n</div>\n",
+    "Способ применения и дозы": "<p class=\"OPIS_POLE\">\n Внутрь,\n <i>\n  взрослым:\n </i>\n по 40–80 мг 3 раза в сутки.\n <i>\n  Детям:\n </i>\n до 6 лет — по 10–20 мг 1–2 раза в сутки, 6–12 лет — по 20 мг 1–2 раза в сутки.\n</p>\n<div id=\"usloviya-xraneniya-preparata-drotaverina-gidroxlorid\">\n</div>\n",
+    "Условия хранения препарата Дротаверина гидрохлорид": "<p class=\"OPIS_POLE\">\n <i>\n  Хранить в недоступном для детей месте.\n </i>\n</p>\n<div id=\"srok-godnosti-preparata-drotaverina-gidroxlorid\">\n</div>\n",
+    "Срок годности препарата Дротаверина гидрохлорид": "<p>\n Не применять по истечении срока годности, указанного на упаковке.\n</p>\n<div>\n</div>\n",
+    "id_disease": [
+        2909,
+        4565,
+        6595,
+        4793,
+        6594,
+        6421,
+        4541,
+        4542,
+        3984,
+        6321,
+        5993,
+        7983,
+        5979
+    ],
+    "id": 6801
+}

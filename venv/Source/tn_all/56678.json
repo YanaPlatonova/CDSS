@@ -1,0 +1,16 @@
+{
+    "Название": "Акномид Д® ",
+    "_before": "<div id=\"beforefv\">\n</div>\n<div class=\"drug__item drug__item--closed\" id=\"packing-header\">\n Фильтруемый  список\n</div>\n<div class=\"tw\">\n <div id=\"preplist_aurora\" style=\"display: none;\" tnid=\"56678\">\n </div>\n</div>\n<div id=\"dejstvuyushhee-veshhestvo\">\n</div>\n",
+    "Действующее вещество:": "<a class=\"drug__link drug__link--article\" href=\"//www.rlsnet.ru/mnn_index_id_2.htm\">\n Дактиномицин* (Dactinomycin*)\n</a>\n<div class=\"link-pharm-block\">\n</div>\n<div id=\"instrukciya-po-medicinskomu-primeneniyu\">\n</div>\n",
+    "Инструкция по медицинскому применению": "<div class=\"instructiontext\">\n Акномид Д\n <sup>\n  ®\n </sup>\n - инструкция по медицинскому применению - РУ №\n <a href=\"/regdoc/38493\">\n  ЛП-002036 от 2018-06-21\n </a>\n <br/>\n</div>\n<div>\n</div>\n",
+    "id_disease": [
+        1250,
+        1137,
+        1240,
+        1379,
+        1198,
+        1259,
+        1271
+    ],
+    "id": 56678
+}
